@@ -9,8 +9,8 @@ Being able to identify the predominant human fluxes and mobility patterns in the
  
 ### Research questions: 
 Can we detect particular mobility patterns (fluxes) among countries?
--   	Do people tend to mostly travel within their country, do they go abroad? how often? and to where? 
--   	What is the percentage of users traveling to a specific country?Are there privileged travelling destinations ?
+-    Do people tend to mostly travel within their country, do they go abroad? how often? and to where? 
+-    What is the percentage of users traveling to a specific country?Are there privileged travelling destinations ?
 
 ### Proposed Dataset:
 The dataset which will be used in order to carry out the investigation are: 
@@ -24,7 +24,7 @@ As a first step, it will be necessary to associate to each latitude and longitud
 Secondly, it will be necessary to carry out a preliminary  study on the distribution of the users’ houses in the world (users’ houses already identified in P2) in order to understand which are the most represented countries, and whether the analysis should be focused only on a narrower set of countries. Specifically, this could be done by identifying which percentage of the country’s population is represented by the check-in dataset and potentially discard the poorly represented regions (country_info dataset for population). 
  
 For each user it will be necessary to create a list of visited countries, excluding the one of the home location. 
-Then, regating these lists by country lead
+Then, the aggregation of these lists by country of origin gives the total fluxes between countries.
 
 ### Timeline :
 
