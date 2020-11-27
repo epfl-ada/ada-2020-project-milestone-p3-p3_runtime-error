@@ -29,26 +29,26 @@ Proceed by analysing the data trying to answer the specific research questions.
 
 ### Timeline :
 
-Week 1 :
+-    Week 1 :
 distribution of homes (=> definition of the boundaries of our study)
 calculation of the ratio of people who did not travel
 
-Week 2 :
+-    Week 2 :
 list of destinations for each user
 migration data calculation 
 
-Week 3 : 
+-    Week 3 : 
 Report/data story
 notebook 
 video 
 
 ### Organization within the team :
 
-Week 1 :
+-    Week 1 :
 Distribution of homes (1 pax)
 Ratio of people who didn’t travel (1 pax)
 Visualization (1 pax)
 
-Week 2 :
+-    Week 2 :
 Destinations and migration data computation (1 pax)
 Visualization and interpretation (2 pax)
