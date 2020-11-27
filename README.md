@@ -14,9 +14,9 @@ Can we detect particular mobility patterns (fluxes) among countries?
 
 ### Proposed Dataset:
 The dataset which will be used in order to carry out the investigation are: 
-Gawalla check-ins: users’ check-ins to the Gawalla social network (Friendship and mobility article) 
-Brightkite check-ins : users’ check-ins to the Brightkite social network (Friendship and mobility article) 
-Country dataset: country name, population, area and literacy from tutorial 1 (happiness) (I have not found a link)
+-    Gowalla check-ins: users’ check-ins to the Gawalla social network (Friendship and mobility article) 
+-    Brightkite check-ins : users’ check-ins to the Brightkite social network (Friendship and mobility article) 
+-    Country dataset: country name, population, area and literacy from tutorial 1 (happiness) (I have not found a link)
  
 ### Method:
 As a first step, it will be necessary to associate to each latitude and longitude coordinates of check-ins the specific geographical location (continent, country, city..). This could be carried out by the use of the GeoPy library. 
@@ -24,8 +24,7 @@ As a first step, it will be necessary to associate to each latitude and longitud
 Secondly, it will be necessary to carry out a preliminary  study on the distribution of the users’ houses in the world (users’ houses already identified in P2) in order to understand which are the most represented countries, and whether the analysis should be focused only on a narrower set of countries. Specifically, this could be done by identifying which percentage of the country’s population is represented by the check-in dataset and potentially discard the poorly represented regions (country_info dataset for population). 
  
 For each user it will be necessary to create a list of visited countries, excluding the one of the home location. 
-
-Proceed by analysing the data trying to answer the specific research questions. 
+Then, regating these lists by country lead
 
 ### Timeline :
 
