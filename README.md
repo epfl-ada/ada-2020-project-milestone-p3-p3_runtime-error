@@ -32,9 +32,11 @@ Proceed by analysing the data trying to answer the specific research questions.
 Week 1 :
 distribution of homes (=> definition of the boundaries of our study)
 calculation of the ratio of people who did not travel
+
 Week 2 :
 list of destinations for each user
 migration data calculation 
+
 Week 3 : 
 Report/data story
 notebook 
