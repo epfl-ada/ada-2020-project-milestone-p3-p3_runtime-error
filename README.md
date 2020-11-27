@@ -44,10 +44,11 @@ video
 ### Organization within the team :
 
 -    Week 1 :
-Distribution of homes (1 pax)
-Ratio of people who didn’t travel (1 pax)
-Visualization (1 pax)
+
+     -    Distribution of homes (1 pax)
+     -    Ratio of people who didn’t travel (1 pax)
+     -    Visualization (1 pax)
 
 -    Week 2 :
-Destinations and migration data computation (1 pax)
-Visualization and interpretation (2 pax)
+     -    Destinations and migration data computation (1 pax)
+     -    Visualization and interpretation (2 pax)
