@@ -1,0 +1,2368 @@
+country_home,country_checkin,user
+algeria,france,1
+angola,portugal,1
+argentina,benin,2
+argentina,brazil,1
+argentina,czech republic,3
+argentina,ecuador,1
+argentina,germany,1
+argentina,hungary,2
+argentina,italy,1
+argentina,mexico,1
+argentina,netherlands,1
+argentina,peru,1
+argentina,slovakia,1
+argentina,spain,1
+argentina,sweden,2
+argentina,switzerland,1
+argentina,united kingdom,1
+argentina,united states,8
+argentina,uruguay,1
+argentina,"venezuela, bolivarian republic of",1
+australia,argentina,2
+australia,austria,2
+australia,belgium,4
+australia,belize,1
+australia,brazil,2
+australia,bulgaria,2
+australia,cambodia,3
+australia,canada,19
+australia,china,4
+australia,christmas island,1
+australia,colombia,2
+australia,"congo, the democratic republic of the",1
+australia,cook islands,1
+australia,cuba,1
+australia,czech republic,2
+australia,denmark,4
+australia,egypt,2
+australia,estonia,1
+australia,fiji,2
+australia,finland,2
+australia,france,29
+australia,germany,14
+australia,greece,2
+australia,holy see (vatican city state),1
+australia,hong kong,9
+australia,india,5
+australia,indonesia,17
+australia,ireland,7
+australia,isle of man,1
+australia,israel,1
+australia,italy,9
+australia,jamaica,1
+australia,japan,16
+australia,"korea, republic of",6
+australia,latvia,1
+australia,malaysia,23
+australia,mauritius,1
+australia,mexico,3
+australia,monaco,1
+australia,netherlands,7
+australia,new zealand,31
+australia,norfolk island,1
+australia,peru,1
+australia,philippines,4
+australia,poland,2
+australia,puerto rico,1
+australia,russian federation,4
+australia,"saint helena, ascension and tristan da cunha",1
+australia,seychelles,1
+australia,singapore,18
+australia,slovakia,1
+australia,south africa,2
+australia,spain,4
+australia,sri lanka,3
+australia,sweden,1
+australia,switzerland,2
+australia,"taiwan, province of china",1
+australia,thailand,17
+australia,turkey,1
+australia,united arab emirates,6
+australia,united kingdom,82
+australia,united states,140
+australia,vanuatu,2
+australia,viet nam,3
+australia,yemen,1
+australia,zimbabwe,1
+austria,argentina,2
+austria,australia,1
+austria,"bolivia, plurinational state of",1
+austria,brazil,1
+austria,canada,1
+austria,china,1
+austria,croatia,1
+austria,denmark,1
+austria,finland,1
+austria,france,6
+austria,germany,29
+austria,greece,1
+austria,holy see (vatican city state),2
+austria,hungary,6
+austria,ireland,4
+austria,italy,5
+austria,japan,3
+austria,jersey,1
+austria,"korea, republic of",1
+austria,latvia,1
+austria,lebanon,1
+austria,liberia,1
+austria,liechtenstein,1
+austria,"macedonia, the former yugoslav republic of",1
+austria,mexico,2
+austria,myanmar,1
+austria,netherlands,5
+austria,pakistan,1
+austria,panama,1
+austria,poland,3
+austria,portugal,1
+austria,romania,2
+austria,slovenia,4
+austria,south africa,1
+austria,spain,5
+austria,switzerland,3
+austria,"taiwan, province of china",3
+austria,turkey,1
+austria,ukraine,2
+austria,united arab emirates,1
+austria,united kingdom,18
+austria,united states,21
+austria,uruguay,1
+azerbaijan,turkey,1
+bahamas,denmark,1
+bahamas,france,1
+bahamas,iceland,1
+bahamas,ireland,1
+bahamas,italy,2
+bahamas,norway,1
+bahamas,spain,1
+bahamas,united kingdom,4
+bahamas,united states,3
+bahrain,indonesia,1
+bangladesh,japan,1
+barbados,bahamas,1
+barbados,united states,1
+belgium,australia,1
+belgium,austria,4
+belgium,brazil,1
+belgium,canada,1
+belgium,chile,1
+belgium,china,1
+belgium,czech republic,2
+belgium,denmark,3
+belgium,egypt,1
+belgium,estonia,1
+belgium,france,19
+belgium,french polynesia,1
+belgium,germany,14
+belgium,iceland,1
+belgium,india,1
+belgium,ireland,2
+belgium,isle of man,1
+belgium,israel,1
+belgium,italy,4
+belgium,japan,2
+belgium,kiribati,1
+belgium,luxembourg,2
+belgium,netherlands,7
+belgium,norway,1
+belgium,poland,4
+belgium,portugal,3
+belgium,russian federation,1
+belgium,spain,9
+belgium,sweden,4
+belgium,switzerland,6
+belgium,turkey,4
+belgium,united kingdom,12
+belgium,united states,13
+belgium,vanuatu,1
+bhutan,china,1
+"bolivia, plurinational state of",el salvador,1
+"bolivia, plurinational state of",ghana,1
+"bolivia, plurinational state of",greece,1
+botswana,united kingdom,1
+brazil,argentina,6
+brazil,australia,3
+brazil,bosnia and herzegovina,1
+brazil,canada,1
+brazil,cayman islands,1
+brazil,chile,1
+brazil,china,2
+brazil,cook islands,1
+brazil,czech republic,1
+brazil,denmark,1
+brazil,egypt,2
+brazil,fiji,2
+brazil,france,3
+brazil,hungary,1
+brazil,ireland,1
+brazil,japan,1
+brazil,mexico,1
+brazil,netherlands,2
+brazil,portugal,1
+brazil,serbia,1
+brazil,spain,3
+brazil,"taiwan, province of china",1
+brazil,tunisia,4
+brazil,turkmenistan,1
+brazil,united arab emirates,2
+brazil,united kingdom,6
+brazil,united states,20
+brunei darussalam,australia,1
+brunei darussalam,canada,1
+brunei darussalam,japan,1
+brunei darussalam,malaysia,2
+brunei darussalam,netherlands,1
+brunei darussalam,singapore,4
+brunei darussalam,thailand,4
+brunei darussalam,united arab emirates,1
+brunei darussalam,united kingdom,2
+brunei darussalam,united states,7
+bulgaria,finland,1
+bulgaria,germany,3
+bulgaria,russian federation,1
+bulgaria,switzerland,1
+bulgaria,ukraine,1
+bulgaria,united kingdom,1
+cambodia,finland,1
+cambodia,hong kong,1
+cambodia,lao people's democratic republic,1
+cambodia,macao,1
+cambodia,malaysia,1
+cambodia,singapore,2
+cambodia,"taiwan, province of china",1
+cambodia,thailand,1
+cambodia,viet nam,1
+canada,argentina,3
+canada,australia,7
+canada,austria,2
+canada,bahamas,2
+canada,belgium,3
+canada,bermuda,2
+canada,brazil,1
+canada,central african republic,1
+canada,chile,4
+canada,china,6
+canada,colombia,2
+canada,cook islands,3
+canada,costa rica,2
+canada,cuba,1
+canada,czech republic,1
+canada,côte d'ivoire,1
+canada,denmark,5
+canada,djibouti,1
+canada,dominican republic,1
+canada,estonia,1
+canada,finland,4
+canada,france,16
+canada,germany,19
+canada,greece,3
+canada,guyana,1
+canada,haiti,1
+canada,holy see (vatican city state),8
+canada,honduras,1
+canada,hong kong,5
+canada,hungary,1
+canada,india,5
+canada,indonesia,2
+canada,"iran, islamic republic of",1
+canada,ireland,5
+canada,isle of man,1
+canada,israel,5
+canada,italy,15
+canada,jamaica,2
+canada,japan,10
+canada,"korea, republic of",4
+canada,latvia,1
+canada,lebanon,1
+canada,lithuania,1
+canada,luxembourg,1
+canada,macao,1
+canada,malaysia,2
+canada,mali,1
+canada,mexico,11
+canada,monaco,1
+canada,myanmar,1
+canada,netherlands,3
+canada,new zealand,4
+canada,norway,2
+canada,"palestine, state of",3
+canada,panama,2
+canada,philippines,1
+canada,poland,1
+canada,portugal,1
+canada,puerto rico,2
+canada,russian federation,2
+canada,singapore,3
+canada,spain,5
+canada,sri lanka,1
+canada,sudan,1
+canada,sweden,3
+canada,switzerland,5
+canada,"taiwan, province of china",5
+canada,thailand,6
+canada,trinidad and tobago,1
+canada,turkey,3
+canada,uganda,1
+canada,united arab emirates,1
+canada,united kingdom,43
+canada,united states,250
+canada,viet nam,1
+chile,argentina,3
+chile,australia,1
+chile,brazil,5
+chile,canada,1
+chile,holy see (vatican city state),1
+chile,iraq,1
+chile,italy,1
+chile,mexico,4
+chile,morocco,1
+chile,south africa,2
+chile,spain,2
+chile,united states,12
+chile,uruguay,1
+china,australia,1
+china,austria,2
+china,bangladesh,3
+china,bhutan,2
+china,brazil,2
+china,cambodia,3
+china,canada,1
+china,czech republic,2
+china,denmark,1
+china,egypt,1
+china,finland,1
+china,france,6
+china,germany,2
+china,greece,1
+china,hong kong,9
+china,hungary,1
+china,india,1
+china,italy,1
+china,japan,20
+china,"korea, republic of",11
+china,lao people's democratic republic,1
+china,malaysia,6
+china,maldives,1
+china,monaco,1
+china,mongolia,2
+china,morocco,1
+china,nepal,1
+china,new zealand,1
+china,norway,2
+china,poland,3
+china,singapore,13
+china,sweden,1
+china,switzerland,1
+china,"taiwan, province of china",8
+china,thailand,2
+china,tunisia,1
+china,united arab emirates,1
+china,united kingdom,4
+china,united states,46
+china,viet nam,2
+colombia,spain,2
+colombia,united states,1
+cook islands,canada,1
+cook islands,indonesia,1
+cook islands,united states,2
+costa rica,argentina,1
+costa rica,canada,1
+costa rica,colombia,1
+croatia,australia,2
+croatia,austria,1
+croatia,belgium,1
+croatia,czech republic,1
+croatia,dominican republic,1
+croatia,france,2
+croatia,germany,4
+croatia,greece,1
+croatia,italy,1
+croatia,serbia,1
+croatia,singapore,1
+croatia,slovenia,1
+croatia,united kingdom,3
+cuba,canada,1
+cyprus,greece,1
+cyprus,ireland,1
+cyprus,turkey,1
+cyprus,united states,1
+czech republic,austria,1
+czech republic,brazil,1
+czech republic,france,1
+czech republic,germany,1
+czech republic,indonesia,1
+czech republic,portugal,1
+czech republic,russian federation,1
+czech republic,slovakia,2
+czech republic,spain,1
+czech republic,sweden,1
+czech republic,"taiwan, province of china",1
+czech republic,united kingdom,1
+czech republic,united states,3
+denmark,australia,3
+denmark,belgium,1
+denmark,bulgaria,1
+denmark,canada,1
+denmark,china,1
+denmark,cook islands,1
+denmark,faroe islands,1
+denmark,finland,2
+denmark,france,2
+denmark,germany,12
+denmark,hong kong,1
+denmark,indonesia,1
+denmark,italy,9
+denmark,japan,1
+denmark,malaysia,1
+denmark,netherlands,4
+denmark,norway,3
+denmark,pakistan,2
+denmark,south georgia and the south sandwich islands,1
+denmark,spain,6
+denmark,sweden,11
+denmark,tonga,1
+denmark,united arab emirates,1
+denmark,united kingdom,10
+denmark,united states,16
+ecuador,brazil,2
+ecuador,chile,1
+ecuador,guatemala,1
+ecuador,panama,2
+ecuador,peru,3
+ecuador,south africa,1
+ecuador,united states,4
+egypt,ireland,1
+egypt,kuwait,1
+egypt,united kingdom,1
+egypt,united states,1
+el salvador,guatemala,1
+estonia,albania,3
+estonia,armenia,2
+estonia,austria,6
+estonia,azerbaijan,2
+estonia,belgium,1
+estonia,bosnia and herzegovina,2
+estonia,cape verde,1
+estonia,croatia,3
+estonia,czech republic,3
+estonia,denmark,2
+estonia,finland,3
+estonia,france,3
+estonia,georgia,3
+estonia,germany,5
+estonia,holy see (vatican city state),5
+estonia,hungary,1
+estonia,isle of man,1
+estonia,italy,8
+estonia,latvia,5
+estonia,lithuania,3
+estonia,luxembourg,2
+estonia,"macedonia, the former yugoslav republic of",2
+estonia,montenegro,1
+estonia,norway,1
+estonia,poland,6
+estonia,portugal,1
+estonia,russian federation,1
+estonia,serbia,3
+estonia,slovakia,2
+estonia,slovenia,1
+estonia,spain,4
+estonia,sweden,6
+estonia,switzerland,1
+estonia,united kingdom,4
+estonia,united states,6
+faroe islands,denmark,1
+finland,australia,3
+finland,austria,5
+finland,bahamas,1
+finland,belgium,4
+finland,brazil,1
+finland,canada,3
+finland,china,1
+finland,croatia,2
+finland,cuba,1
+finland,curaçao,1
+finland,czech republic,1
+finland,denmark,5
+finland,estonia,9
+finland,france,12
+finland,germany,18
+finland,greece,6
+finland,holy see (vatican city state),3
+finland,hong kong,3
+finland,hungary,2
+finland,iceland,2
+finland,india,3
+finland,ireland,2
+finland,italy,11
+finland,japan,3
+finland,kenya,1
+finland,latvia,5
+finland,macao,1
+finland,malaysia,1
+finland,morocco,1
+finland,mozambique,1
+finland,netherlands,6
+finland,new zealand,1
+finland,norway,3
+finland,philippines,1
+finland,poland,3
+finland,portugal,3
+finland,romania,1
+finland,russian federation,2
+finland,saudi arabia,1
+finland,singapore,1
+finland,slovakia,3
+finland,slovenia,1
+finland,south africa,1
+finland,south georgia and the south sandwich islands,1
+finland,spain,15
+finland,sweden,18
+finland,thailand,3
+finland,tunisia,1
+finland,turkey,1
+finland,uganda,1
+finland,ukraine,1
+finland,united kingdom,38
+finland,united states,39
+finland,zambia,1
+finland,åland islands,6
+france,algeria,3
+france,andorra,1
+france,argentina,2
+france,armenia,1
+france,australia,5
+france,austria,4
+france,belarus,1
+france,belgium,23
+france,bosnia and herzegovina,1
+france,brazil,6
+france,cambodia,1
+france,canada,11
+france,chile,1
+france,china,3
+france,colombia,1
+france,cook islands,1
+france,costa rica,2
+france,croatia,1
+france,czech republic,4
+france,côte d'ivoire,2
+france,denmark,1
+france,egypt,1
+france,estonia,1
+france,finland,3
+france,french guiana,1
+france,french polynesia,1
+france,germany,29
+france,ghana,1
+france,gibraltar,1
+france,holy see (vatican city state),3
+france,hong kong,11
+france,hungary,6
+france,india,3
+france,indonesia,1
+france,ireland,7
+france,israel,2
+france,italy,26
+france,jamaica,1
+france,japan,12
+france,"korea, republic of",4
+france,lao people's democratic republic,2
+france,latvia,1
+france,lebanon,2
+france,luxembourg,37
+france,macao,4
+france,malaysia,16
+france,malta,2
+france,martinique,3
+france,mexico,3
+france,monaco,1
+france,morocco,9
+france,netherlands,13
+france,new zealand,1
+france,norway,4
+france,poland,1
+france,portugal,9
+france,qatar,1
+france,romania,5
+france,russian federation,4
+france,senegal,2
+france,singapore,11
+france,slovakia,2
+france,slovenia,1
+france,south africa,2
+france,spain,33
+france,sweden,7
+france,switzerland,16
+france,thailand,7
+france,tunisia,2
+france,turkey,1
+france,united arab emirates,3
+france,united kingdom,52
+france,united states,52
+france,viet nam,2
+germany,afghanistan,1
+germany,antigua and barbuda,1
+germany,argentina,4
+germany,australia,6
+germany,austria,65
+germany,azerbaijan,1
+germany,bahamas,1
+germany,belarus,1
+germany,belgium,9
+germany,belize,1
+germany,"bolivia, plurinational state of",1
+germany,brazil,1
+germany,bulgaria,1
+germany,canada,15
+germany,chile,4
+germany,china,3
+germany,comoros,1
+germany,"congo, the democratic republic of the",1
+germany,croatia,7
+germany,cuba,1
+germany,czech republic,15
+germany,denmark,23
+germany,egypt,4
+germany,estonia,2
+germany,finland,14
+germany,france,61
+germany,georgia,7
+germany,greece,8
+germany,holy see (vatican city state),9
+germany,honduras,1
+germany,hong kong,3
+germany,hungary,7
+germany,iceland,5
+germany,india,9
+germany,indonesia,3
+germany,ireland,14
+germany,israel,2
+germany,italy,61
+germany,jamaica,1
+germany,japan,9
+germany,jersey,1
+germany,jordan,1
+germany,"korea, democratic people's republic of",1
+germany,"korea, republic of",2
+germany,latvia,1
+germany,liechtenstein,4
+germany,lithuania,2
+germany,luxembourg,4
+germany,"macedonia, the former yugoslav republic of",1
+germany,madagascar,1
+germany,malaysia,5
+germany,maldives,1
+germany,mali,1
+germany,malta,1
+germany,mauritius,2
+germany,mexico,2
+germany,"moldova, republic of",1
+germany,montenegro,1
+germany,nepal,1
+germany,netherlands,32
+germany,new zealand,4
+germany,norway,11
+germany,"palestine, state of",1
+germany,peru,2
+germany,philippines,1
+germany,poland,11
+germany,portugal,6
+germany,russian federation,9
+germany,saudi arabia,2
+germany,serbia,4
+germany,singapore,5
+germany,slovakia,2
+germany,somalia,1
+germany,south africa,5
+germany,spain,45
+germany,sudan,1
+germany,sweden,13
+germany,switzerland,54
+germany,"taiwan, province of china",1
+germany,"tanzania, united republic of",1
+germany,thailand,6
+germany,turkey,15
+germany,turks and caicos islands,1
+germany,ukraine,1
+germany,united arab emirates,7
+germany,united kingdom,76
+germany,united states,144
+germany,viet nam,1
+germany,"virgin islands, u.s.",1
+ghana,austria,1
+ghana,china,1
+ghana,france,1
+ghana,mozambique,1
+ghana,thailand,1
+ghana,united kingdom,1
+ghana,united states,2
+greece,austria,1
+greece,belgium,3
+greece,cyprus,1
+greece,france,1
+greece,germany,7
+greece,holy see (vatican city state),1
+greece,hong kong,1
+greece,india,1
+greece,ireland,1
+greece,italy,6
+greece,japan,1
+greece,lebanon,1
+greece,morocco,1
+greece,netherlands,2
+greece,new zealand,1
+greece,norway,1
+greece,south africa,1
+greece,spain,2
+greece,sweden,1
+greece,switzerland,1
+greece,thailand,1
+greece,united arab emirates,1
+greece,united kingdom,5
+greece,united states,6
+greenland,argentina,1
+greenland,chad,1
+greenland,italy,1
+greenland,kiribati,1
+guam,japan,2
+guam,philippines,1
+guam,united states,2
+guatemala,french guiana,1
+guatemala,mexico,2
+guatemala,puerto rico,1
+guinea,portugal,1
+haiti,france,1
+holy see (vatican city state),austria,1
+holy see (vatican city state),france,3
+holy see (vatican city state),germany,3
+holy see (vatican city state),israel,1
+holy see (vatican city state),italy,13
+holy see (vatican city state),netherlands,1
+holy see (vatican city state),portugal,1
+holy see (vatican city state),saint lucia,1
+holy see (vatican city state),singapore,1
+holy see (vatican city state),united kingdom,3
+holy see (vatican city state),united states,1
+honduras,japan,1
+honduras,netherlands,1
+honduras,"taiwan, province of china",2
+hong kong,australia,3
+hong kong,canada,2
+hong kong,china,3
+hong kong,christmas island,1
+hong kong,germany,1
+hong kong,iceland,1
+hong kong,india,2
+hong kong,indonesia,1
+hong kong,"korea, republic of",1
+hong kong,malaysia,6
+hong kong,morocco,1
+hong kong,netherlands,1
+hong kong,philippines,2
+hong kong,singapore,7
+hong kong,spain,1
+hong kong,"taiwan, province of china",7
+hong kong,thailand,2
+hong kong,united kingdom,2
+hong kong,united states,7
+hungary,austria,5
+hungary,belgium,1
+hungary,bulgaria,1
+hungary,czech republic,1
+hungary,egypt,5
+hungary,france,1
+hungary,germany,2
+hungary,"korea, republic of",1
+hungary,united kingdom,4
+iceland,austria,1
+iceland,germany,2
+iceland,puerto rico,1
+iceland,sweden,2
+iceland,united states,1
+india,afghanistan,1
+india,algeria,2
+india,argentina,1
+india,armenia,1
+india,australia,2
+india,austria,1
+india,belarus,1
+india,brazil,1
+india,canada,3
+india,china,3
+india,egypt,4
+india,ethiopia,2
+india,france,2
+india,honduras,1
+india,hong kong,2
+india,indonesia,4
+india,"iran, islamic republic of",2
+india,isle of man,1
+india,japan,4
+india,kazakhstan,1
+india,kenya,1
+india,"korea, republic of",1
+india,libya,1
+india,malaysia,2
+india,maldives,1
+india,malta,1
+india,mexico,1
+india,mongolia,1
+india,morocco,1
+india,nepal,2
+india,new zealand,2
+india,nigeria,1
+india,norway,1
+india,pakistan,5
+india,paraguay,1
+india,portugal,1
+india,romania,1
+india,russian federation,3
+india,saudi arabia,1
+india,senegal,1
+india,somalia,2
+india,south africa,1
+india,sweden,2
+india,switzerland,2
+india,"taiwan, province of china",3
+india,thailand,2
+india,tunisia,3
+india,united arab emirates,1
+india,united kingdom,10
+india,united states,26
+india,uruguay,1
+india,uzbekistan,2
+india,viet nam,1
+india,yemen,1
+indonesia,algeria,1
+indonesia,australia,5
+indonesia,austria,1
+indonesia,belgium,1
+indonesia,brazil,1
+indonesia,bulgaria,1
+indonesia,christmas island,2
+indonesia,cook islands,1
+indonesia,czech republic,1
+indonesia,france,2
+indonesia,germany,2
+indonesia,hong kong,2
+indonesia,hungary,2
+indonesia,ireland,1
+indonesia,italy,5
+indonesia,japan,5
+indonesia,"korea, republic of",1
+indonesia,macao,1
+indonesia,malaysia,14
+indonesia,marshall islands,1
+indonesia,"moldova, republic of",1
+indonesia,myanmar,1
+indonesia,netherlands,1
+indonesia,philippines,1
+indonesia,portugal,1
+indonesia,romania,6
+indonesia,singapore,9
+indonesia,spain,1
+indonesia,thailand,4
+indonesia,united arab emirates,1
+indonesia,united kingdom,3
+indonesia,united states,7
+"iran, islamic republic of",armenia,1
+"iran, islamic republic of",ghana,1
+"iran, islamic republic of",italy,1
+"iran, islamic republic of",united arab emirates,1
+"iran, islamic republic of",united states,1
+iraq,"iran, islamic republic of",1
+iraq,spain,1
+ireland,argentina,1
+ireland,bosnia and herzegovina,1
+ireland,canada,1
+ireland,denmark,2
+ireland,france,2
+ireland,germany,3
+ireland,greece,1
+ireland,hong kong,1
+ireland,hungary,2
+ireland,iceland,1
+ireland,india,1
+ireland,italy,1
+ireland,mexico,1
+ireland,portugal,1
+ireland,romania,3
+ireland,slovenia,1
+ireland,spain,2
+ireland,sweden,1
+ireland,switzerland,1
+ireland,turkey,1
+ireland,united kingdom,12
+ireland,united states,3
+isle of man,canada,1
+isle of man,greenland,1
+isle of man,india,2
+isle of man,japan,1
+isle of man,malaysia,1
+isle of man,netherlands,1
+isle of man,united kingdom,3
+isle of man,united states,4
+israel,netherlands,1
+israel,spain,1
+israel,turkey,1
+israel,united kingdom,2
+israel,united states,2
+italy,argentina,1
+italy,australia,5
+italy,austria,10
+italy,bahrain,1
+italy,belgium,19
+italy,bermuda,1
+italy,bosnia and herzegovina,1
+italy,brazil,3
+italy,bulgaria,1
+italy,canada,3
+italy,cape verde,1
+italy,chile,1
+italy,china,4
+italy,colombia,2
+italy,cook islands,1
+italy,croatia,4
+italy,cyprus,1
+italy,czech republic,1
+italy,denmark,3
+italy,egypt,1
+italy,finland,3
+italy,france,49
+italy,germany,32
+italy,greece,5
+italy,guatemala,1
+italy,holy see (vatican city state),43
+italy,hong kong,3
+italy,iceland,1
+italy,india,6
+italy,indonesia,1
+italy,"iran, islamic republic of",1
+italy,ireland,8
+italy,isle of man,14
+italy,israel,1
+italy,japan,3
+italy,lao people's democratic republic,1
+italy,luxembourg,1
+italy,malta,2
+italy,mauritius,1
+italy,mexico,2
+italy,morocco,3
+italy,netherlands,22
+italy,norway,3
+italy,poland,5
+italy,portugal,7
+italy,romania,3
+italy,serbia,1
+italy,singapore,3
+italy,slovakia,3
+italy,slovenia,3
+italy,south africa,1
+italy,spain,27
+italy,sudan,1
+italy,sweden,4
+italy,switzerland,16
+italy,turkey,8
+italy,united arab emirates,5
+italy,united kingdom,60
+italy,united states,36
+italy,uruguay,1
+italy,"venezuela, bolivarian republic of",1
+jamaica,canada,1
+jamaica,cayman islands,1
+jamaica,finland,2
+jamaica,isle of man,1
+jamaica,"korea, republic of",1
+jamaica,libya,1
+jamaica,poland,1
+jamaica,united states,1
+japan,afghanistan,1
+japan,angola,1
+japan,antarctica,2
+japan,argentina,9
+japan,australia,38
+japan,austria,14
+japan,azerbaijan,1
+japan,bahrain,4
+japan,barbados,1
+japan,belgium,12
+japan,bhutan,1
+japan,"bolivia, plurinational state of",1
+japan,brazil,11
+japan,bulgaria,3
+japan,cambodia,2
+japan,canada,34
+japan,chad,1
+japan,chile,3
+japan,china,88
+japan,christmas island,4
+japan,colombia,2
+japan,cook islands,1
+japan,costa rica,1
+japan,croatia,1
+japan,cyprus,7
+japan,czech republic,1
+japan,denmark,17
+japan,egypt,2
+japan,estonia,5
+japan,finland,10
+japan,france,64
+japan,french polynesia,1
+japan,gabon,1
+japan,germany,47
+japan,gibraltar,1
+japan,greece,5
+japan,guam,5
+japan,guatemala,3
+japan,holy see (vatican city state),2
+japan,hong kong,44
+japan,hungary,3
+japan,india,19
+japan,indonesia,21
+japan,"iran, islamic republic of",3
+japan,iraq,3
+japan,ireland,2
+japan,israel,7
+japan,italy,24
+japan,jamaica,6
+japan,jordan,1
+japan,kazakhstan,10
+japan,kenya,3
+japan,"korea, republic of",45
+japan,kuwait,3
+japan,kyrgyzstan,13
+japan,lao people's democratic republic,1
+japan,latvia,1
+japan,lebanon,1
+japan,liberia,1
+japan,liechtenstein,1
+japan,luxembourg,3
+japan,macao,3
+japan,malaysia,12
+japan,maldives,2
+japan,malta,1
+japan,marshall islands,5
+japan,mexico,10
+japan,monaco,2
+japan,mongolia,3
+japan,morocco,3
+japan,myanmar,5
+japan,nepal,12
+japan,netherlands,26
+japan,new zealand,5
+japan,northern mariana islands,4
+japan,norway,8
+japan,oman,3
+japan,pakistan,1
+japan,palau,1
+japan,"palestine, state of",5
+japan,panama,2
+japan,papua new guinea,1
+japan,peru,4
+japan,philippines,13
+japan,portugal,2
+japan,puerto rico,4
+japan,qatar,4
+japan,romania,3
+japan,russian federation,50
+japan,"saint helena, ascension and tristan da cunha",5
+japan,saudi arabia,4
+japan,serbia,1
+japan,singapore,29
+japan,slovenia,1
+japan,somalia,1
+japan,south africa,5
+japan,south georgia and the south sandwich islands,1
+japan,spain,28
+japan,svalbard and jan mayen,2
+japan,sweden,21
+japan,switzerland,20
+japan,"taiwan, province of china",64
+japan,tajikistan,1
+japan,thailand,39
+japan,tokelau,2
+japan,tonga,2
+japan,turkey,5
+japan,ukraine,6
+japan,united arab emirates,5
+japan,united kingdom,78
+japan,united states,450
+japan,uruguay,1
+japan,uzbekistan,5
+japan,vanuatu,1
+japan,"venezuela, bolivarian republic of",1
+japan,viet nam,25
+jordan,egypt,2
+jordan,poland,1
+jordan,united arab emirates,2
+jordan,united states,2
+kenya,botswana,1
+kenya,burundi,1
+kenya,fiji,1
+kenya,hong kong,1
+kenya,new caledonia,1
+kenya,nigeria,1
+kenya,spain,2
+kenya,sweden,1
+kenya,switzerland,1
+kenya,"tanzania, united republic of",3
+kenya,thailand,1
+kenya,united kingdom,2
+kenya,united states,6
+kenya,zimbabwe,1
+"korea, republic of",canada,1
+"korea, republic of",china,1
+"korea, republic of",japan,3
+"korea, republic of","korea, democratic people's republic of",1
+"korea, republic of",united kingdom,1
+"korea, republic of",united states,4
+kuwait,australia,1
+kuwait,egypt,1
+kuwait,united states,1
+kyrgyzstan,japan,1
+lao people's democratic republic,thailand,1
+latvia,france,1
+latvia,germany,1
+lebanon,france,1
+lebanon,libya,1
+lebanon,"taiwan, province of china",1
+libya,jamaica,1
+lithuania,cyprus,1
+luxembourg,austria,3
+luxembourg,belgium,9
+luxembourg,canada,1
+luxembourg,cyprus,2
+luxembourg,finland,1
+luxembourg,france,5
+luxembourg,germany,10
+luxembourg,indonesia,1
+luxembourg,italy,5
+luxembourg,latvia,1
+luxembourg,lithuania,1
+luxembourg,nepal,2
+luxembourg,netherlands,5
+luxembourg,portugal,1
+luxembourg,romania,2
+luxembourg,spain,8
+luxembourg,sweden,1
+luxembourg,switzerland,5
+luxembourg,united arab emirates,2
+luxembourg,united kingdom,6
+luxembourg,united states,8
+macao,china,1
+macao,greece,1
+macao,italy,3
+macao,portugal,1
+macao,spain,1
+macao,thailand,2
+madagascar,canada,1
+madagascar,congo,1
+madagascar,nigeria,1
+madagascar,portugal,1
+madagascar,russian federation,1
+madagascar,senegal,1
+madagascar,spain,1
+madagascar,"tanzania, united republic of",1
+madagascar,united states,1
+malawi,cameroon,1
+malawi,south africa,1
+malawi,united states,1
+malaysia,australia,6
+malaysia,denmark,1
+malaysia,india,2
+malaysia,indonesia,1
+malaysia,italy,2
+malaysia,japan,3
+malaysia,maldives,2
+malaysia,norway,1
+malaysia,philippines,1
+malaysia,singapore,9
+malaysia,sri lanka,1
+malaysia,sweden,1
+malaysia,"taiwan, province of china",2
+malaysia,thailand,2
+malaysia,united arab emirates,1
+malaysia,united kingdom,3
+malaysia,united states,3
+maldives,malaysia,1
+maldives,spain,1
+maldives,sri lanka,1
+maldives,united arab emirates,1
+malta,austria,1
+malta,isle of man,1
+malta,united kingdom,1
+mayotte,hong kong,1
+mayotte,macao,2
+mexico,anguilla,1
+mexico,bahamas,1
+mexico,canada,3
+mexico,colombia,3
+mexico,costa rica,1
+mexico,cuba,1
+mexico,dominican republic,1
+mexico,france,2
+mexico,germany,3
+mexico,guatemala,1
+mexico,hungary,1
+mexico,iceland,1
+mexico,japan,1
+mexico,netherlands,1
+mexico,puerto rico,1
+mexico,spain,2
+mexico,turks and caicos islands,1
+mexico,united kingdom,1
+mexico,united states,23
+mexico,uruguay,1
+mexico,viet nam,2
+mexico,"virgin islands, british",1
+"micronesia, federated states of",guam,1
+"moldova, republic of",japan,1
+monaco,brazil,1
+monaco,italy,1
+morocco,belgium,1
+morocco,france,6
+morocco,india,1
+morocco,united kingdom,4
+morocco,united states,3
+namibia,germany,1
+namibia,south africa,1
+namibia,united states,1
+nepal,india,1
+nepal,"taiwan, province of china",1
+nepal,united states,1
+netherlands,albania,1
+netherlands,andorra,1
+netherlands,armenia,1
+netherlands,aruba,2
+netherlands,australia,4
+netherlands,austria,17
+netherlands,barbados,1
+netherlands,belgium,11
+netherlands,botswana,1
+netherlands,brazil,2
+netherlands,cambodia,5
+netherlands,canada,6
+netherlands,chile,1
+netherlands,china,12
+netherlands,croatia,2
+netherlands,cuba,1
+netherlands,curaçao,3
+netherlands,czech republic,2
+netherlands,denmark,9
+netherlands,dominican republic,1
+netherlands,egypt,3
+netherlands,fiji,1
+netherlands,finland,5
+netherlands,france,81
+netherlands,french southern territories,1
+netherlands,germany,87
+netherlands,greece,6
+netherlands,hong kong,3
+netherlands,hungary,5
+netherlands,iceland,2
+netherlands,india,1
+netherlands,indonesia,7
+netherlands,"iran, islamic republic of",2
+netherlands,ireland,5
+netherlands,israel,1
+netherlands,italy,26
+netherlands,japan,7
+netherlands,kenya,1
+netherlands,"korea, republic of",2
+netherlands,kyrgyzstan,3
+netherlands,latvia,2
+netherlands,liechtenstein,1
+netherlands,luxembourg,4
+netherlands,malaysia,10
+netherlands,malta,2
+netherlands,nepal,1
+netherlands,new zealand,1
+netherlands,norfolk island,1
+netherlands,norway,7
+netherlands,philippines,1
+netherlands,poland,4
+netherlands,portugal,5
+netherlands,qatar,3
+netherlands,romania,2
+netherlands,russian federation,4
+netherlands,serbia,1
+netherlands,singapore,2
+netherlands,south africa,5
+netherlands,spain,24
+netherlands,suriname,2
+netherlands,sweden,11
+netherlands,switzerland,21
+netherlands,"tanzania, united republic of",1
+netherlands,thailand,4
+netherlands,tunisia,2
+netherlands,turkey,7
+netherlands,united kingdom,53
+netherlands,united states,58
+netherlands,"venezuela, bolivarian republic of",1
+netherlands,viet nam,1
+netherlands,yemen,2
+new zealand,argentina,1
+new zealand,australia,13
+new zealand,austria,1
+new zealand,"bolivia, plurinational state of",1
+new zealand,canada,3
+new zealand,chile,1
+new zealand,china,3
+new zealand,czech republic,1
+new zealand,fiji,2
+new zealand,germany,3
+new zealand,hong kong,5
+new zealand,hungary,1
+new zealand,"korea, democratic people's republic of",1
+new zealand,"korea, republic of",1
+new zealand,macao,1
+new zealand,mongolia,1
+new zealand,niue,1
+new zealand,poland,1
+new zealand,romania,1
+new zealand,russian federation,2
+new zealand,singapore,1
+new zealand,slovakia,1
+new zealand,solomon islands,1
+new zealand,"taiwan, province of china",1
+new zealand,thailand,5
+new zealand,tonga,1
+new zealand,turkey,1
+new zealand,ukraine,1
+new zealand,united kingdom,4
+new zealand,united states,20
+niger,norway,1
+nigeria,canada,1
+nigeria,germany,2
+nigeria,ghana,3
+nigeria,isle of man,1
+nigeria,japan,1
+nigeria,south africa,1
+nigeria,"tanzania, united republic of",1
+nigeria,united arab emirates,1
+nigeria,united states,5
+norway,austria,5
+norway,belgium,7
+norway,brazil,1
+norway,bulgaria,1
+norway,canada,8
+norway,china,1
+norway,"congo, the democratic republic of the",1
+norway,croatia,5
+norway,czech republic,5
+norway,denmark,84
+norway,egypt,1
+norway,estonia,2
+norway,faroe islands,1
+norway,finland,7
+norway,france,19
+norway,germany,38
+norway,gibraltar,1
+norway,greece,5
+norway,holy see (vatican city state),3
+norway,hungary,5
+norway,iceland,3
+norway,india,2
+norway,"iran, islamic republic of",1
+norway,ireland,4
+norway,italy,21
+norway,japan,5
+norway,jordan,1
+norway,kenya,7
+norway,"korea, republic of",3
+norway,latvia,1
+norway,lithuania,1
+norway,malaysia,1
+norway,malta,4
+norway,mexico,1
+norway,monaco,1
+norway,netherlands,32
+norway,pakistan,2
+norway,peru,1
+norway,pitcairn,1
+norway,poland,11
+norway,portugal,6
+norway,romania,2
+norway,russian federation,2
+norway,samoa,1
+norway,slovakia,1
+norway,south africa,1
+norway,spain,21
+norway,svalbard and jan mayen,2
+norway,sweden,62
+norway,switzerland,11
+norway,"taiwan, province of china",1
+norway,"tanzania, united republic of",3
+norway,thailand,2
+norway,tunisia,1
+norway,turkey,8
+norway,uganda,1
+norway,united kingdom,32
+norway,united states,45
+norway,yemen,1
+oman,spain,1
+oman,united states,1
+pakistan,austria,2
+pakistan,india,3
+pakistan,isle of man,1
+pakistan,libya,1
+pakistan,saudi arabia,2
+pakistan,united kingdom,1
+pakistan,united states,3
+peru,united states,1
+philippines,australia,2
+philippines,bahamas,1
+philippines,cambodia,1
+philippines,canada,2
+philippines,china,3
+philippines,egypt,1
+philippines,france,6
+philippines,hong kong,3
+philippines,hungary,1
+philippines,japan,4
+philippines,malaysia,2
+philippines,mexico,3
+philippines,puerto rico,1
+philippines,saudi arabia,2
+philippines,singapore,8
+philippines,spain,1
+philippines,"taiwan, province of china",1
+philippines,thailand,3
+philippines,tunisia,1
+philippines,united arab emirates,2
+philippines,united kingdom,1
+philippines,united states,16
+philippines,viet nam,3
+poland,argentina,2
+poland,austria,3
+poland,belgium,4
+poland,bulgaria,1
+poland,croatia,2
+poland,czech republic,1
+poland,denmark,8
+poland,finland,1
+poland,france,7
+poland,germany,8
+poland,greece,5
+poland,holy see (vatican city state),1
+poland,hong kong,6
+poland,hungary,1
+poland,ireland,1
+poland,italy,2
+poland,japan,1
+poland,latvia,2
+poland,lithuania,1
+poland,mongolia,2
+poland,montenegro,1
+poland,netherlands,1
+poland,norway,2
+poland,philippines,1
+poland,romania,1
+poland,russian federation,1
+poland,slovakia,1
+poland,spain,1
+poland,sweden,5
+poland,turkey,1
+poland,united kingdom,5
+poland,united states,7
+poland,uruguay,1
+portugal,andorra,1
+portugal,belgium,3
+portugal,brazil,2
+portugal,denmark,1
+portugal,estonia,1
+portugal,finland,1
+portugal,france,3
+portugal,germany,3
+portugal,iceland,1
+portugal,ireland,1
+portugal,japan,1
+portugal,latvia,2
+portugal,madagascar,1
+portugal,mexico,1
+portugal,monaco,1
+portugal,morocco,1
+portugal,netherlands,2
+portugal,norway,1
+portugal,russian federation,1
+portugal,spain,19
+portugal,sri lanka,1
+portugal,sudan,1
+portugal,sweden,1
+portugal,switzerland,1
+portugal,united kingdom,4
+portugal,united states,1
+portugal,viet nam,1
+puerto rico,argentina,4
+puerto rico,australia,2
+puerto rico,brazil,4
+puerto rico,canada,1
+puerto rico,chile,5
+puerto rico,china,3
+puerto rico,colombia,3
+puerto rico,cook islands,1
+puerto rico,cuba,1
+puerto rico,dominican republic,4
+puerto rico,france,10
+puerto rico,french polynesia,1
+puerto rico,greece,1
+puerto rico,hungary,3
+puerto rico,india,2
+puerto rico,"iran, islamic republic of",1
+puerto rico,italy,5
+puerto rico,japan,3
+puerto rico,madagascar,1
+puerto rico,mexico,1
+puerto rico,nepal,1
+puerto rico,paraguay,1
+puerto rico,russian federation,4
+puerto rico,rwanda,1
+puerto rico,slovenia,1
+puerto rico,somalia,1
+puerto rico,spain,22
+puerto rico,turkey,1
+puerto rico,united kingdom,1
+puerto rico,united states,26
+puerto rico,uruguay,1
+puerto rico,"venezuela, bolivarian republic of",1
+puerto rico,viet nam,1
+puerto rico,zimbabwe,1
+qatar,canada,1
+qatar,greece,1
+qatar,jordan,1
+qatar,lebanon,1
+qatar,oman,1
+qatar,philippines,1
+qatar,spain,1
+qatar,united arab emirates,1
+romania,czech republic,1
+romania,denmark,1
+romania,estonia,1
+romania,france,4
+romania,hungary,2
+romania,lithuania,1
+romania,malaysia,1
+romania,russian federation,1
+romania,united states,1
+russian federation,australia,2
+russian federation,austria,3
+russian federation,azerbaijan,1
+russian federation,belarus,3
+russian federation,bulgaria,2
+russian federation,canada,1
+russian federation,china,1
+russian federation,czech republic,3
+russian federation,denmark,5
+russian federation,estonia,1
+russian federation,finland,3
+russian federation,france,3
+russian federation,germany,7
+russian federation,holy see (vatican city state),3
+russian federation,iceland,1
+russian federation,india,1
+russian federation,indonesia,1
+russian federation,israel,1
+russian federation,italy,6
+russian federation,"korea, republic of",1
+russian federation,"macedonia, the former yugoslav republic of",1
+russian federation,"moldova, republic of",2
+russian federation,netherlands,1
+russian federation,new zealand,1
+russian federation,nigeria,1
+russian federation,norway,10
+russian federation,poland,16
+russian federation,singapore,2
+russian federation,slovenia,1
+russian federation,svalbard and jan mayen,1
+russian federation,sweden,2
+russian federation,switzerland,1
+russian federation,thailand,1
+russian federation,turkey,3
+russian federation,ukraine,9
+russian federation,united kingdom,3
+russian federation,united states,13
+russian federation,viet nam,1
+saudi arabia,cocos (keeling) islands,1
+saudi arabia,cyprus,1
+saudi arabia,egypt,3
+saudi arabia,france,1
+saudi arabia,indonesia,3
+saudi arabia,jordan,1
+saudi arabia,pakistan,1
+saudi arabia,qatar,1
+saudi arabia,switzerland,1
+saudi arabia,"taiwan, province of china",1
+saudi arabia,turkey,1
+saudi arabia,ukraine,1
+saudi arabia,united arab emirates,5
+saudi arabia,united states,3
+saudi arabia,yemen,1
+senegal,united states,1
+serbia,holy see (vatican city state),1
+serbia,italy,2
+serbia,sweden,2
+serbia,united kingdom,1
+serbia,united states,2
+seychelles,united kingdom,1
+sierra leone,france,1
+sierra leone,gambia,1
+sierra leone,ghana,1
+sierra leone,guinea-bissau,1
+sierra leone,liberia,1
+sierra leone,mauritania,1
+sierra leone,morocco,1
+sierra leone,senegal,2
+sierra leone,united kingdom,2
+sierra leone,western sahara,1
+singapore,australia,10
+singapore,barbados,1
+singapore,belarus,1
+singapore,brazil,1
+singapore,cambodia,1
+singapore,canada,1
+singapore,china,9
+singapore,czech republic,2
+singapore,france,3
+singapore,germany,2
+singapore,hong kong,6
+singapore,hungary,1
+singapore,india,11
+singapore,indonesia,8
+singapore,italy,1
+singapore,japan,6
+singapore,"korea, republic of",1
+singapore,lao people's democratic republic,1
+singapore,macao,3
+singapore,malaysia,10
+singapore,nepal,1
+singapore,netherlands,3
+singapore,philippines,2
+singapore,russian federation,1
+singapore,senegal,1
+singapore,south africa,1
+singapore,sweden,8
+singapore,switzerland,1
+singapore,"taiwan, province of china",1
+singapore,thailand,7
+singapore,united arab emirates,3
+singapore,united kingdom,3
+singapore,united states,5
+singapore,viet nam,3
+slovakia,austria,1
+slovakia,greece,1
+slovakia,hungary,1
+slovakia,spain,1
+slovakia,united kingdom,1
+slovenia,croatia,2
+slovenia,finland,1
+slovenia,france,1
+slovenia,germany,1
+slovenia,ireland,1
+slovenia,montenegro,1
+slovenia,netherlands,1
+slovenia,norway,1
+slovenia,slovakia,1
+slovenia,sweden,1
+slovenia,united states,3
+slovenia,yemen,3
+somalia,"congo, the democratic republic of the",1
+south africa,afghanistan,1
+south africa,austria,1
+south africa,finland,1
+south africa,france,1
+south africa,germany,1
+south africa,indonesia,4
+south africa,japan,1
+south africa,jersey,1
+south africa,lesotho,1
+south africa,maldives,1
+south africa,mauritius,1
+south africa,netherlands,2
+south africa,russian federation,2
+south africa,slovakia,2
+south africa,"tanzania, united republic of",1
+south africa,thailand,1
+south africa,united kingdom,6
+south africa,united states,9
+south africa,zambia,1
+south africa,zimbabwe,1
+spain,andorra,2
+spain,angola,1
+spain,argentina,10
+spain,australia,1
+spain,austria,1
+spain,belgium,3
+spain,bhutan,2
+spain,"bolivia, plurinational state of",1
+spain,brazil,3
+spain,bulgaria,1
+spain,cambodia,1
+spain,canada,2
+spain,colombia,2
+spain,congo,1
+spain,costa rica,1
+spain,cuba,2
+spain,cyprus,7
+spain,czech republic,3
+spain,denmark,2
+spain,eritrea,1
+spain,finland,3
+spain,france,21
+spain,germany,12
+spain,greece,4
+spain,holy see (vatican city state),6
+spain,honduras,1
+spain,indonesia,2
+spain,ireland,3
+spain,israel,1
+spain,italy,11
+spain,jamaica,1
+spain,japan,5
+spain,"korea, republic of",2
+spain,kyrgyzstan,1
+spain,malaysia,2
+spain,morocco,2
+spain,namibia,1
+spain,netherlands,16
+spain,new zealand,1
+spain,norway,2
+spain,papua new guinea,1
+spain,peru,1
+spain,philippines,2
+spain,portugal,9
+spain,qatar,1
+spain,romania,2
+spain,russian federation,4
+spain,singapore,2
+spain,somalia,1
+spain,south africa,1
+spain,south georgia and the south sandwich islands,1
+spain,sweden,1
+spain,switzerland,5
+spain,"taiwan, province of china",1
+spain,"tanzania, united republic of",2
+spain,thailand,1
+spain,turkey,2
+spain,united kingdom,20
+spain,united states,41
+spain,viet nam,1
+sri lanka,maldives,2
+sri lanka,thailand,1
+sweden,andorra,1
+sweden,argentina,1
+sweden,australia,2
+sweden,austria,8
+sweden,belgium,12
+sweden,brazil,3
+sweden,bulgaria,1
+sweden,canada,2
+sweden,central african republic,1
+sweden,chile,1
+sweden,china,4
+sweden,colombia,1
+sweden,cook islands,2
+sweden,croatia,2
+sweden,cuba,1
+sweden,czech republic,8
+sweden,denmark,85
+sweden,egypt,1
+sweden,estonia,9
+sweden,finland,31
+sweden,france,38
+sweden,germany,68
+sweden,greece,8
+sweden,haiti,1
+sweden,holy see (vatican city state),20
+sweden,honduras,1
+sweden,hong kong,3
+sweden,hungary,2
+sweden,iceland,4
+sweden,india,2
+sweden,indonesia,1
+sweden,"iran, islamic republic of",8
+sweden,ireland,3
+sweden,isle of man,2
+sweden,italy,37
+sweden,jamaica,1
+sweden,japan,3
+sweden,latvia,4
+sweden,luxembourg,2
+sweden,macao,1
+sweden,malaysia,1
+sweden,malta,2
+sweden,monaco,1
+sweden,mongolia,2
+sweden,netherlands,20
+sweden,new zealand,1
+sweden,norway,67
+sweden,oman,1
+sweden,panama,1
+sweden,poland,16
+sweden,portugal,4
+sweden,russian federation,7
+sweden,serbia,4
+sweden,seychelles,1
+sweden,singapore,1
+sweden,slovakia,2
+sweden,south africa,1
+sweden,spain,42
+sweden,switzerland,10
+sweden,thailand,11
+sweden,turkey,7
+sweden,united arab emirates,2
+sweden,united kingdom,61
+sweden,united states,82
+sweden,viet nam,1
+sweden,åland islands,2
+switzerland,argentina,1
+switzerland,australia,1
+switzerland,austria,9
+switzerland,azerbaijan,1
+switzerland,belgium,8
+switzerland,canada,4
+switzerland,colombia,1
+switzerland,curaçao,1
+switzerland,denmark,5
+switzerland,egypt,1
+switzerland,finland,2
+switzerland,france,21
+switzerland,germany,49
+switzerland,ghana,1
+switzerland,india,2
+switzerland,indonesia,1
+switzerland,italy,12
+switzerland,kenya,3
+switzerland,liberia,1
+switzerland,"macedonia, the former yugoslav republic of",1
+switzerland,malaysia,1
+switzerland,malta,1
+switzerland,mexico,1
+switzerland,monaco,1
+switzerland,morocco,1
+switzerland,namibia,1
+switzerland,netherlands,14
+switzerland,norway,2
+switzerland,oman,1
+switzerland,philippines,1
+switzerland,poland,1
+switzerland,portugal,7
+switzerland,puerto rico,1
+switzerland,romania,1
+switzerland,rwanda,4
+switzerland,singapore,1
+switzerland,slovenia,1
+switzerland,south africa,1
+switzerland,spain,17
+switzerland,sweden,8
+switzerland,thailand,3
+switzerland,united arab emirates,2
+switzerland,united kingdom,28
+switzerland,united states,24
+switzerland,"virgin islands, british",1
+syrian arab republic,australia,1
+syrian arab republic,austria,1
+syrian arab republic,bangladesh,3
+syrian arab republic,"bolivia, plurinational state of",2
+syrian arab republic,bulgaria,1
+syrian arab republic,canada,1
+syrian arab republic,chad,1
+syrian arab republic,china,3
+syrian arab republic,colombia,1
+syrian arab republic,cuba,1
+syrian arab republic,denmark,1
+syrian arab republic,ecuador,1
+syrian arab republic,egypt,1
+syrian arab republic,france,2
+syrian arab republic,georgia,1
+syrian arab republic,greece,1
+syrian arab republic,guatemala,1
+syrian arab republic,guyana,1
+syrian arab republic,india,3
+syrian arab republic,indonesia,1
+syrian arab republic,"iran, islamic republic of",1
+syrian arab republic,iraq,1
+syrian arab republic,isle of man,1
+syrian arab republic,italy,2
+syrian arab republic,japan,1
+syrian arab republic,lebanon,1
+syrian arab republic,libya,1
+syrian arab republic,mexico,1
+syrian arab republic,nepal,1
+syrian arab republic,nicaragua,2
+syrian arab republic,nigeria,1
+syrian arab republic,pakistan,1
+syrian arab republic,peru,2
+syrian arab republic,romania,1
+syrian arab republic,somalia,1
+syrian arab republic,spain,2
+syrian arab republic,sweden,1
+syrian arab republic,thailand,2
+syrian arab republic,turkey,1
+syrian arab republic,united states,2
+syrian arab republic,"venezuela, bolivarian republic of",1
+"taiwan, province of china",china,14
+"taiwan, province of china",france,1
+"taiwan, province of china",guam,2
+"taiwan, province of china",hong kong,10
+"taiwan, province of china",indonesia,2
+"taiwan, province of china",japan,23
+"taiwan, province of china",macao,1
+"taiwan, province of china",malaysia,3
+"taiwan, province of china",philippines,1
+"taiwan, province of china",singapore,1
+"taiwan, province of china",spain,1
+"taiwan, province of china",switzerland,1
+"taiwan, province of china",thailand,2
+"taiwan, province of china",united kingdom,1
+"taiwan, province of china",united states,22
+tajikistan,united kingdom,1
+thailand,australia,1
+thailand,china,1
+thailand,hong kong,2
+thailand,japan,2
+thailand,lao people's democratic republic,2
+thailand,philippines,3
+thailand,switzerland,1
+thailand,united states,3
+thailand,viet nam,2
+trinidad and tobago,austria,1
+trinidad and tobago,hungary,1
+trinidad and tobago,italy,1
+trinidad and tobago,jamaica,1
+trinidad and tobago,madagascar,2
+trinidad and tobago,panama,1
+trinidad and tobago,south africa,2
+trinidad and tobago,united states,2
+tunisia,egypt,1
+tunisia,united arab emirates,1
+turkey,argentina,1
+turkey,austria,1
+turkey,belarus,1
+turkey,burkina faso,1
+turkey,canada,1
+turkey,chile,2
+turkey,cuba,1
+turkey,denmark,1
+turkey,finland,1
+turkey,france,1
+turkey,germany,1
+turkey,ghana,1
+turkey,greece,4
+turkey,india,4
+turkey,iraq,1
+turkey,ireland,1
+turkey,italy,2
+turkey,japan,1
+turkey,"korea, republic of",2
+turkey,kyrgyzstan,1
+turkey,lebanon,2
+turkey,mongolia,3
+turkey,namibia,1
+turkey,netherlands,1
+turkey,nigeria,1
+turkey,pakistan,3
+turkey,panama,1
+turkey,poland,2
+turkey,portugal,1
+turkey,romania,1
+turkey,russian federation,2
+turkey,rwanda,1
+turkey,saudi arabia,2
+turkey,somalia,1
+turkey,spain,4
+turkey,sudan,1
+turkey,switzerland,1
+turkey,syrian arab republic,1
+turkey,"taiwan, province of china",1
+turkey,tajikistan,1
+turkey,ukraine,1
+turkey,united arab emirates,1
+turkey,united kingdom,4
+turkey,united states,6
+turkey,uruguay,1
+turkey,uzbekistan,1
+ukraine,australia,1
+ukraine,bulgaria,1
+ukraine,canada,3
+ukraine,iceland,1
+ukraine,italy,2
+ukraine,japan,1
+ukraine,lebanon,1
+ukraine,nigeria,1
+ukraine,norway,2
+ukraine,poland,3
+ukraine,romania,1
+ukraine,russian federation,4
+ukraine,slovakia,1
+ukraine,spain,1
+ukraine,tajikistan,1
+ukraine,united kingdom,1
+ukraine,united states,1
+united arab emirates,belgium,1
+united arab emirates,canada,1
+united arab emirates,cook islands,1
+united arab emirates,costa rica,1
+united arab emirates,denmark,1
+united arab emirates,egypt,3
+united arab emirates,france,1
+united arab emirates,germany,1
+united arab emirates,india,1
+united arab emirates,isle of man,1
+united arab emirates,japan,1
+united arab emirates,lebanon,3
+united arab emirates,morocco,1
+united arab emirates,saudi arabia,2
+united arab emirates,south africa,3
+united arab emirates,swaziland,1
+united arab emirates,syrian arab republic,2
+united arab emirates,united kingdom,1
+united kingdom,afghanistan,1
+united kingdom,andorra,2
+united kingdom,anguilla,1
+united kingdom,antigua and barbuda,3
+united kingdom,argentina,1
+united kingdom,australia,51
+united kingdom,austria,25
+united kingdom,bahrain,3
+united kingdom,barbados,6
+united kingdom,belarus,1
+united kingdom,belgium,57
+united kingdom,belize,1
+united kingdom,bermuda,1
+united kingdom,"bolivia, plurinational state of",1
+united kingdom,bosnia and herzegovina,1
+united kingdom,brazil,10
+united kingdom,brunei darussalam,1
+united kingdom,bulgaria,3
+united kingdom,canada,66
+united kingdom,china,16
+united kingdom,colombia,2
+united kingdom,cook islands,4
+united kingdom,costa rica,1
+united kingdom,croatia,12
+united kingdom,cuba,2
+united kingdom,cyprus,8
+united kingdom,czech republic,15
+united kingdom,côte d'ivoire,1
+united kingdom,denmark,28
+united kingdom,ecuador,2
+united kingdom,egypt,5
+united kingdom,estonia,11
+united kingdom,ethiopia,1
+united kingdom,falkland islands (malvinas),1
+united kingdom,fiji,1
+united kingdom,finland,16
+united kingdom,france,223
+united kingdom,germany,127
+united kingdom,ghana,1
+united kingdom,gibraltar,5
+united kingdom,greece,27
+united kingdom,grenada,1
+united kingdom,guatemala,2
+united kingdom,guernsey,5
+united kingdom,guyana,1
+united kingdom,holy see (vatican city state),7
+united kingdom,honduras,2
+united kingdom,hong kong,19
+united kingdom,hungary,6
+united kingdom,iceland,8
+united kingdom,india,25
+united kingdom,indonesia,8
+united kingdom,iraq,2
+united kingdom,ireland,59
+united kingdom,isle of man,29
+united kingdom,italy,68
+united kingdom,jamaica,4
+united kingdom,japan,13
+united kingdom,jersey,7
+united kingdom,kazakhstan,1
+united kingdom,kenya,5
+united kingdom,"korea, republic of",7
+united kingdom,latvia,3
+united kingdom,lebanon,1
+united kingdom,liberia,1
+united kingdom,liechtenstein,6
+united kingdom,luxembourg,11
+united kingdom,macao,1
+united kingdom,"macedonia, the former yugoslav republic of",1
+united kingdom,malaysia,13
+united kingdom,malta,4
+united kingdom,mauritius,3
+united kingdom,mexico,7
+united kingdom,monaco,1
+united kingdom,morocco,1
+united kingdom,namibia,1
+united kingdom,netherlands,70
+united kingdom,new zealand,10
+united kingdom,nigeria,2
+united kingdom,norway,18
+united kingdom,pakistan,1
+united kingdom,"palestine, state of",4
+united kingdom,panama,1
+united kingdom,peru,4
+united kingdom,philippines,5
+united kingdom,poland,24
+united kingdom,portugal,17
+united kingdom,puerto rico,1
+united kingdom,qatar,1
+united kingdom,romania,3
+united kingdom,russian federation,11
+united kingdom,saint vincent and the grenadines,1
+united kingdom,san marino,1
+united kingdom,saudi arabia,2
+united kingdom,serbia,1
+united kingdom,seychelles,1
+united kingdom,singapore,18
+united kingdom,sint maarten (dutch part),1
+united kingdom,slovakia,7
+united kingdom,slovenia,5
+united kingdom,south africa,6
+united kingdom,south georgia and the south sandwich islands,1
+united kingdom,spain,113
+united kingdom,sri lanka,2
+united kingdom,sudan,2
+united kingdom,sweden,26
+united kingdom,switzerland,78
+united kingdom,syrian arab republic,1
+united kingdom,"taiwan, province of china",1
+united kingdom,thailand,8
+united kingdom,trinidad and tobago,2
+united kingdom,tunisia,1
+united kingdom,turkey,17
+united kingdom,uganda,1
+united kingdom,ukraine,2
+united kingdom,united arab emirates,19
+united kingdom,united states,367
+united kingdom,uruguay,1
+united kingdom,viet nam,2
+united kingdom,wallis and futuna,2
+united kingdom,yemen,1
+united states,afghanistan,14
+united states,albania,5
+united states,andorra,6
+united states,angola,1
+united states,anguilla,2
+united states,antigua and barbuda,7
+united states,argentina,44
+united states,armenia,2
+united states,aruba,11
+united states,australia,155
+united states,austria,56
+united states,azerbaijan,1
+united states,bahamas,48
+united states,bahrain,3
+united states,bangladesh,3
+united states,barbados,6
+united states,belarus,3
+united states,belgium,51
+united states,belize,14
+united states,bermuda,40
+united states,"bolivia, plurinational state of",8
+united states,"bonaire, sint eustatius and saba",2
+united states,bosnia and herzegovina,2
+united states,botswana,1
+united states,brazil,48
+united states,bulgaria,1
+united states,burkina faso,4
+united states,cambodia,14
+united states,cameroon,1
+united states,canada,688
+united states,cayman islands,14
+united states,central african republic,2
+united states,chad,4
+united states,chile,36
+united states,china,128
+united states,colombia,41
+united states,congo,2
+united states,"congo, the democratic republic of the",4
+united states,cook islands,70
+united states,costa rica,28
+united states,croatia,14
+united states,cuba,22
+united states,curaçao,2
+united states,cyprus,4
+united states,czech republic,35
+united states,côte d'ivoire,7
+united states,denmark,52
+united states,djibouti,2
+united states,dominican republic,21
+united states,ecuador,39
+united states,egypt,41
+united states,el salvador,5
+united states,equatorial guinea,6
+united states,estonia,5
+united states,ethiopia,5
+united states,fiji,8
+united states,finland,51
+united states,france,297
+united states,french guiana,3
+united states,french polynesia,15
+united states,french southern territories,3
+united states,gabon,1
+united states,gambia,2
+united states,georgia,18
+united states,germany,334
+united states,ghana,7
+united states,gibraltar,2
+united states,greece,35
+united states,greenland,3
+united states,grenada,4
+united states,guadeloupe,2
+united states,guam,3
+united states,guatemala,11
+united states,guernsey,1
+united states,guinea,3
+united states,guinea-bissau,3
+united states,guyana,2
+united states,haiti,21
+united states,holy see (vatican city state),26
+united states,honduras,13
+united states,hong kong,106
+united states,hungary,20
+united states,iceland,18
+united states,india,74
+united states,indonesia,39
+united states,"iran, islamic republic of",26
+united states,iraq,6
+united states,ireland,67
+united states,isle of man,25
+united states,israel,37
+united states,italy,243
+united states,jamaica,49
+united states,japan,264
+united states,jersey,4
+united states,jordan,7
+united states,kazakhstan,6
+united states,kenya,10
+united states,kiribati,1
+united states,"korea, republic of",55
+united states,kuwait,2
+united states,kyrgyzstan,3
+united states,lao people's democratic republic,3
+united states,latvia,6
+united states,lebanon,8
+united states,lesotho,2
+united states,liberia,11
+united states,libya,1
+united states,lithuania,2
+united states,luxembourg,7
+united states,macao,8
+united states,"macedonia, the former yugoslav republic of",1
+united states,madagascar,4
+united states,malawi,1
+united states,malaysia,46
+united states,maldives,2
+united states,mali,7
+united states,malta,2
+united states,martinique,5
+united states,mauritius,6
+united states,mexico,339
+united states,"moldova, republic of",1
+united states,monaco,5
+united states,mongolia,7
+united states,montenegro,1
+united states,montserrat,1
+united states,morocco,20
+united states,mozambique,1
+united states,myanmar,4
+united states,namibia,1
+united states,nauru,1
+united states,nepal,10
+united states,netherlands,156
+united states,new caledonia,1
+united states,new zealand,49
+united states,nicaragua,5
+united states,niger,1
+united states,nigeria,14
+united states,northern mariana islands,1
+united states,norway,49
+united states,oman,1
+united states,pakistan,8
+united states,palau,1
+united states,"palestine, state of",16
+united states,panama,17
+united states,papua new guinea,8
+united states,paraguay,2
+united states,peru,34
+united states,philippines,49
+united states,poland,37
+united states,portugal,19
+united states,puerto rico,92
+united states,qatar,7
+united states,romania,12
+united states,russian federation,71
+united states,rwanda,4
+united states,réunion,3
+united states,saint barthélemy,2
+united states,"saint helena, ascension and tristan da cunha",7
+united states,saint kitts and nevis,13
+united states,saint lucia,1
+united states,saint martin (french part),3
+united states,saint vincent and the grenadines,2
+united states,sao tome and principe,2
+united states,saudi arabia,6
+united states,senegal,7
+united states,serbia,2
+united states,seychelles,1
+united states,sierra leone,2
+united states,singapore,50
+united states,sint maarten (dutch part),3
+united states,slovakia,4
+united states,slovenia,5
+united states,somalia,1
+united states,south africa,36
+united states,south georgia and the south sandwich islands,2
+united states,south sudan,1
+united states,spain,146
+united states,sri lanka,3
+united states,sudan,6
+united states,suriname,2
+united states,svalbard and jan mayen,1
+united states,sweden,78
+united states,switzerland,82
+united states,syrian arab republic,7
+united states,"taiwan, province of china",51
+united states,tajikistan,2
+united states,"tanzania, united republic of",15
+united states,thailand,65
+united states,togo,2
+united states,tokelau,1
+united states,tonga,2
+united states,trinidad and tobago,9
+united states,tunisia,1
+united states,turkey,54
+united states,turkmenistan,1
+united states,turks and caicos islands,3
+united states,uganda,4
+united states,ukraine,10
+united states,united arab emirates,42
+united states,united kingdom,636
+united states,uruguay,6
+united states,uzbekistan,3
+united states,"venezuela, bolivarian republic of",11
+united states,viet nam,29
+united states,"virgin islands, british",2
+united states,"virgin islands, u.s.",31
+united states,yemen,2
+united states,zambia,4
+united states,zimbabwe,15
+uruguay,united states,1
+"venezuela, bolivarian republic of",argentina,2
+"venezuela, bolivarian republic of",brazil,1
+"venezuela, bolivarian republic of",canada,1
+"venezuela, bolivarian republic of",costa rica,1
+"venezuela, bolivarian republic of",mexico,1
+"venezuela, bolivarian republic of",panama,2
+"venezuela, bolivarian republic of",qatar,1
+"venezuela, bolivarian republic of",spain,1
+"venezuela, bolivarian republic of",united states,2
+viet nam,canada,2
+viet nam,italy,1
+viet nam,japan,1
+viet nam,"korea, republic of",1
+viet nam,lao people's democratic republic,1
+viet nam,thailand,1
+zambia,hungary,1
+zambia,suriname,1
