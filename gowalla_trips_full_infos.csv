@@ -1,0 +1,2373 @@
+,country_home,country_checkin,user,language_home,language_checkin,same_language,distance,gdp_difference
+0,afghanistan,belgium,1,dari,dutch,0,5400.722788524881,-28400.0
+1,afghanistan,united arab emirates,1,dari,arabic,0,1684.9469727316412,-22500.0
+2,afghanistan,united kingdom,1,dari,english,0,5707.038313338355,-27000.0
+3,albania,hungary,1,albanian,hungarian,0,695.2176898179586,-9400.0
+4,albania,spain,1,albanian,castilian,0,2143.897128520262,-17500.0
+5,argentina,australia,1,spanish,english,0,11801.706353238313,-17800.0
+6,argentina,chile,2,spanish,spanish,1,1174.8568642770504,1300.0
+7,argentina,uruguay,1,spanish,spanish,1,202.9695971464619,-1600.0
+8,australia,argentina,1,english,spanish,0,11802.626211008748,17800.0
+9,australia,bahamas,1,english,azerbaijani,0,15249.371688901165,
+10,australia,brazil,1,english,portuguese,0,15799.149986089094,21400.0
+11,australia,brunei darussalam,1,english,,0,5073.06480057353,
+12,australia,cambodia,1,english,khmer,0,7120.225022649949,27100.0
+13,australia,canada,10,english,english,1,15277.809816219047,-800.0
+14,australia,china,4,english,chinese,0,8258.094948377331,24000.0
+15,australia,denmark,1,english,danish,0,16050.04368855501,-2100.0
+16,australia,fiji,1,english,english,1,2672.007730568216,23200.0
+17,australia,finland,3,english,finnish,0,15196.737465926844,1600.0
+18,australia,france,6,english,french,0,16731.336404138114,1400.0
+19,australia,germany,7,english,german,0,14374.895068410797,1400.0
+20,australia,greece,1,english,greek,0,14296.290363506407,9000.0
+21,australia,holy see (vatican city state),2,english,,0,16324.091734965066,
+22,australia,hong kong,19,english,,0,7204.8299621597625,200.0
+23,australia,india,5,english,hindi,0,9266.258423650024,26100.0
+24,australia,indonesia,8,english,bahasa,0,4586.06499498286,25800.0
+25,australia,ireland,1,english,english,1,14981.619926000965,-600.0
+26,australia,italy,5,english,italian,0,16188.216238574158,2300.0
+27,australia,japan,5,english,japanese,0,8264.778124909786,800.0
+28,australia,"korea, republic of",1,english,,0,8334.09598272499,
+29,australia,lao people's democratic republic,1,english,,0,7728.689054650265,
+30,australia,malaysia,19,english,bahasa,0,5515.377656756164,20000.0
+31,australia,mexico,2,english,spanish,0,14268.200542523271,20000.0
+32,australia,netherlands,5,english,dutch,0,16597.63257367317,400.0
+33,australia,new zealand,18,english,english,1,2170.5805819108614,7400.0
+34,australia,norway,5,english,norwegian,0,15841.41594143324,-8800.0
+35,australia,oman,1,english,arabic,0,10655.009858932732,15900.0
+36,australia,paraguay,1,english,spanish,0,12771.163523079696,24300.0
+37,australia,philippines,2,english,filipino,0,6308.343823372412,24400.0
+38,australia,poland,1,english,polish,0,15644.126522386006,17900.0
+39,australia,qatar,1,english,arabic,0,11978.278669779365,7500.0
+40,australia,saint pierre and miquelon,1,english,,0,18212.49658631103,
+41,australia,saudi arabia,3,english,arabic,0,12492.629041312231,17200.0
+42,australia,singapore,28,english,english,1,6277.989118126038,5300.0
+43,australia,sint maarten (dutch part),1,english,,0,16512.93845452328,
+44,australia,south africa,1,english,isizulu,0,11069.032527453775,18300.0
+45,australia,spain,2,english,castilian,0,17200.131473894337,7000.0
+46,australia,sweden,12,english,swedish,0,15307.0106155207,2200.0
+47,australia,switzerland,3,english,german,0,16311.493874465843,-3700.0
+48,australia,syrian arab republic,1,english,,0,13706.84198176984,
+49,australia,"taiwan, province of china",3,english,,0,6686.202955903434,
+50,australia,thailand,14,english,thai,0,7144.791760757731,21600.0
+51,australia,turkey,1,english,turkish,0,14630.68234004628,22300.0
+52,australia,united arab emirates,8,english,arabic,0,11365.90102197733,5800.0
+53,australia,united kingdom,24,english,english,1,15942.351383606227,1300.0
+54,australia,united states,44,english,english,1,14221.763114735455,-8800.0
+55,australia,vanuatu,1,english,bislama,0,2487.1263446928047,26100.0
+56,australia,viet nam,3,english,,0,6793.241443458909,
+57,austria,australia,1,german,english,0,15646.902371498674,1000.0
+58,austria,belgium,10,german,dutch,0,910.7196087481483,900.0
+59,austria,bulgaria,4,german,bulgarian,0,895.1056741056059,22400.0
+60,austria,canada,4,german,english,0,7765.660386103472,200.0
+61,austria,china,1,german,chinese,0,7495.886456048298,25000.0
+62,austria,croatia,13,german,croatian,0,392.3442588649962,19400.0
+63,austria,czech republic,10,german,greek,0,263.3657090461975,14300.0
+64,austria,denmark,4,german,danish,0,870.647753032294,-1100.0
+65,austria,egypt,2,german,arabic,0,2775.328686218726,26000.0
+66,austria,finland,2,german,finnish,0,1538.928171365887,2600.0
+67,austria,france,4,german,french,0,861.0842427531906,2400.0
+68,austria,germany,98,german,german,1,502.8882942096163,2400.0
+69,austria,greece,4,german,greek,0,1435.75999098266,10000.0
+70,austria,holy see (vatican city state),1,german,,0,763.9974372237999,
+71,austria,hungary,9,german,hungarian,0,220.40951747150189,16100.0
+72,austria,iceland,2,german,icelandic,0,2812.870715190747,-900.0
+73,austria,indonesia,1,german,bahasa,0,10550.185552657236,26800.0
+74,austria,ireland,1,german,english,0,1707.4559154585334,400.0
+75,austria,italy,27,german,italian,0,703.8355535860783,3300.0
+76,austria,japan,1,german,japanese,0,9132.840186455145,1800.0
+77,austria,"korea, republic of",1,german,,0,8701.375481817573,
+78,austria,"macedonia, the former yugoslav republic of",1,german,,0,801.6856559629432,
+79,austria,malta,2,german,maltese,0,1375.7537190467326,12300.0
+80,austria,monaco,1,german,french,0,850.0723204937792,3000.0
+81,austria,netherlands,5,german,dutch,0,944.3614469394196,1400.0
+82,austria,norway,3,german,norwegian,0,1344.803139196957,-7800.0
+83,austria,poland,2,german,polish,0,333.00033892513113,18900.0
+84,austria,portugal,1,german,portuguese,0,2296.8940733976174,12000.0
+85,austria,romania,2,german,romanian,0,818.0577026726818,23000.0
+86,austria,russian federation,2,german,,0,1607.3409025731155,
+87,austria,serbia,2,german,serbian,0,513.7342191961126,27800.0
+88,austria,singapore,1,german,english,0,9964.867002268033,6300.0
+89,austria,slovenia,2,german,slovene,0,315.6404649291022,11000.0
+90,austria,spain,15,german,castilian,0,1698.4606579108386,8000.0
+91,austria,sri lanka,1,german,sinhala,0,7589.904242513107,26300.0
+92,austria,sweden,10,german,swedish,0,1224.6303725357739,3200.0
+93,austria,switzerland,11,german,german,1,453.5083523935398,-2700.0
+94,austria,thailand,1,german,thai,0,8463.416070454803,22600.0
+95,austria,turkey,3,german,turkish,0,1592.9957975490825,23300.0
+96,austria,united arab emirates,5,german,arabic,0,4308.424459570977,6800.0
+97,austria,united kingdom,25,german,english,0,1212.1396661769752,2300.0
+98,austria,united states,29,german,english,0,8262.2620068201,-7800.0
+99,austria,åland islands,1,german,,0,1342.4533188183195,
+100,bahamas,canada,2,azerbaijani,english,0,3157.4086291540025,
+101,bahamas,united kingdom,1,azerbaijani,english,0,6962.812417443109,
+102,bahamas,united states,1,azerbaijani,english,0,1531.2297137588296,
+103,bahrain,united states,1,arabic,english,0,12122.438580172857,-20900.0
+104,belgium,albania,1,dutch,albanian,0,1630.2712889886807,24600.0
+105,belgium,argentina,4,dutch,spanish,0,11315.289713609225,17900.0
+106,belgium,australia,1,dutch,english,0,13628.347137527237,100.0
+107,belgium,austria,20,dutch,german,0,792.8745150286445,-900.0
+108,belgium,barbados,1,dutch,english,0,7078.892501391351,13400.0
+109,belgium,"bolivia, plurinational state of",1,dutch,,0,10249.714224764428,
+110,belgium,bosnia and herzegovina,1,dutch,bosnian,0,1329.2594232526944,
+111,belgium,bulgaria,2,dutch,bulgarian,0,1785.8004581102707,21500.0
+112,belgium,canada,7,dutch,english,0,5694.118580767843,-700.0
+113,belgium,china,8,dutch,chinese,0,8320.417844026924,24100.0
+114,belgium,colombia,1,dutch,spanish,0,8768.64830266087,22800.0
+115,belgium,croatia,12,dutch,croatian,0,1204.7028283604238,18500.0
+116,belgium,cyprus,1,dutch,greek,0,2943.632636837525,9900.0
+117,belgium,czech republic,7,dutch,greek,0,924.4213169561737,13400.0
+118,belgium,denmark,13,dutch,danish,0,735.8534857417668,-2000.0
+119,belgium,dominican republic,4,dutch,spanish,0,7237.667691616888,23100.0
+120,belgium,egypt,6,dutch,arabic,0,3638.6479111269477,25100.0
+121,belgium,estonia,2,dutch,estonian,0,1586.1947196270894,16800.0
+122,belgium,finland,5,dutch,finnish,0,1607.4889623612185,1700.0
+123,belgium,france,187,dutch,french,0,555.605470973075,1500.0
+124,belgium,germany,70,dutch,german,0,517.5958573448568,1500.0
+125,belgium,gibraltar,1,dutch,,0,1846.5134028428151,11600.0
+126,belgium,greece,23,dutch,greek,0,2209.657967797082,9100.0
+127,belgium,holy see (vatican city state),10,dutch,,0,1181.736441444824,
+128,belgium,hong kong,2,dutch,,0,9362.623953811317,300.0
+129,belgium,hungary,10,dutch,hungarian,0,1148.0894454451834,15200.0
+130,belgium,iceland,2,dutch,icelandic,0,2148.660984533852,-1800.0
+131,belgium,india,2,dutch,hindi,0,7312.141624624859,26200.0
+132,belgium,indonesia,3,dutch,bahasa,0,12112.64850986957,25900.0
+133,belgium,ireland,9,dutch,english,0,816.9836729784982,-500.0
+134,belgium,israel,1,dutch,hebrew,0,3245.955164148522,9300.0
+135,belgium,italy,41,dutch,italian,0,1015.0039662767871,2400.0
+136,belgium,japan,2,dutch,japanese,0,9415.142951527794,900.0
+137,belgium,kazakhstan,1,dutch,kazakh,0,3230.986523797069,22800.0
+138,belgium,latvia,2,dutch,latvian,0,1496.3412439823676,18900.0
+139,belgium,luxembourg,3,dutch,luxembourgish,0,242.29288046630222,-26000.0
+140,belgium,"macedonia, the former yugoslav republic of",1,dutch,,0,1639.6618651711767,
+141,belgium,malaysia,2,dutch,bahasa,0,10256.696954173862,20100.0
+142,belgium,martinique,1,dutch,,0,7025.22776181248,14700.0
+143,belgium,mexico,2,dutch,spanish,0,9376.566353486434,20100.0
+144,belgium,monaco,4,dutch,french,0,855.8806167566834,2100.0
+145,belgium,montenegro,1,dutch,serbian,0,1435.6071480498963,
+146,belgium,morocco,7,dutch,arabic,0,2310.542308605652,25100.0
+147,belgium,nepal,1,dutch,nepali,0,7019.526036654846,27700.0
+148,belgium,netherlands,10,dutch,dutch,1,216.8282143022238,500.0
+149,belgium,norway,7,dutch,norwegian,0,1062.762130808353,-8700.0
+150,belgium,peru,1,dutch,spanish,0,10463.095770342454,24000.0
+151,belgium,poland,8,dutch,polish,0,1099.0479486819752,18000.0
+152,belgium,portugal,14,dutch,portuguese,0,1799.1816296935563,11100.0
+153,belgium,romania,2,dutch,romanian,0,1770.1924572421287,22100.0
+154,belgium,russian federation,2,dutch,,0,2211.9937930164465,
+155,belgium,rwanda,1,dutch,kinyarwanda,0,6398.804084517478,27800.0
+156,belgium,serbia,1,dutch,serbian,0,1372.0257951898614,26900.0
+157,belgium,seychelles,1,dutch,seychellois,0,7834.338090241742,21300.0
+158,belgium,singapore,3,dutch,english,0,10583.79401424839,5400.0
+159,belgium,slovakia,3,dutch,slovak,0,999.2550966043266,15800.0
+160,belgium,slovenia,3,dutch,slovene,0,918.5507707300522,10100.0
+161,belgium,south africa,2,dutch,isizulu,0,9096.950711540754,18400.0
+162,belgium,spain,70,dutch,castilian,0,1337.724830232337,7100.0
+163,belgium,sweden,16,dutch,swedish,0,1200.1514795568,2300.0
+164,belgium,switzerland,40,dutch,german,0,529.8536001618683,-3600.0
+165,belgium,"tanzania, united republic of",1,dutch,,0,6768.525437348646,
+166,belgium,thailand,3,dutch,thai,0,9194.954818054104,21700.0
+167,belgium,tunisia,2,dutch,arabic,0,1705.496655358919,22200.0
+168,belgium,turkey,23,dutch,turkish,0,2396.826823322319,22400.0
+169,belgium,united arab emirates,6,dutch,arabic,0,5155.888970037332,5900.0
+170,belgium,united kingdom,91,dutch,english,0,447.1292261855092,1400.0
+171,belgium,united states,53,dutch,english,0,7581.944374004831,-8700.0
+172,bosnia and herzegovina,australia,1,bosnian,english,0,15842.009264834707,
+173,bosnia and herzegovina,france,1,bosnian,french,0,942.2063538131916,
+174,bosnia and herzegovina,saudi arabia,1,bosnian,arabic,0,3322.6637410161306,
+175,bosnia and herzegovina,serbia,2,bosnian,serbian,0,289.033117778888,
+176,bosnia and herzegovina,spain,2,bosnian,castilian,0,1562.3879187961893,
+177,bosnia and herzegovina,turkey,2,bosnian,turkish,0,1118.1689646913646,
+178,brazil,argentina,8,portuguese,spanish,0,1920.000784945174,-3600.0
+179,brazil,canada,1,portuguese,english,0,11229.400102150297,-22200.0
+180,brazil,cape verde,1,portuguese,english,0,2890.0101886933517,6200.0
+181,brazil,chile,2,portuguese,spanish,0,2594.0289282478284,-2300.0
+182,brazil,colombia,3,portuguese,spanish,0,4372.212781525882,1300.0
+183,brazil,france,3,portuguese,french,0,9217.425163587699,-20000.0
+184,brazil,germany,1,portuguese,german,0,9747.652914100137,-20000.0
+185,brazil,indonesia,1,portuguese,bahasa,0,15627.136550477599,4400.0
+186,brazil,isle of man,1,portuguese,,0,10301.331288920168,-13400.0
+187,brazil,mexico,2,portuguese,spanish,0,7272.630992980523,-1400.0
+188,brazil,norway,1,portuguese,norwegian,0,8800.538947628329,-30200.0
+189,brazil,panama,1,portuguese,spanish,0,3757.891557382294,1300.0
+190,brazil,paraguay,2,portuguese,spanish,0,1119.8130903310214,2900.0
+191,brazil,portugal,1,portuguese,portuguese,1,7723.789600698934,-10400.0
+192,brazil,qatar,1,portuguese,arabic,0,11876.34707552787,-13900.0
+193,brazil,saudi arabia,1,portuguese,arabic,0,11765.928790594651,-4200.0
+194,brazil,south africa,1,portuguese,isizulu,0,7611.010108432988,-3100.0
+195,brazil,sweden,1,portuguese,swedish,0,10704.908312421941,-19200.0
+196,brazil,switzerland,1,portuguese,german,0,9399.908735101119,-25100.0
+197,brazil,united arab emirates,1,portuguese,arabic,0,12230.174411866741,-15600.0
+198,brazil,united states,14,portuguese,english,0,8364.699445169765,-30200.0
+199,brazil,uruguay,1,portuguese,spanish,0,1554.6565023847547,-5200.0
+200,brunei darussalam,australia,3,,english,0,5542.5157077866115,
+201,brunei darussalam,france,1,,french,0,11210.192993812572,
+202,brunei darussalam,indonesia,2,,bahasa,0,1504.4540181141253,
+203,brunei darussalam,italy,1,,italian,0,10744.850893888222,
+204,brunei darussalam,japan,1,,japanese,0,4307.200288798525,
+205,brunei darussalam,malaysia,2,,bahasa,0,1409.8117296246364,
+206,brunei darussalam,singapore,3,,english,0,1292.3378485951205,
+207,brunei darussalam,spain,1,,castilian,0,11755.329557509978,
+208,brunei darussalam,thailand,3,,thai,0,1850.9603170657394,
+209,brunei darussalam,united kingdom,2,,english,0,11220.14280735157,
+210,brunei darussalam,united states,1,,english,0,11940.82221378431,
+211,bulgaria,france,1,bulgarian,french,0,1305.4291445501099,-20000.0
+212,bulgaria,germany,2,bulgarian,german,0,1280.9848343836711,-20000.0
+213,bulgaria,hungary,1,bulgarian,hungarian,0,628.3439852241411,-6300.0
+214,bulgaria,israel,1,bulgarian,hebrew,0,1552.0748724705718,-12200.0
+215,bulgaria,monaco,1,bulgarian,french,0,1292.6923471940572,-19400.0
+216,bulgaria,switzerland,2,bulgarian,german,0,1271.8873538065936,-25100.0
+217,cambodia,canada,1,khmer,english,0,11673.06468829316,-27900.0
+218,cambodia,lao people's democratic republic,1,khmer,,0,708.9882268453634,
+219,cambodia,singapore,1,khmer,english,0,1340.8022962444463,-21800.0
+220,cambodia,spain,1,khmer,castilian,0,9977.583648557227,-20100.0
+221,cambodia,switzerland,1,khmer,german,0,9534.645517078216,-30800.0
+222,cambodia,thailand,1,khmer,thai,0,583.7243405473045,-5500.0
+223,cambodia,united states,1,khmer,english,0,13113.998427539294,-35900.0
+224,cambodia,viet nam,1,khmer,,0,619.0263640408172,
+225,canada,andorra,4,english,catalan,0,6230.427845741366,10800.0
+226,canada,antigua and barbuda,1,english,english,1,3398.4279979556077,
+227,canada,argentina,1,english,spanish,0,10642.410048006053,18600.0
+228,canada,australia,5,english,english,1,14846.725162584788,800.0
+229,canada,austria,5,english,german,0,6290.457051897636,-200.0
+230,canada,bahamas,1,english,azerbaijani,0,2024.008767688795,
+231,canada,barbados,1,english,english,1,6994.672275956217,14100.0
+232,canada,belgium,1,english,dutch,0,6020.882951651881,700.0
+233,canada,bermuda,1,english,,0,1869.9631810225126,-6200.0
+234,canada,"bolivia, plurinational state of",1,english,,0,9287.886081083558,
+235,canada,cambodia,1,english,khmer,0,11669.301241065914,27900.0
+236,canada,chile,1,english,spanish,0,10486.79328638533,19900.0
+237,canada,china,3,english,chinese,0,11212.840508717918,24800.0
+238,canada,colombia,1,english,spanish,0,6343.189989393039,23500.0
+239,canada,croatia,1,english,croatian,0,6501.263926169775,19200.0
+240,canada,cuba,1,english,spanish,0,2583.2825803253136,26900.0
+241,canada,denmark,5,english,danish,0,5457.863085702688,-1300.0
+242,canada,dominica,1,english,english,1,6657.233874131655,24400.0
+243,canada,dominican republic,4,english,spanish,0,3623.074730217048,23800.0
+244,canada,ecuador,1,english,spanish,0,4877.442002217983,26500.0
+245,canada,france,40,english,french,0,5992.274934662363,2200.0
+246,canada,germany,16,english,german,0,6597.19167151435,2200.0
+247,canada,holy see (vatican city state),4,english,,0,8352.115993044059,
+248,canada,hong kong,9,english,,0,12032.891210492156,1000.0
+249,canada,hungary,1,english,hungarian,0,6495.886686638391,15900.0
+250,canada,iceland,2,english,icelandic,0,4050.0828862221515,-1100.0
+251,canada,india,5,english,hindi,0,12855.199118525261,26900.0
+252,canada,indonesia,2,english,bahasa,0,14823.538572198806,26600.0
+253,canada,ireland,3,english,english,1,7079.783400383933,200.0
+254,canada,italy,11,english,italian,0,7698.688861589403,3100.0
+255,canada,jamaica,3,english,english,1,3876.302967128704,25900.0
+256,canada,japan,6,english,japanese,0,9582.11827529787,1600.0
+257,canada,"korea, republic of",1,english,,0,8175.4751081434715,
+258,canada,lebanon,2,english,arabic,0,8799.818234704097,25000.0
+259,canada,malaysia,2,english,bahasa,0,12905.94644844307,20800.0
+260,canada,malta,1,english,maltese,0,7120.4700592711515,12100.0
+261,canada,mexico,7,english,spanish,0,3560.120874670953,20800.0
+262,canada,monaco,4,english,french,0,6408.10879955228,2800.0
+263,canada,netherlands,7,english,dutch,0,5781.924875862322,1200.0
+264,canada,panama,2,english,spanish,0,5640.004655083324,23500.0
+265,canada,puerto rico,2,english,,0,6090.2170912884985,13000.0
+266,canada,qatar,1,english,arabic,0,10513.84409457271,8300.0
+267,canada,romania,2,english,romanian,0,9109.009799727433,22800.0
+268,canada,russian federation,1,english,,0,7926.204518943014,
+269,canada,saint barthélemy,1,english,,0,6369.476537509037,
+270,canada,saint lucia,1,english,,0,6827.819480255645,24400.0
+271,canada,saint martin (french part),1,english,,0,6336.649295870575,
+272,canada,saudi arabia,3,english,arabic,0,10640.393275101946,18000.0
+273,canada,singapore,4,english,english,1,14458.315101048833,6100.0
+274,canada,slovenia,2,english,slovene,0,6469.055784745666,10800.0
+275,canada,spain,15,english,castilian,0,6500.196208335548,7800.0
+276,canada,sweden,4,english,swedish,0,6158.419749224584,3000.0
+277,canada,switzerland,2,english,german,0,5976.564357960639,-2900.0
+278,canada,"taiwan, province of china",1,english,,0,11943.878653098729,
+279,canada,thailand,5,english,thai,0,12732.635718659865,22400.0
+280,canada,trinidad and tobago,1,english,english,1,4043.548945022027,
+281,canada,ukraine,1,english,ukrainian,0,8299.284042813197,24400.0
+282,canada,united arab emirates,1,english,arabic,0,10609.710231017674,6600.0
+283,canada,united kingdom,31,english,english,1,6046.823725497169,2100.0
+284,canada,united states,369,english,english,1,2101.5609876860317,-8000.0
+285,canada,viet nam,1,english,,0,12465.819851033708,
+286,canada,"virgin islands, u.s.",1,english,,0,3117.964045719159,
+287,chile,brazil,1,spanish,portuguese,0,3391.261805406015,2300.0
+288,chile,canada,3,spanish,english,0,8619.524839769221,-19900.0
+289,chile,denmark,2,spanish,danish,0,12623.596340678174,-21200.0
+290,chile,france,1,spanish,french,0,11638.984634435079,-17700.0
+291,chile,germany,3,spanish,german,0,12479.18000160466,-17700.0
+292,chile,mexico,1,spanish,spanish,1,7516.061846482709,900.0
+293,chile,spain,2,spanish,castilian,0,11085.13693228082,-12100.0
+294,chile,sweden,1,spanish,swedish,0,12644.41378502084,-16900.0
+295,chile,united kingdom,4,spanish,english,0,11655.622699775997,-17800.0
+296,chile,united states,6,spanish,english,0,7966.804385537311,-27900.0
+297,china,argentina,1,chinese,spanish,0,19634.594829400132,-6200.0
+298,china,australia,1,chinese,english,0,7859.917552531333,-24000.0
+299,china,cambodia,1,chinese,khmer,0,2773.298665930855,3100.0
+300,china,canada,7,chinese,english,0,9342.611340540829,-24800.0
+301,china,finland,3,chinese,finnish,0,7368.3865725912865,-22400.0
+302,china,france,5,chinese,french,0,8801.136929002172,-22600.0
+303,china,germany,1,chinese,german,0,7805.376969116995,-22600.0
+304,china,hong kong,27,chinese,,0,1606.8745271270966,-23800.0
+305,china,indonesia,3,chinese,bahasa,0,4839.260284477381,1800.0
+306,china,japan,4,chinese,japanese,0,2253.431428033802,-23200.0
+307,china,"korea, democratic people's republic of",1,chinese,,0,289.5910617377847,
+308,china,"korea, republic of",3,chinese,,0,1167.8035505853127,
+309,china,lao people's democratic republic,1,chinese,,0,2304.1785579995826,
+310,china,macao,2,chinese,,0,1250.09727045082,
+311,china,malaysia,3,chinese,bahasa,0,3497.623436434395,-4000.0
+312,china,netherlands,2,chinese,dutch,0,8724.063585841595,-23600.0
+313,china,northern mariana islands,1,chinese,,0,3960.912315170198,
+314,china,philippines,5,chinese,filipino,0,2749.999619141486,400.0
+315,china,romania,1,chinese,romanian,0,7094.88219324374,-2000.0
+316,china,singapore,6,chinese,english,0,3838.0862335670627,-18700.0
+317,china,south africa,1,chinese,isizulu,0,12551.955363297004,-5700.0
+318,china,sweden,3,chinese,swedish,0,7692.956806512383,-21800.0
+319,china,switzerland,2,chinese,german,0,8552.325087656121,-27700.0
+320,china,"taiwan, province of china",10,chinese,,0,1173.9613172545123,
+321,china,thailand,3,chinese,thai,0,2888.0363842542797,-2400.0
+322,china,united arab emirates,2,chinese,arabic,0,5835.586599890503,-18200.0
+323,china,united kingdom,8,chinese,english,0,8228.018203492004,-22700.0
+324,china,united states,23,chinese,english,0,10446.504228138556,-32800.0
+325,china,viet nam,2,chinese,,0,2272.3280075528614,
+326,colombia,argentina,1,spanish,spanish,1,4664.267564965021,-4900.0
+327,colombia,brazil,1,spanish,portuguese,0,4058.3931325896806,-1300.0
+328,colombia,mexico,1,spanish,spanish,1,3156.5370727967165,-2700.0
+329,colombia,panama,1,spanish,spanish,1,767.4846264707902,0.0
+330,colombia,peru,1,spanish,spanish,1,1883.192509951358,1200.0
+331,colombia,united states,1,spanish,english,0,5214.727033862835,-31500.0
+332,colombia,"venezuela, bolivarian republic of",1,spanish,,0,1319.9514699066056,
+333,costa rica,chile,1,spanish,spanish,1,5027.081243030432,-800.0
+334,costa rica,france,5,spanish,french,0,9197.534318298343,-18500.0
+335,costa rica,holy see (vatican city state),2,spanish,,0,9809.800354024825,
+336,costa rica,honduras,2,spanish,spanish,1,748.9715679178418,6500.0
+337,costa rica,italy,1,spanish,italian,0,9811.856946558033,-17600.0
+338,costa rica,jamaica,1,spanish,english,0,1195.4873210709452,5200.0
+339,costa rica,mexico,2,spanish,spanish,1,1930.292564747346,100.0
+340,costa rica,monaco,2,spanish,french,0,9368.74307918869,-17900.0
+341,costa rica,norway,1,spanish,norwegian,0,9167.893473204613,-28700.0
+342,costa rica,united kingdom,3,spanish,english,0,8715.825876750312,-18600.0
+343,costa rica,united states,8,spanish,english,0,2910.5760143386224,-28700.0
+344,croatia,albania,3,croatian,albanian,0,495.43058500793967,6100.0
+345,croatia,austria,3,croatian,german,0,290.3424982247581,-19400.0
+346,croatia,belgium,1,croatian,dutch,0,1079.8546560311677,-18500.0
+347,croatia,bosnia and herzegovina,8,croatian,bosnian,0,251.12096786418715,
+348,croatia,canada,1,croatian,english,0,8690.102709551642,-19200.0
+349,croatia,czech republic,2,croatian,greek,0,469.3363689051371,-5100.0
+350,croatia,denmark,1,croatian,danish,0,1068.3532952462147,-20500.0
+351,croatia,france,1,croatian,french,0,1228.7087079886503,-17000.0
+352,croatia,germany,5,croatian,german,0,690.9804626942826,-17000.0
+353,croatia,greece,1,croatian,greek,0,661.144120206424,-9400.0
+354,croatia,holy see (vatican city state),1,croatian,,0,514.5824195700097,
+355,croatia,hungary,2,croatian,hungarian,0,282.3584094319049,-3300.0
+356,croatia,ireland,4,croatian,english,0,2008.2301382947019,-19000.0
+357,croatia,italy,1,croatian,italian,0,250.35800758877573,-16100.0
+358,croatia,"korea, republic of",1,croatian,,0,8583.881599337226,
+359,croatia,"macedonia, the former yugoslav republic of",2,croatian,,0,572.5823732488956,
+360,croatia,malta,1,croatian,maltese,0,1104.5551320644356,-7100.0
+361,croatia,mexico,1,croatian,spanish,0,10593.801850164866,1600.0
+362,croatia,montenegro,5,croatian,serbian,0,326.2872346829566,
+363,croatia,netherlands,2,croatian,dutch,0,1082.0411650931478,-18000.0
+364,croatia,norway,1,croatian,norwegian,0,1881.722442681699,-27200.0
+365,croatia,serbia,6,croatian,serbian,0,408.9954574377664,8400.0
+366,croatia,slovakia,1,croatian,slovak,0,277.65754131979065,-2700.0
+367,croatia,slovenia,2,croatian,slovene,0,292.23430546515755,-8400.0
+368,croatia,spain,4,croatian,castilian,0,1351.414364385859,-11400.0
+369,croatia,sweden,2,croatian,swedish,0,1626.6860162621037,-16200.0
+370,croatia,turkey,1,croatian,turkish,0,1165.2887762832374,3900.0
+371,croatia,united kingdom,1,croatian,english,0,1707.2375220679332,-17100.0
+372,croatia,united states,5,croatian,english,0,8792.139095181767,-27200.0
+373,cyprus,china,2,greek,chinese,0,7526.42735294888,14200.0
+374,cyprus,france,1,greek,french,0,2962.789299479419,-8400.0
+375,cyprus,greece,3,greek,greek,1,906.1152412801187,-800.0
+376,cyprus,japan,3,greek,japanese,0,9104.462015526697,-9000.0
+377,cyprus,"korea, republic of",1,greek,,0,8034.721666420414,
+378,cyprus,lebanon,1,greek,arabic,0,238.73897654783232,14400.0
+379,cyprus,malaysia,1,greek,bahasa,0,8183.078669942268,10200.0
+380,cyprus,netherlands,2,greek,dutch,0,2975.213860844694,-9400.0
+381,cyprus,philippines,3,greek,filipino,0,8908.567473482117,14600.0
+382,cyprus,singapore,4,greek,english,0,8175.98863578923,-4500.0
+383,cyprus,united arab emirates,8,greek,arabic,0,2378.9976390549887,-4000.0
+384,cyprus,united kingdom,2,greek,english,0,3242.4600004515833,-8500.0
+385,cyprus,united states,1,greek,english,0,11015.836029224916,-18600.0
+386,czech republic,australia,1,greek,english,0,15860.288535390499,-13300.0
+387,czech republic,austria,9,greek,german,0,317.1990637313372,-14300.0
+388,czech republic,belgium,4,greek,dutch,0,717.0602284396152,-13400.0
+389,czech republic,bosnia and herzegovina,2,greek,bosnian,0,772.9050724741231,
+390,czech republic,brazil,1,greek,portuguese,0,10137.070737013692,8100.0
+391,czech republic,bulgaria,1,greek,bulgarian,0,848.8535642890382,8100.0
+392,czech republic,canada,2,greek,english,0,7531.757918502776,-14100.0
+393,czech republic,china,5,greek,chinese,0,8655.257613773309,10700.0
+394,czech republic,croatia,10,greek,croatian,0,750.2073045834647,5100.0
+395,czech republic,denmark,3,greek,danish,0,665.8522447429702,-15400.0
+396,czech republic,egypt,3,greek,arabic,0,2947.6687529131864,11700.0
+397,czech republic,estonia,1,greek,estonian,0,1262.9101938089152,3400.0
+398,czech republic,finland,2,greek,finnish,0,1359.7471087457907,-11700.0
+399,czech republic,france,11,greek,french,0,853.6283058828488,-11900.0
+400,czech republic,georgia,1,greek,georgian,0,2512.7645263302843,13200.0
+401,czech republic,germany,22,greek,german,0,366.68443715455,-11900.0
+402,czech republic,greece,3,greek,greek,1,1507.396873644225,-4300.0
+403,czech republic,holy see (vatican city state),5,greek,,0,922.9700206235757,
+404,czech republic,hong kong,5,greek,,0,8782.691361042773,-13100.0
+405,czech republic,hungary,11,greek,hungarian,0,333.3086744576173,1800.0
+406,czech republic,israel,3,greek,hebrew,0,2626.4602930655133,-4100.0
+407,czech republic,italy,12,greek,italian,0,810.3824493400783,-11000.0
+408,czech republic,"korea, republic of",1,greek,,0,8231.040691494405,
+409,czech republic,latvia,1,greek,latvian,0,1002.7848466483921,5500.0
+410,czech republic,lithuania,1,greek,lithuanian,0,832.3689986270477,4300.0
+411,czech republic,luxembourg,1,greek,luxembourgish,0,597.6408858258228,-39400.0
+412,czech republic,monaco,2,greek,french,0,950.4399911845934,-11300.0
+413,czech republic,netherlands,4,greek,dutch,0,735.3606268703753,-12900.0
+414,czech republic,norway,1,greek,norwegian,0,1334.8697915263417,-22100.0
+415,czech republic,"palestine, state of",2,greek,,0,2665.798110774674,
+416,czech republic,poland,11,greek,polish,0,413.40519812022376,4600.0
+417,czech republic,portugal,1,greek,portuguese,0,2240.463841127433,-2300.0
+418,czech republic,singapore,1,greek,english,0,9859.599689483313,-8000.0
+419,czech republic,slovakia,23,greek,slovak,0,392.3322643984654,2400.0
+420,czech republic,slovenia,2,greek,slovene,0,404.1529490403171,-3300.0
+421,czech republic,spain,6,greek,castilian,0,1760.096994344354,-6300.0
+422,czech republic,sweden,3,greek,swedish,0,1031.2562218003582,-11100.0
+423,czech republic,switzerland,7,greek,german,0,622.9234915514817,-17000.0
+424,czech republic,turkey,3,greek,turkish,0,1803.3937475309067,9000.0
+425,czech republic,united arab emirates,1,greek,arabic,0,4196.282707704309,-7500.0
+426,czech republic,united kingdom,8,greek,english,0,1124.9264279026331,-12000.0
+427,czech republic,united states,5,greek,english,0,7710.701028695601,-22100.0
+428,czech republic,viet nam,1,greek,,0,8961.307171648992,
+429,denmark,austria,5,danish,german,0,869.8428698073309,1100.0
+430,denmark,belgium,8,danish,dutch,0,723.9296910363026,2000.0
+431,denmark,brazil,3,danish,portuguese,0,10007.874049758335,23500.0
+432,denmark,bulgaria,2,danish,bulgarian,0,1816.5752151742136,23500.0
+433,denmark,canada,4,danish,english,0,6263.181751601127,1300.0
+434,denmark,china,2,danish,chinese,0,8265.57267789268,26100.0
+435,denmark,cyprus,2,danish,greek,0,2819.8658945558113,11900.0
+436,denmark,egypt,1,danish,arabic,0,3535.4506550001965,27100.0
+437,denmark,estonia,2,danish,estonian,0,836.9298085313224,18800.0
+438,denmark,faroe islands,1,danish,,0,1317.7814739591984,9100.0
+439,denmark,finland,8,danish,finnish,0,878.9548166346369,3700.0
+440,denmark,france,15,danish,french,0,1172.1023509830497,3500.0
+441,denmark,germany,50,danish,german,0,440.9791403317389,3500.0
+442,denmark,greece,2,danish,greek,0,2427.494500550967,11100.0
+443,denmark,holy see (vatican city state),3,danish,,0,1533.2206164934914,
+444,denmark,iceland,2,danish,icelandic,0,2047.3717812435566,200.0
+445,denmark,india,1,danish,hindi,0,6587.886345372473,28200.0
+446,denmark,ireland,2,danish,english,0,1263.6944308204916,1500.0
+447,denmark,israel,1,danish,hebrew,0,3154.62534167021,11300.0
+448,denmark,italy,16,danish,italian,0,1265.8272947984929,4400.0
+449,denmark,"korea, republic of",2,danish,,0,7938.679163998407,
+450,denmark,lithuania,2,danish,lithuanian,0,831.8672777488588,19700.0
+451,denmark,mexico,1,danish,spanish,0,9044.4482510611,22100.0
+452,denmark,netherlands,19,danish,dutch,0,571.3220904136327,2500.0
+453,denmark,norway,49,danish,norwegian,0,558.9613118223838,-6700.0
+454,denmark,poland,3,danish,polish,0,714.4314271219882,20000.0
+455,denmark,portugal,5,danish,portuguese,0,2565.7975428530945,13100.0
+456,denmark,romania,2,danish,romanian,0,1409.1567210558514,24100.0
+457,denmark,singapore,1,danish,english,0,9962.394520250298,7400.0
+458,denmark,slovenia,1,danish,slovene,0,1026.3028418969247,12100.0
+459,denmark,spain,23,danish,castilian,0,2055.833717621362,9100.0
+460,denmark,sweden,53,danish,swedish,0,495.801089014731,4300.0
+461,denmark,switzerland,5,danish,german,0,1019.8909513328553,-1600.0
+462,denmark,"taiwan, province of china",1,danish,,0,8828.783812435324,
+463,denmark,thailand,1,danish,thai,0,8975.768055555549,23700.0
+464,denmark,tunisia,1,danish,arabic,0,2429.8687859989277,24200.0
+465,denmark,turkey,3,danish,turkish,0,2538.6160255118994,24400.0
+466,denmark,ukraine,1,danish,ukrainian,0,1326.3965554399078,25700.0
+467,denmark,united arab emirates,1,danish,arabic,0,4829.0393061585455,7900.0
+468,denmark,united kingdom,32,danish,english,0,917.26079941728,3400.0
+469,denmark,united states,30,danish,english,0,7602.476774527883,-6700.0
+470,dominican republic,australia,1,spanish,english,0,17921.795716559704,-23000.0
+471,dominican republic,austria,2,spanish,german,0,8167.514518628012,-24000.0
+472,dominican republic,belgium,1,spanish,dutch,0,7261.0576078083395,-23100.0
+473,dominican republic,brazil,1,spanish,portuguese,0,4923.18809192648,-1600.0
+474,dominican republic,denmark,1,spanish,danish,0,7775.6095987086055,-25100.0
+475,dominican republic,egypt,1,spanish,arabic,0,9973.876910978413,2000.0
+476,dominican republic,germany,3,spanish,german,0,7805.866129769992,-21600.0
+477,dominican republic,ireland,1,spanish,english,0,6436.3905380209635,-23600.0
+478,dominican republic,norway,1,spanish,norwegian,0,7622.106500696784,-31800.0
+479,dominican republic,philippines,1,spanish,filipino,0,16238.238672264131,1400.0
+480,dominican republic,portugal,1,spanish,portuguese,0,6216.89595424121,-12000.0
+481,dominican republic,spain,2,spanish,castilian,0,5820.680954263931,-16000.0
+482,dominican republic,switzerland,1,spanish,german,0,7586.448171096505,-26700.0
+483,dominican republic,united arab emirates,1,spanish,arabic,0,12308.777491130142,-17200.0
+484,dominican republic,united kingdom,6,spanish,english,0,6896.2998958888365,-21700.0
+485,dominican republic,united states,3,spanish,english,0,2919.7061832663503,-31800.0
+486,egypt,afghanistan,1,arabic,dari,0,3592.939354847922,3300.0
+487,egypt,belgium,2,arabic,dutch,0,3552.355497850291,-25100.0
+488,egypt,canada,1,arabic,english,0,9213.95564890755,-25800.0
+489,egypt,china,1,arabic,chinese,0,8356.752461023807,-1000.0
+490,egypt,france,3,arabic,french,0,3104.2966621282344,-23600.0
+491,egypt,greece,1,arabic,greek,0,1487.281989738713,-16000.0
+492,egypt,holy see (vatican city state),2,arabic,,0,2139.16244638219,
+493,egypt,israel,2,arabic,hebrew,0,434.65266117075004,-15800.0
+494,egypt,jordan,2,arabic,arabic,1,493.25102492950873,-300.0
+495,egypt,malaysia,1,arabic,bahasa,0,7951.785111304185,-5000.0
+496,egypt,"palestine, state of",1,arabic,,0,370.95886217132085,
+497,egypt,romania,1,arabic,romanian,0,1792.6413832704834,-3000.0
+498,egypt,russian federation,1,arabic,,0,3021.796841053262,
+499,egypt,saudi arabia,3,arabic,arabic,1,1583.6835150450145,-7800.0
+500,egypt,spain,1,arabic,castilian,0,2928.091918499074,-18000.0
+501,egypt,ukraine,1,arabic,ukrainian,0,2269.4117429794715,-1400.0
+502,egypt,united arab emirates,4,arabic,arabic,1,2428.485350027877,-19200.0
+503,egypt,united kingdom,3,arabic,english,0,3670.6202609036254,-23700.0
+504,egypt,united states,2,arabic,english,0,9021.081143797448,-33800.0
+505,el salvador,austria,1,spanish,german,0,9994.315819630176,-25200.0
+506,el salvador,costa rica,1,spanish,spanish,1,688.2737004651151,-4300.0
+507,el salvador,czech republic,1,spanish,greek,0,9788.86791584858,-10900.0
+508,el salvador,hungary,1,spanish,hungarian,0,10208.699101928089,-9100.0
+509,el salvador,netherlands,1,spanish,dutch,0,9081.598812255043,-23800.0
+510,el salvador,spain,2,spanish,castilian,0,8652.965548162443,-17200.0
+511,el salvador,united states,2,spanish,english,0,2495.323382498678,-33000.0
+512,estonia,bulgaria,1,estonian,bulgarian,0,1861.0439669430918,4700.0
+513,estonia,canada,1,estonian,english,0,7514.702723445845,-17500.0
+514,estonia,china,1,estonian,chinese,0,6890.907166938703,7300.0
+515,estonia,czech republic,1,estonian,greek,0,1229.5454501192767,-3400.0
+516,estonia,denmark,1,estonian,danish,0,835.1373753184354,-18800.0
+517,estonia,finland,2,estonian,finnish,0,246.72148921426665,-15100.0
+518,estonia,france,1,estonian,french,0,2113.3787492184606,-15300.0
+519,estonia,germany,1,estonian,german,0,1463.8881813528526,-15300.0
+520,estonia,greece,2,estonian,greek,0,2567.15282920145,-7700.0
+521,estonia,holy see (vatican city state),1,estonian,,0,2123.7746185505757,
+522,estonia,indonesia,1,estonian,bahasa,0,10868.173596034543,9100.0
+523,estonia,italy,3,estonian,italian,0,2172.236195473868,-14400.0
+524,estonia,latvia,1,estonian,latvian,0,277.88162870514145,2100.0
+525,estonia,lithuania,1,estonian,lithuanian,0,530.3342151069123,900.0
+526,estonia,maldives,1,estonian,dhivehi,0,7275.956712957199,8400.0
+527,estonia,netherlands,2,estonian,dutch,0,1457.2132837578222,-16300.0
+528,estonia,poland,1,estonian,polish,0,953.8709248862511,1200.0
+529,estonia,portugal,1,estonian,portuguese,0,3305.1790176161953,-5700.0
+530,estonia,spain,1,estonian,castilian,0,2538.967392049206,-9700.0
+531,estonia,sweden,2,estonian,swedish,0,385.73383107406494,-14500.0
+532,estonia,switzerland,1,estonian,german,0,1868.7845543226456,-20400.0
+533,estonia,united arab emirates,1,estonian,arabic,0,4480.986906439171,-10900.0
+534,estonia,united kingdom,2,estonian,english,0,1789.690580583821,-15400.0
+535,estonia,united states,2,estonian,english,0,8811.398844003124,-25500.0
+536,faroe islands,denmark,2,,danish,0,1160.743534665476,-9100.0
+537,faroe islands,sweden,2,,swedish,0,1343.563448334486,-4800.0
+538,faroe islands,united kingdom,1,,english,0,343.11889435337423,-5700.0
+539,finland,australia,1,finnish,english,0,14857.33359314927,-1600.0
+540,finland,austria,2,finnish,german,0,1590.449132762927,-2600.0
+541,finland,belgium,2,finnish,dutch,0,1649.163088028913,-1700.0
+542,finland,denmark,11,finnish,danish,0,928.0594964712224,-3700.0
+543,finland,egypt,1,finnish,arabic,0,3242.6136764519424,23400.0
+544,finland,france,8,finnish,french,0,2002.4316884765824,-200.0
+545,finland,germany,14,finnish,german,0,1212.2041491566513,-200.0
+546,finland,greece,3,finnish,greek,0,2513.236995428827,7400.0
+547,finland,hungary,1,finnish,hungarian,0,1463.123849042143,13500.0
+548,finland,ireland,3,finnish,english,0,2167.048644384436,-2200.0
+549,finland,italy,5,finnish,italian,0,2227.3856436277247,700.0
+550,finland,japan,4,finnish,japanese,0,7824.905634856126,-800.0
+551,finland,latvia,3,finnish,latvian,0,407.08399783002284,17200.0
+552,finland,lithuania,1,finnish,lithuanian,0,611.5942443708495,16000.0
+553,finland,malta,1,finnish,maltese,0,2790.225001437587,9700.0
+554,finland,monaco,1,finnish,french,0,2171.382004342305,400.0
+555,finland,morocco,1,finnish,arabic,0,3785.3079204224396,23400.0
+556,finland,netherlands,10,finnish,dutch,0,1520.9316618463806,-1200.0
+557,finland,norway,6,finnish,norwegian,0,844.6648476720056,-10400.0
+558,finland,poland,2,finnish,polish,0,738.3819714260513,16300.0
+559,finland,russian federation,5,finnish,,0,426.24153211372743,
+560,finland,singapore,1,finnish,english,0,9273.1163559939,3700.0
+561,finland,slovakia,1,finnish,slovak,0,1351.830156517776,14100.0
+562,finland,spain,6,finnish,castilian,0,2652.303292007077,5400.0
+563,finland,sweden,15,finnish,swedish,0,453.1730990056826,600.0
+564,finland,switzerland,2,finnish,german,0,1982.8643748968752,-5300.0
+565,finland,turkey,3,finnish,turkish,0,2318.3176830153025,20700.0
+566,finland,ukraine,1,finnish,ukrainian,0,1199.8985438921063,22000.0
+567,finland,united kingdom,27,finnish,english,0,1827.873175642507,-300.0
+568,finland,united states,14,finnish,english,0,7874.102082622263,-10400.0
+569,finland,åland islands,3,finnish,,0,277.0682237943345,
+570,france,australia,2,french,english,0,16897.37155164298,-1400.0
+571,france,austria,8,french,german,0,865.2600871523678,-2400.0
+572,france,belgium,41,french,dutch,0,333.70055398475705,-1500.0
+573,france,brazil,1,french,portuguese,0,9080.61535422548,20000.0
+574,france,bulgaria,2,french,bulgarian,0,1700.8572159689113,20000.0
+575,france,canada,10,french,english,0,6236.203131803831,-2200.0
+576,france,china,5,french,chinese,0,8879.579983034675,22600.0
+577,france,croatia,8,french,croatian,0,699.3043480591689,17000.0
+578,france,czech republic,5,french,greek,0,887.1646493381825,11900.0
+579,france,denmark,6,french,danish,0,1317.1067672440934,-3500.0
+580,france,egypt,1,french,arabic,0,3211.1189321200777,23600.0
+581,france,finland,1,french,finnish,0,1726.0590897007778,200.0
+582,france,germany,31,french,german,0,632.6175541724705,0.0
+583,france,greece,7,french,greek,0,2056.7280062425216,7600.0
+584,france,holy see (vatican city state),8,french,,0,1105.6491450583162,
+585,france,hong kong,4,french,,0,9611.715535043353,-1200.0
+586,france,hungary,1,french,hungarian,0,1245.4684463837125,13700.0
+587,france,india,1,french,hindi,0,6895.604332009036,24700.0
+588,france,indonesia,3,french,bahasa,0,12399.123189527652,24400.0
+589,france,ireland,3,french,english,0,904.5961327584996,-2000.0
+590,france,israel,5,french,hebrew,0,3280.013934350733,7800.0
+591,france,italy,30,french,italian,0,809.6673412186433,900.0
+592,france,japan,2,french,japanese,0,9716.061674992936,-600.0
+593,france,luxembourg,4,french,luxembourgish,0,270.8135205386713,-27500.0
+594,france,malaysia,1,french,bahasa,0,10165.74467153041,18600.0
+595,france,maldives,1,french,dhivehi,0,8287.768130078372,23700.0
+596,france,malta,1,french,maltese,0,1748.518537132507,9900.0
+597,france,mauritius,3,french,creole,0,9210.95519754916,16200.0
+598,france,mexico,1,french,spanish,0,9380.839079138492,18600.0
+599,france,monaco,5,french,french,1,641.3244592833747,600.0
+600,france,morocco,5,french,arabic,0,2093.649395190921,23600.0
+601,france,namibia,1,french,oshiwambo,0,8055.956132821993,20400.0
+602,france,netherlands,27,french,dutch,0,499.12242262441504,-1000.0
+603,france,norway,18,french,norwegian,0,1584.4625413215867,-10200.0
+604,france,poland,2,french,polish,0,1202.3633871668542,16500.0
+605,france,portugal,10,french,portuguese,0,1319.3115951371478,9600.0
+606,france,qatar,1,french,arabic,0,4976.36312783189,6100.0
+607,france,russian federation,1,french,,0,2422.790708871958,
+608,france,san marino,2,french,italian,0,949.4060435899562,-7000.0
+609,france,saudi arabia,5,french,arabic,0,4442.37947351091,15800.0
+610,france,serbia,3,french,serbian,0,1070.5358889009506,25400.0
+611,france,slovakia,3,french,slovak,0,1159.1833790358983,14300.0
+612,france,slovenia,1,french,slovene,0,965.8381813175835,8600.0
+613,france,south africa,1,french,isizulu,0,8727.169965691923,16900.0
+614,france,spain,23,french,castilian,0,1025.2227670393324,5600.0
+615,france,sweden,16,french,swedish,0,1468.966984649371,800.0
+616,france,switzerland,26,french,german,0,442.8999522587483,-5100.0
+617,france,"taiwan, province of china",2,french,,0,9819.431548454882,
+618,france,thailand,6,french,thai,0,9414.86558147227,20200.0
+619,france,tunisia,2,french,arabic,0,1055.409111874247,20700.0
+620,france,turkey,4,french,turkish,0,2274.3246284739016,20900.0
+621,france,united arab emirates,4,french,arabic,0,5252.9537169346795,4400.0
+622,france,united kingdom,56,french,english,0,446.42202553518194,-100.0
+623,france,united states,47,french,english,0,7363.234642236278,-10200.0
+624,france,uruguay,1,french,spanish,0,10962.688129275386,14800.0
+625,france,viet nam,1,french,,0,9214.510960411499,
+626,germany,albania,2,german,albanian,0,1395.654921864684,23100.0
+627,germany,argentina,1,german,spanish,0,11825.96494091395,16400.0
+628,germany,armenia,1,german,armenian,0,2754.7461136392953,24100.0
+629,germany,australia,7,german,english,0,15775.027200097133,-1400.0
+630,germany,austria,190,german,german,1,538.9163302566868,-2400.0
+631,germany,bahamas,1,german,azerbaijani,0,7583.1887544606425,
+632,germany,bahrain,1,german,arabic,0,4507.811166659187,10700.0
+633,germany,belarus,2,german,russian,0,1359.7207558455962,21500.0
+634,germany,belgium,28,german,dutch,0,356.7340676838623,-1500.0
+635,germany,"bolivia, plurinational state of",2,german,,0,10478.911110873136,
+636,germany,botswana,1,german,setswana,0,8390.009237610184,18600.0
+637,germany,brazil,4,german,portuguese,0,9721.703167546022,20000.0
+638,germany,bulgaria,6,german,bulgarian,0,1506.647815469347,20000.0
+639,germany,cambodia,2,german,khmer,0,9182.151173504359,25700.0
+640,germany,canada,27,german,english,0,7081.244506922215,-2200.0
+641,germany,cape verde,1,german,english,0,4657.411300879568,26200.0
+642,germany,cayman islands,1,german,,0,8473.500547924308,-7400.0
+643,germany,chile,1,german,spanish,0,12369.502860853112,17700.0
+644,germany,china,13,german,chinese,0,8796.694010193101,22600.0
+645,germany,colombia,1,german,spanish,0,8759.476038870158,21300.0
+646,germany,costa rica,3,german,spanish,0,9459.046482836724,18500.0
+647,germany,croatia,14,german,croatian,0,671.924682012802,17000.0
+648,germany,cyprus,1,german,greek,0,2478.6481390756344,8400.0
+649,germany,czech republic,54,german,greek,0,400.4081835422578,11900.0
+650,germany,denmark,42,german,danish,0,540.4098255829057,-3500.0
+651,germany,dominica,1,german,english,0,7308.091292197341,22200.0
+652,germany,dominican republic,3,german,spanish,0,7713.959438927914,21600.0
+653,germany,egypt,12,german,arabic,0,3311.056394086277,23600.0
+654,germany,estonia,2,german,estonian,0,1342.0034488386225,15300.0
+655,germany,ethiopia,1,german,oromo,0,5041.331474985091,26900.0
+656,germany,finland,20,german,finnish,0,1461.7503609122027,200.0
+657,germany,france,149,german,french,0,590.4937313442647,0.0
+658,germany,french southern territories,1,german,,0,14985.246476809778,
+659,germany,georgia,1,german,georgian,0,2456.312991179611,25100.0
+660,germany,ghana,1,german,asante,0,5112.733252614391,25400.0
+661,germany,greece,33,german,greek,0,1832.07033088783,7600.0
+662,germany,holy see (vatican city state),9,german,,0,1082.4451643506388,
+663,germany,hong kong,14,german,,0,9158.251873469684,-1200.0
+664,germany,hungary,23,german,hungarian,0,769.0764190116624,13700.0
+665,germany,iceland,7,german,icelandic,0,2333.2120960367442,-3300.0
+666,germany,india,11,german,hindi,0,7060.211303306396,24700.0
+667,germany,indonesia,4,german,bahasa,0,11666.156619848025,24400.0
+668,germany,ireland,13,german,english,0,1193.3426025156807,-2000.0
+669,germany,israel,4,german,hebrew,0,3077.6793934706766,7800.0
+670,germany,italy,103,german,italian,0,768.3500899949308,900.0
+671,germany,japan,11,german,japanese,0,9257.77228934745,-600.0
+672,germany,jersey,1,german,,0,787.8472274392464,2800.0
+673,germany,jordan,1,german,arabic,0,3074.364340598612,23300.0
+674,germany,kenya,2,german,english,0,6626.7199078243975,26600.0
+675,germany,"korea, republic of",2,german,,0,8559.819380311887,
+676,germany,kuwait,2,german,arabic,0,3960.562894664418,8600.0
+677,germany,lao people's democratic republic,2,german,,0,8222.207933837535,
+678,germany,latvia,2,german,latvian,0,859.0694972698138,17400.0
+679,germany,lithuania,3,german,lithuanian,0,1194.0206930750342,16200.0
+680,germany,luxembourg,6,german,luxembourgish,0,320.1654949489996,-27500.0
+681,germany,"macedonia, the former yugoslav republic of",1,german,,0,1444.3785813915113,
+682,germany,malaysia,11,german,bahasa,0,9897.190666803117,18600.0
+683,germany,maldives,3,german,dhivehi,0,7925.687943724563,23700.0
+684,germany,malta,3,german,maltese,0,1420.3374172679414,9900.0
+685,germany,mexico,4,german,spanish,0,9004.725528908395,18600.0
+686,germany,monaco,8,german,french,0,663.9525104725768,600.0
+687,germany,montenegro,2,german,serbian,0,1034.662466872537,
+688,germany,morocco,3,german,arabic,0,2858.188722134223,23600.0
+689,germany,myanmar,1,german,makhuwa,0,8415.26222536632,
+690,germany,namibia,1,german,oshiwambo,0,8014.438475656256,20400.0
+691,germany,nepal,5,german,nepali,0,6688.849419996914,26200.0
+692,germany,netherlands,105,german,dutch,0,416.8156677475419,-1000.0
+693,germany,new zealand,1,german,english,0,18290.859567558506,6000.0
+694,germany,nigeria,1,german,english,0,4685.152704324231,26700.0
+695,germany,norway,15,german,norwegian,0,1555.9888027215738,-10200.0
+696,germany,oman,5,german,arabic,0,4977.570045810205,14500.0
+697,germany,"palestine, state of",1,german,,0,3070.1312049264975,
+698,germany,paraguay,1,german,spanish,0,10611.024348143956,22900.0
+699,germany,peru,3,german,spanish,0,10692.535201779505,22500.0
+700,germany,philippines,1,german,filipino,0,10679.502003303056,23000.0
+701,germany,poland,36,german,polish,0,699.4309766443827,16500.0
+702,germany,portugal,20,german,portuguese,0,1981.8270716426891,9600.0
+703,germany,qatar,5,german,arabic,0,4598.243415454229,6100.0
+704,germany,romania,7,german,romanian,0,1153.1293817323985,20600.0
+705,germany,russian federation,6,german,,0,1873.7732779847413,
+706,germany,saint kitts and nevis,1,german,,0,7247.539287773802,
+707,germany,saudi arabia,2,german,arabic,0,4133.010999650329,15800.0
+708,germany,serbia,5,german,serbian,0,1043.1697152554577,25400.0
+709,germany,seychelles,1,german,seychellois,0,7438.5835517636315,19800.0
+710,germany,singapore,11,german,english,0,10285.151423287707,3900.0
+711,germany,sint maarten (dutch part),1,german,,0,7156.442733981084,
+712,germany,slovakia,5,german,slovak,0,636.7458871230425,14300.0
+713,germany,slovenia,2,german,slovene,0,779.0912787143492,8600.0
+714,germany,south africa,10,german,isizulu,0,9108.539000115043,16900.0
+715,germany,spain,172,german,castilian,0,1650.6138893250948,5600.0
+716,germany,swaziland,1,german,,0,8565.79808830956,22700.0
+717,germany,sweden,52,german,swedish,0,1072.534127555634,800.0
+718,germany,switzerland,135,german,german,1,467.9362471521456,-5100.0
+719,germany,syrian arab republic,1,german,,0,3039.953342971148,
+720,germany,"taiwan, province of china",2,german,,0,9436.321719096346,
+721,germany,thailand,13,german,thai,0,9083.265756318659,20200.0
+722,germany,tunisia,5,german,arabic,0,1652.6936577820306,20700.0
+723,germany,turkey,43,german,turkish,0,2036.9521319748274,20900.0
+724,germany,uganda,1,german,english,0,5994.192182004082,26200.0
+725,germany,ukraine,3,german,ukrainian,0,1471.983944408892,22200.0
+726,germany,united arab emirates,28,german,arabic,0,4743.026639511307,4400.0
+727,germany,united kingdom,159,german,english,0,756.5461693929786,-100.0
+728,germany,united states,168,german,english,0,7916.806953750811,-10200.0
+729,germany,"venezuela, bolivarian republic of",3,german,,0,8253.730576112199,
+730,germany,viet nam,5,german,,0,9224.676500144513,
+731,germany,"virgin islands, u.s.",1,german,,0,7332.229803315969,
+732,gibraltar,argentina,1,,spanish,0,9595.650937381331,6300.0
+733,gibraltar,brazil,1,,portuguese,0,7737.727489036019,9900.0
+734,gibraltar,chile,1,,spanish,0,10285.979020700051,7600.0
+735,gibraltar,czech republic,1,,greek,0,2219.299360454288,1800.0
+736,gibraltar,germany,4,,german,0,1910.5020948269266,-10100.0
+737,gibraltar,peru,1,,spanish,0,8877.491174391103,12400.0
+738,gibraltar,spain,3,,castilian,0,841.3445881468301,-4500.0
+739,gibraltar,sweden,3,,swedish,0,2692.1599205484495,-9300.0
+740,gibraltar,switzerland,1,,german,0,1720.7920056121259,-15200.0
+741,gibraltar,united kingdom,3,,english,0,1752.346868031457,-10200.0
+742,greece,belgium,1,greek,dutch,0,2399.3017188937047,-9100.0
+743,greece,croatia,1,greek,croatian,0,704.8120258365046,9400.0
+744,greece,czech republic,1,greek,greek,1,1536.4219936419893,4300.0
+745,greece,denmark,2,greek,danish,0,2130.881726492547,-11100.0
+746,greece,france,1,greek,french,0,2101.6503001467854,-7600.0
+747,greece,germany,3,greek,german,0,1798.6924706611633,-7600.0
+748,greece,italy,3,greek,italian,0,1116.7632363174068,-6700.0
+749,greece,netherlands,1,greek,dutch,0,2402.3716878735313,-8600.0
+750,greece,norway,3,greek,norwegian,0,2762.8804418975524,-17800.0
+751,greece,serbia,1,greek,serbian,0,594.4815661299135,17800.0
+752,greece,spain,1,greek,castilian,0,1878.5561065980467,-2000.0
+753,greece,sweden,5,greek,swedish,0,2391.2869026086732,-6800.0
+754,greece,switzerland,3,greek,german,0,1701.205155530052,-12700.0
+755,greece,united kingdom,3,greek,english,0,2412.7719517801497,-7700.0
+756,greece,united states,3,greek,english,0,10276.722797005177,-17800.0
+757,guam,cambodia,1,,khmer,0,4419.498870547841,19100.0
+758,guam,japan,1,,japanese,0,2517.0834754494626,-7200.0
+759,guam,"korea, republic of",1,,,0,3223.5683061470118,
+760,guam,philippines,1,,filipino,0,2610.657615257005,16400.0
+761,guam,thailand,1,,thai,0,4928.947337143149,13600.0
+762,guam,united states,2,,english,0,10164.319721322216,-16800.0
+763,guatemala,bhutan,1,spanish,sharchhopka,0,15336.625835653294,2800.0
+764,guernsey,spain,1,,castilian,0,1211.5958352153566,-2000.0
+765,guernsey,united kingdom,1,,english,0,283.1143369295827,-7700.0
+766,holy see (vatican city state),canada,1,,english,0,7218.759466341283,
+767,holy see (vatican city state),denmark,2,,danish,0,1530.4308198933343,
+768,holy see (vatican city state),france,7,,french,0,825.6146149906933,
+769,holy see (vatican city state),germany,3,,german,0,740.6844662308464,
+770,holy see (vatican city state),ireland,1,,english,0,1982.8392609703897,
+771,holy see (vatican city state),italy,21,,italian,0,388.3874465530131,
+772,holy see (vatican city state),latvia,1,,latvian,0,1859.6375298947048,
+773,holy see (vatican city state),mexico,1,,spanish,0,9236.062215675724,
+774,holy see (vatican city state),netherlands,1,,dutch,0,1293.6134645271811,
+775,holy see (vatican city state),norway,8,,norwegian,0,2057.4953321472567,
+776,holy see (vatican city state),spain,3,,castilian,0,923.968371833969,
+777,holy see (vatican city state),sweden,2,,swedish,0,1965.9819664974252,
+778,holy see (vatican city state),switzerland,1,,german,0,690.2255722339601,
+779,holy see (vatican city state),united kingdom,9,,english,0,1559.0575590471717,
+780,holy see (vatican city state),united states,4,,english,0,10924.146710659847,
+781,hong kong,australia,3,,english,0,7238.971672424746,-200.0
+782,hong kong,canada,7,,english,0,11034.721664528588,-1000.0
+783,hong kong,china,12,,chinese,0,1138.9777803287782,23800.0
+784,hong kong,finland,1,,finnish,0,7825.296989687139,1400.0
+785,hong kong,france,2,,french,0,9630.331584408585,1200.0
+786,hong kong,india,1,,hindi,0,3997.178214131026,25900.0
+787,hong kong,indonesia,1,,bahasa,0,3321.031938498481,25600.0
+788,hong kong,italy,2,,italian,0,9359.077173069529,2100.0
+789,hong kong,japan,8,,japanese,0,2053.732665131006,600.0
+790,hong kong,"korea, republic of",2,,,0,2084.005077112435,
+791,hong kong,malaysia,4,,bahasa,0,2350.9791233246438,19800.0
+792,hong kong,new zealand,1,,english,0,9137.986265698564,7200.0
+793,hong kong,philippines,2,,filipino,0,1169.5173436402888,24200.0
+794,hong kong,singapore,7,,english,0,2581.04942702534,5100.0
+795,hong kong,spain,2,,castilian,0,10544.61452546338,6800.0
+796,hong kong,sweden,3,,swedish,0,8282.081646976552,2000.0
+797,hong kong,"taiwan, province of china",7,,,0,801.4786043840356,
+798,hong kong,thailand,3,,thai,0,1722.7261137716719,21400.0
+799,hong kong,turkey,2,,turkish,0,8024.934151100977,22100.0
+800,hong kong,united kingdom,3,,english,0,9626.553410702396,1100.0
+801,hong kong,united states,9,,english,0,12731.729540530761,-9000.0
+802,hungary,afghanistan,1,hungarian,dari,0,4360.974427646616,13200.0
+803,hungary,albania,1,hungarian,albanian,0,688.6690297064703,9400.0
+804,hungary,argentina,1,hungarian,spanish,0,11933.45631122969,2700.0
+805,hungary,austria,14,hungarian,german,0,339.5235090753977,-16100.0
+806,hungary,azerbaijan,1,hungarian,azerbaijani,0,2584.1551152676284,10500.0
+807,hungary,belgium,5,hungarian,dutch,0,1249.9903050765438,-15200.0
+808,hungary,brunei darussalam,1,hungarian,,0,10043.114632232333,
+809,hungary,china,2,hungarian,chinese,0,7671.653431934719,8900.0
+810,hungary,croatia,4,hungarian,croatian,0,480.5649363526406,3300.0
+811,hungary,czech republic,7,hungarian,greek,0,405.4839058793563,-1800.0
+812,hungary,denmark,1,hungarian,danish,0,1020.8750736404091,-17200.0
+813,hungary,djibouti,1,hungarian,french,0,4583.088643921928,12600.0
+814,hungary,egypt,1,hungarian,arabic,0,2498.518629733627,9900.0
+815,hungary,finland,1,hungarian,finnish,0,1475.9102088538857,-13500.0
+816,hungary,france,3,hungarian,french,0,1444.527379621292,-13700.0
+817,hungary,germany,8,hungarian,german,0,716.4023009274961,-13700.0
+818,hungary,guam,1,hungarian,,0,11366.22531901988,-7100.0
+819,hungary,holy see (vatican city state),1,hungarian,,0,809.22248110335,
+820,hungary,iceland,1,hungarian,icelandic,0,3073.4879351528093,-17000.0
+821,hungary,"iran, islamic republic of",1,hungarian,,0,2962.9375568367004,
+822,hungary,israel,1,hungarian,hebrew,0,2185.9803691865436,-5900.0
+823,hungary,italy,6,hungarian,italian,0,664.3647621197595,-12800.0
+824,hungary,japan,1,hungarian,japanese,0,9043.565427586034,-14300.0
+825,hungary,kenya,1,hungarian,english,0,6077.674303356977,12900.0
+826,hungary,libya,1,hungarian,arabic,0,1697.215747246987,7500.0
+827,hungary,malaysia,1,hungarian,bahasa,0,9198.831896383525,4900.0
+828,hungary,malta,2,hungarian,maltese,0,1347.614333566591,-3800.0
+829,hungary,montenegro,1,hungarian,serbian,0,581.660274325103,
+830,hungary,netherlands,2,hungarian,dutch,0,1234.0911787392001,-14700.0
+831,hungary,new zealand,1,hungarian,english,0,15289.181126293359,-7700.0
+832,hungary,papua new guinea,1,hungarian,tok,0,13585.36627324839,11700.0
+833,hungary,poland,3,hungarian,polish,0,544.3504708417211,2800.0
+834,hungary,romania,5,hungarian,romanian,0,621.2749814688735,6900.0
+835,hungary,russian federation,1,hungarian,,0,1562.1999348274917,
+836,hungary,senegal,1,hungarian,french,0,4957.410288378731,12300.0
+837,hungary,serbia,3,hungarian,serbian,0,267.7012791412982,11700.0
+838,hungary,singapore,1,hungarian,english,0,9511.875896073157,-9800.0
+839,hungary,slovenia,6,hungarian,slovene,0,289.64473549274265,-5100.0
+840,hungary,spain,4,hungarian,castilian,0,1936.9967182467315,-8100.0
+841,hungary,sweden,3,hungarian,swedish,0,1005.1353381445485,-12900.0
+842,hungary,switzerland,4,hungarian,german,0,798.7212690157528,-18800.0
+843,hungary,united kingdom,11,hungarian,english,0,1643.223611058362,-13800.0
+844,hungary,united states,7,hungarian,english,0,7834.6314810882,-23900.0
+845,iceland,netherlands,1,icelandic,dutch,0,2016.0233244265319,2300.0
+846,iceland,norway,1,icelandic,norwegian,0,1559.6764015713475,-6900.0
+847,iceland,united kingdom,2,icelandic,english,0,1571.081488829495,3200.0
+848,iceland,united states,3,icelandic,english,0,6161.224591138354,-6900.0
+849,india,afghanistan,2,hindi,dari,0,2160.3281826329776,2200.0
+850,india,bahrain,1,hindi,arabic,0,2677.3140990630313,-14000.0
+851,india,canada,1,hindi,english,0,12840.971219368077,-26900.0
+852,india,china,2,hindi,chinese,0,4911.9924735622335,-2100.0
+853,india,france,2,hindi,french,0,7687.7826679828795,-24700.0
+854,india,germany,3,hindi,german,0,7150.720057005921,-24700.0
+855,india,hong kong,5,hindi,,0,3739.76549603956,-25900.0
+856,india,italy,2,hindi,italian,0,7435.694892030871,-23800.0
+857,india,japan,1,hindi,japanese,0,6319.8367913199045,-25300.0
+858,india,malaysia,2,hindi,bahasa,0,2621.8740618906354,-6100.0
+859,india,qatar,2,hindi,arabic,0,3050.68760148712,-18600.0
+860,india,singapore,1,hindi,english,0,2905.9383828329705,-20800.0
+861,india,spain,1,hindi,castilian,0,7416.973461521858,-19100.0
+862,india,switzerland,1,hindi,german,0,7512.938450591615,-29800.0
+863,india,thailand,4,hindi,thai,0,2554.388777149236,-4500.0
+864,india,united arab emirates,2,hindi,arabic,0,2133.1780127004295,-20300.0
+865,india,united kingdom,5,hindi,english,0,8251.004744691938,-24800.0
+866,india,united states,6,hindi,english,0,13609.786767207554,-34900.0
+867,indonesia,australia,10,bahasa,english,0,4368.017432019069,-25800.0
+868,indonesia,belgium,1,bahasa,dutch,0,12213.411517164755,-25900.0
+869,indonesia,brunei darussalam,2,bahasa,,0,1587.9875943015472,
+870,indonesia,cambodia,1,bahasa,khmer,0,2585.2818941008545,1300.0
+871,indonesia,canada,1,bahasa,english,0,14419.811382557446,-26600.0
+872,indonesia,china,4,bahasa,chinese,0,4003.319034857343,-1800.0
+873,indonesia,christmas island,1,bahasa,,0,732.4131504741971,
+874,indonesia,germany,4,bahasa,german,0,11893.975346588275,-24400.0
+875,indonesia,hong kong,1,bahasa,,0,3423.660216304705,-25600.0
+876,indonesia,"iran, islamic republic of",1,bahasa,,0,7767.079268916775,
+877,indonesia,japan,2,bahasa,japanese,0,5388.152342280829,-25000.0
+878,indonesia,malaysia,12,bahasa,bahasa,1,1334.5901439715012,-5800.0
+879,indonesia,netherlands,3,bahasa,dutch,0,11415.689986418938,-25400.0
+880,indonesia,new zealand,1,bahasa,english,0,6751.109226283952,-18400.0
+881,indonesia,philippines,1,bahasa,filipino,0,2789.632572481527,-1400.0
+882,indonesia,poland,2,bahasa,polish,0,10503.107377335262,-7900.0
+883,indonesia,saudi arabia,2,bahasa,arabic,0,8916.841600645246,-8600.0
+884,indonesia,singapore,20,bahasa,english,0,915.7383776894367,-20500.0
+885,indonesia,spain,1,bahasa,castilian,0,12790.713038293336,-18800.0
+886,indonesia,sweden,1,bahasa,swedish,0,11245.07864182986,-23600.0
+887,indonesia,"taiwan, province of china",1,bahasa,,0,3816.595075703843,
+888,indonesia,thailand,10,bahasa,thai,0,2657.4752431736006,-4200.0
+889,indonesia,united arab emirates,4,bahasa,arabic,0,6801.0828838750795,-20000.0
+890,indonesia,united kingdom,6,bahasa,english,0,11817.008516446049,-24500.0
+891,indonesia,united states,8,bahasa,english,0,15283.358744846326,-34600.0
+892,indonesia,viet nam,1,bahasa,,0,3129.7357040724683,
+893,"iran, islamic republic of",indonesia,1,,bahasa,0,7405.4229276207625,
+894,"iran, islamic republic of",united arab emirates,1,,arabic,0,1222.8325249998427,
+895,ireland,austria,6,english,german,0,1519.966587519939,-400.0
+896,ireland,belgium,6,english,dutch,0,782.0745283948548,500.0
+897,ireland,brazil,1,english,portuguese,0,9398.899634126506,22000.0
+898,ireland,czech republic,2,english,greek,0,1689.0582330109528,13900.0
+899,ireland,france,2,english,french,0,737.5742566646602,2000.0
+900,ireland,germany,2,english,german,0,1376.6550759720947,2000.0
+901,ireland,greece,2,english,greek,0,3090.075356660759,9600.0
+902,ireland,hong kong,2,english,,0,9848.335169505855,800.0
+903,ireland,hungary,1,english,hungarian,0,2061.765212011493,15700.0
+904,ireland,iceland,1,english,icelandic,0,1484.974662200236,-1300.0
+905,ireland,italy,1,english,italian,0,1417.1026276318921,2900.0
+906,ireland,netherlands,2,english,dutch,0,753.9570929159336,1000.0
+907,ireland,norway,5,english,norwegian,0,1257.0868362914368,-8200.0
+908,ireland,poland,1,english,polish,0,1795.5700596004945,18500.0
+909,ireland,portugal,1,english,portuguese,0,1617.8165112454526,11600.0
+910,ireland,slovakia,7,english,slovak,0,1740.1232873406204,16300.0
+911,ireland,spain,4,english,castilian,0,1445.3463772290859,7600.0
+912,ireland,sweden,2,english,swedish,0,1615.1836477090535,2800.0
+913,ireland,switzerland,1,english,german,0,1325.2174139061224,-3100.0
+914,ireland,united kingdom,19,english,english,1,410.8263742101522,1900.0
+915,ireland,united states,4,english,english,1,5885.660556074805,-8200.0
+916,isle of man,malta,1,,maltese,0,2498.82189293893,3300.0
+917,isle of man,united kingdom,2,,english,0,388.6069757312957,-6700.0
+918,israel,argentina,1,hebrew,spanish,0,13537.639370775083,8600.0
+919,israel,austria,1,hebrew,german,0,2544.428068063283,-10200.0
+920,israel,china,1,hebrew,chinese,0,7949.524439873521,14800.0
+921,israel,czech republic,3,hebrew,greek,0,2625.9382617626793,4100.0
+922,israel,france,4,hebrew,french,0,3149.919020933979,-7800.0
+923,israel,germany,2,hebrew,german,0,2852.2484356092323,-7800.0
+924,israel,gibraltar,1,hebrew,,0,3696.200572277048,2300.0
+925,israel,greece,1,hebrew,greek,0,1047.5784140495368,-200.0
+926,israel,hungary,1,hebrew,hungarian,0,2168.550971289192,5900.0
+927,israel,italy,2,hebrew,italian,0,2474.243077309445,-6900.0
+928,israel,netherlands,3,hebrew,dutch,0,3330.2106621380244,-8800.0
+929,israel,spain,1,hebrew,castilian,0,3581.1158636577293,-2200.0
+930,israel,switzerland,2,hebrew,german,0,2868.4324423517487,-12900.0
+931,israel,turkey,1,hebrew,turkish,0,640.7270375470148,13100.0
+932,israel,united kingdom,1,hebrew,english,0,3837.940150439491,-7900.0
+933,israel,united states,4,hebrew,english,0,9884.110395337813,-18000.0
+934,italy,argentina,1,italian,spanish,0,11181.457935523546,15500.0
+935,italy,australia,1,italian,english,0,16317.280648971177,-2300.0
+936,italy,austria,12,italian,german,0,597.2441125643146,-3300.0
+937,italy,belgium,3,italian,dutch,0,849.3409478869162,-2400.0
+938,italy,brazil,1,italian,portuguese,0,9685.020090693351,19100.0
+939,italy,bulgaria,1,italian,bulgarian,0,597.8623138519187,19100.0
+940,italy,canada,1,italian,english,0,6449.842955733515,-3100.0
+941,italy,china,6,italian,chinese,0,9103.732154562354,21700.0
+942,italy,croatia,3,italian,croatian,0,383.4563977862162,16100.0
+943,italy,czech republic,4,italian,greek,0,533.0156066045006,11000.0
+944,italy,denmark,7,italian,danish,0,1212.0152560218833,-4400.0
+945,italy,egypt,2,italian,arabic,0,3221.942467932205,22700.0
+946,italy,estonia,1,italian,estonian,0,1866.6643617610057,14400.0
+947,italy,finland,1,italian,finnish,0,2484.9073080883454,-700.0
+948,italy,france,35,italian,french,0,708.5046300742022,-900.0
+949,italy,french polynesia,1,italian,,0,16304.361946518218,9200.0
+950,italy,germany,47,italian,german,0,615.0557827806379,-900.0
+951,italy,greece,10,italian,greek,0,1597.3501088857925,6700.0
+952,italy,holy see (vatican city state),39,italian,,0,395.148500073348,
+953,italy,hong kong,4,italian,,0,9340.323646989176,-2100.0
+954,italy,hungary,2,italian,hungarian,0,569.5047669584413,12800.0
+955,italy,indonesia,1,italian,bahasa,0,11952.229986965775,23500.0
+956,italy,ireland,6,italian,english,0,1465.4595724831952,-2900.0
+957,italy,israel,1,italian,hebrew,0,2427.6942498740436,6900.0
+958,italy,japan,2,italian,japanese,0,9667.33487717354,-1500.0
+959,italy,"korea, republic of",1,italian,,0,8998.469655978495,
+960,italy,maldives,2,italian,dhivehi,0,7655.557211499518,22800.0
+961,italy,mauritius,1,italian,creole,0,8825.06183127409,15300.0
+962,italy,monaco,2,italian,french,0,316.08386943667534,-300.0
+963,italy,montenegro,1,italian,serbian,0,642.7554780041479,
+964,italy,morocco,2,italian,arabic,0,2252.042367956565,22700.0
+965,italy,netherlands,10,italian,dutch,0,872.3340080227457,-1900.0
+966,italy,norway,10,italian,norwegian,0,1909.9413058992013,-11100.0
+967,italy,poland,2,italian,polish,0,719.5076876299928,15600.0
+968,italy,portugal,3,italian,portuguese,0,1665.6506549022295,8700.0
+969,italy,russian federation,1,italian,,0,2291.932360608773,
+970,italy,san marino,1,italian,italian,1,346.1528476281238,-7900.0
+971,italy,serbia,1,italian,serbian,0,740.8611587277012,24500.0
+972,italy,slovakia,2,italian,slovak,0,551.898807656823,13400.0
+973,italy,slovenia,2,italian,slovene,0,298.86881351226805,7700.0
+974,italy,spain,25,italian,castilian,0,1585.0872958842267,4700.0
+975,italy,sri lanka,2,italian,sinhala,0,7955.745192784935,23000.0
+976,italy,sweden,7,italian,swedish,0,1683.6855981890685,-100.0
+977,italy,switzerland,9,italian,german,0,338.12271890084855,-6000.0
+978,italy,"taiwan, province of china",1,italian,,0,9674.023372675309,
+979,italy,"tanzania, united republic of",1,italian,,0,6520.817970621119,
+980,italy,thailand,5,italian,thai,0,8897.695724949372,19300.0
+981,italy,turkey,5,italian,turkish,0,1672.1224650273748,20000.0
+982,italy,ukraine,1,italian,ukrainian,0,1675.3806369126469,21300.0
+983,italy,united arab emirates,3,italian,arabic,0,4517.941972591419,3500.0
+984,italy,united kingdom,46,italian,english,0,1151.7820315615227,-1000.0
+985,italy,united states,38,italian,english,0,8381.49918068088,-11100.0
+986,italy,viet nam,1,italian,,0,8615.369308021964,
+987,japan,australia,1,japanese,english,0,8487.085298914315,-800.0
+988,japan,austria,3,japanese,german,0,9236.591591703105,-1800.0
+989,japan,belgium,2,japanese,dutch,0,9452.830110881378,-900.0
+990,japan,brazil,1,japanese,portuguese,0,18319.7907148114,20600.0
+991,japan,canada,6,japanese,english,0,9035.927629162663,-1600.0
+992,japan,chile,1,japanese,spanish,0,17227.139285151625,18300.0
+993,japan,china,12,japanese,chinese,0,1862.4915722542037,23200.0
+994,japan,costa rica,2,japanese,spanish,0,13164.478529182416,19100.0
+995,japan,croatia,1,japanese,croatian,0,9487.402281456967,17600.0
+996,japan,finland,4,japanese,finnish,0,7732.418521482265,800.0
+997,japan,france,7,japanese,french,0,9701.50625965352,600.0
+998,japan,germany,16,japanese,german,0,9290.659986265622,600.0
+999,japan,guam,2,japanese,,0,2518.1370613068384,7200.0
+1000,japan,holy see (vatican city state),1,japanese,,0,9858.470738915597,
+1001,japan,hong kong,7,japanese,,0,2813.269683788807,-600.0
+1002,japan,hungary,1,japanese,hungarian,0,9049.747345302432,14300.0
+1003,japan,indonesia,1,japanese,bahasa,0,5561.156189702992,25000.0
+1004,japan,italy,2,japanese,italian,0,9831.462513206154,1500.0
+1005,japan,jordan,1,japanese,arabic,0,9095.168012873342,23900.0
+1006,japan,"korea, republic of",16,japanese,,0,1156.202509213097,
+1007,japan,malaysia,1,japanese,bahasa,0,5325.619506143601,19200.0
+1008,japan,netherlands,3,japanese,dutch,0,9296.802545440505,-400.0
+1009,japan,northern mariana islands,1,japanese,,0,2368.5873489307037,
+1010,japan,panama,1,japanese,spanish,0,13293.105476247583,21900.0
+1011,japan,philippines,1,japanese,filipino,0,2993.908536254998,23600.0
+1012,japan,portugal,1,japanese,portuguese,0,11140.286829378047,10200.0
+1013,japan,qatar,1,japanese,arabic,0,8248.814427363268,6700.0
+1014,japan,saudi arabia,1,japanese,arabic,0,8378.256964977223,16400.0
+1015,japan,singapore,12,japanese,english,0,5314.089841990354,4500.0
+1016,japan,spain,5,japanese,castilian,0,10752.238713870687,6200.0
+1017,japan,sweden,4,japanese,swedish,0,8164.159999703368,1400.0
+1018,japan,switzerland,3,japanese,german,0,9576.93240956052,-4500.0
+1019,japan,"taiwan, province of china",6,japanese,,0,2121.9007361095673,
+1020,japan,thailand,4,japanese,thai,0,4533.542936665265,20800.0
+1021,japan,united arab emirates,13,japanese,arabic,0,7925.049153176777,5000.0
+1022,japan,united kingdom,5,japanese,english,0,9406.562675931198,500.0
+1023,japan,united states,44,japanese,english,0,9101.587792798393,-9600.0
+1024,jersey,united kingdom,3,,english,0,368.9091186671486,-2900.0
+1025,jordan,bahrain,1,arabic,arabic,1,1562.2881845858383,-12600.0
+1026,jordan,cambodia,1,arabic,khmer,0,7252.906216847239,2400.0
+1027,jordan,egypt,2,arabic,arabic,1,485.30632038063135,300.0
+1028,jordan,france,1,arabic,french,0,2901.4193038150815,-23300.0
+1029,jordan,kuwait,2,arabic,arabic,1,1198.6806243487636,-14700.0
+1030,jordan,lebanon,2,arabic,arabic,1,216.2630863551968,-500.0
+1031,jordan,oman,1,arabic,arabic,1,2395.3272876904084,-8800.0
+1032,jordan,saudi arabia,1,arabic,arabic,1,1173.604500925625,-7500.0
+1033,jordan,thailand,1,arabic,thai,0,6935.424173559524,-3100.0
+1034,jordan,united arab emirates,10,arabic,arabic,1,2027.6543194568126,-18900.0
+1035,jordan,united kingdom,1,arabic,english,0,3774.0700001628024,-23400.0
+1036,jordan,united states,2,arabic,english,0,9449.286123741389,-33500.0
+1037,kazakhstan,cyprus,1,kazakh,greek,0,3774.318193378401,-12900.0
+1038,kazakhstan,germany,1,kazakh,german,0,5089.143117315941,-21300.0
+1039,kazakhstan,sweden,1,kazakh,swedish,0,4227.254879512173,-20500.0
+1040,kenya,"tanzania, united republic of",1,english,,0,285.7219634509544,
+1041,kenya,united arab emirates,2,english,arabic,0,3673.442338102979,-22200.0
+1042,"korea, republic of",australia,1,,english,0,8325.450339413286,
+1043,"korea, republic of",brazil,1,,portuguese,0,18271.118181923128,
+1044,"korea, republic of",canada,1,,english,0,10610.319658293782,
+1045,"korea, republic of",china,5,,chinese,0,889.4046212989806,
+1046,"korea, republic of",france,1,,french,0,9159.980221367028,
+1047,"korea, republic of",germany,3,,german,0,8762.071792773555,
+1048,"korea, republic of",hong kong,4,,,0,2046.3876681895963,
+1049,"korea, republic of",india,2,,hindi,0,4839.452342493338,
+1050,"korea, republic of",japan,9,,japanese,0,1130.326610678152,
+1051,"korea, republic of",monaco,1,,french,0,9121.4751762311,
+1052,"korea, republic of",nepal,1,,nepali,0,4135.530877807381,
+1053,"korea, republic of",norway,1,,norwegian,0,8098.643958137242,
+1054,"korea, republic of",philippines,2,,filipino,0,2965.8297268017823,
+1055,"korea, republic of",qatar,2,,arabic,0,7106.284280570607,
+1056,"korea, republic of",singapore,2,,english,0,4663.19250522664,
+1057,"korea, republic of",sweden,3,,swedish,0,7955.721706258749,
+1058,"korea, republic of","taiwan, province of china",2,,,0,1428.5346348386813,
+1059,"korea, republic of",thailand,2,,thai,0,3716.069805088242,
+1060,"korea, republic of",united arab emirates,2,,arabic,0,6789.115508717216,
+1061,"korea, republic of",united kingdom,3,,english,0,8880.296750829244,
+1062,"korea, republic of",united states,16,,english,0,9319.632077448676,
+1063,kuwait,curaçao,1,arabic,,0,11837.232165769386,
+1064,kuwait,jordan,3,arabic,arabic,1,1199.6644099167966,14700.0
+1065,kuwait,lebanon,1,arabic,arabic,1,1285.826376185421,14200.0
+1066,kuwait,"palestine, state of",1,arabic,,0,1221.77738493632,
+1067,kuwait,turkey,1,arabic,turkish,0,2138.7846876190492,12300.0
+1068,kuwait,united arab emirates,3,arabic,arabic,1,853.9479057044592,-4200.0
+1069,kuwait,united kingdom,1,arabic,english,0,4652.0685270754775,-8700.0
+1070,kuwait,united states,1,arabic,english,0,12092.747568253131,-18800.0
+1071,kyrgyzstan,india,1,kyrgyz,hindi,0,2704.599597938222,-1300.0
+1072,lao people's democratic republic,australia,2,,english,0,7806.780867388151,
+1073,lao people's democratic republic,cambodia,1,,khmer,0,747.8334526856831,
+1074,lao people's democratic republic,china,1,,chinese,0,2607.4095057505865,
+1075,lao people's democratic republic,malaysia,3,,bahasa,0,1895.3369783750554,
+1076,lao people's democratic republic,philippines,1,,filipino,0,2154.126207090127,
+1077,lao people's democratic republic,thailand,1,,thai,0,704.7018649277229,
+1078,latvia,austria,1,latvian,german,0,1103.2873060388395,-19800.0
+1079,latvia,croatia,1,latvian,croatian,0,1602.5604658729976,-400.0
+1080,latvia,estonia,3,latvian,estonian,0,279.7926071160684,-2100.0
+1081,latvia,finland,1,latvian,finnish,0,381.6764973224653,-17200.0
+1082,latvia,france,2,latvian,french,0,1679.7790644594693,-17400.0
+1083,latvia,germany,1,latvian,german,0,1281.055439550407,-17400.0
+1084,latvia,ireland,1,latvian,english,0,1941.0023319171287,-19400.0
+1085,latvia,lithuania,2,latvian,lithuanian,0,263.6957671608068,-1200.0
+1086,latvia,netherlands,1,latvian,dutch,0,1353.5319330973389,-18400.0
+1087,latvia,norway,8,latvian,norwegian,0,1042.836032713267,-27600.0
+1088,latvia,sweden,8,latvian,swedish,0,572.5235303178657,-16600.0
+1089,lebanon,czech republic,1,arabic,greek,0,2493.1331109146595,-10900.0
+1090,lebanon,egypt,1,arabic,arabic,1,592.0244836069469,800.0
+1091,lebanon,saudi arabia,3,arabic,arabic,1,1515.1944618533273,-7000.0
+1092,lebanon,turkey,1,arabic,turkish,0,980.3028538484856,-1900.0
+1093,lebanon,united arab emirates,2,arabic,arabic,1,2134.4490418550054,-18400.0
+1094,lebanon,united states,1,arabic,english,0,10459.168112904455,-33000.0
+1095,liechtenstein,france,1,german,french,0,567.9029913912227,-2600.0
+1096,liechtenstein,germany,1,german,german,1,709.7184297881803,-2600.0
+1097,liechtenstein,sweden,1,german,swedish,0,1463.0137352038087,-1800.0
+1098,lithuania,denmark,1,lithuanian,danish,0,808.6683163454854,-19700.0
+1099,lithuania,estonia,1,lithuanian,estonian,0,491.1057004752195,-900.0
+1100,lithuania,finland,1,lithuanian,finnish,0,620.5284765419035,-16000.0
+1101,lithuania,romania,1,lithuanian,romanian,0,1123.9525698831555,4400.0
+1102,lithuania,serbia,2,lithuanian,serbian,0,1136.1435249517194,9200.0
+1103,lithuania,sweden,1,lithuanian,swedish,0,690.306197435286,-15400.0
+1104,lithuania,united kingdom,1,lithuanian,english,0,1747.591544786021,-16300.0
+1105,luxembourg,austria,1,luxembourgish,german,0,391.0831756603221,25100.0
+1106,luxembourg,belgium,1,luxembourgish,dutch,0,281.4285666715427,26000.0
+1107,luxembourg,denmark,1,luxembourgish,danish,0,664.6162967151108,24000.0
+1108,luxembourg,france,6,luxembourgish,french,0,298.03055998934633,27500.0
+1109,luxembourg,germany,5,luxembourgish,german,0,368.40940568991465,27500.0
+1110,luxembourg,gibraltar,2,luxembourgish,,0,1761.9394127700077,37600.0
+1111,luxembourg,greece,1,luxembourgish,greek,0,1546.2077967617752,35100.0
+1112,luxembourg,holy see (vatican city state),2,luxembourgish,,0,981.1810040660755,
+1113,luxembourg,italy,7,luxembourgish,italian,0,691.8808422635635,28400.0
+1114,luxembourg,netherlands,1,luxembourgish,dutch,0,314.20815420605544,26500.0
+1115,luxembourg,norway,1,luxembourgish,norwegian,0,1040.598393105873,17300.0
+1116,luxembourg,spain,5,luxembourgish,castilian,0,1778.624499131448,33100.0
+1117,luxembourg,sweden,1,luxembourgish,swedish,0,1222.6320807345414,28300.0
+1118,luxembourg,united kingdom,2,luxembourgish,english,0,533.4252328252071,27400.0
+1119,"macedonia, the former yugoslav republic of",croatia,1,,croatian,0,598.9130584982299,
+1120,"macedonia, the former yugoslav republic of",france,2,,french,0,1668.904960564676,
+1121,"macedonia, the former yugoslav republic of",serbia,1,,serbian,0,328.3467576781891,
+1122,"macedonia, the former yugoslav republic of",slovenia,1,,slovene,0,729.2797289989171,
+1123,"macedonia, the former yugoslav republic of",sweden,1,,swedish,0,1948.031100461223,
+1124,"macedonia, the former yugoslav republic of",switzerland,2,,german,0,1193.9977629440446,
+1125,madagascar,brazil,1,french,portuguese,0,9071.93674661607,-6800.0
+1126,madagascar,germany,4,french,german,0,8977.583761233556,-26800.0
+1127,madagascar,mauritius,1,french,creole,0,1442.8709308425525,-10600.0
+1128,madagascar,portugal,2,french,portuguese,0,8835.091297847019,-17200.0
+1129,madagascar,spain,1,french,castilian,0,8495.767669113678,-21200.0
+1130,madagascar,united kingdom,2,french,english,0,9347.246115296715,-26900.0
+1131,madagascar,united states,1,french,english,0,17193.704170542114,-37000.0
+1132,malaysia,australia,5,bahasa,english,0,6487.497812603482,-20000.0
+1133,malaysia,brunei darussalam,2,bahasa,,0,1495.2088288507596,
+1134,malaysia,canada,1,bahasa,english,0,14807.10372845288,-20800.0
+1135,malaysia,china,2,bahasa,chinese,0,3516.9731617578477,4000.0
+1136,malaysia,finland,1,bahasa,finnish,0,9014.733517733372,-18400.0
+1137,malaysia,germany,4,bahasa,german,0,9918.129717866916,-18600.0
+1138,malaysia,greece,1,bahasa,greek,0,9044.54466617394,-11000.0
+1139,malaysia,hong kong,10,bahasa,,0,2531.5897563339895,-19800.0
+1140,malaysia,india,1,bahasa,hindi,0,3666.289868368349,6100.0
+1141,malaysia,indonesia,7,bahasa,bahasa,1,1765.860515963829,5800.0
+1142,malaysia,italy,1,bahasa,italian,0,9995.754287959408,-17700.0
+1143,malaysia,japan,3,bahasa,japanese,0,5313.137846272661,-19200.0
+1144,malaysia,jordan,1,bahasa,arabic,0,7553.308188536258,4700.0
+1145,malaysia,"korea, republic of",2,bahasa,,0,4606.911106720375,
+1146,malaysia,kuwait,1,bahasa,arabic,0,6360.648916960342,-10000.0
+1147,malaysia,macao,2,bahasa,,0,2535.526074302989,
+1148,malaysia,netherlands,3,bahasa,dutch,0,10236.066111432514,-19600.0
+1149,malaysia,new zealand,1,bahasa,english,0,8697.739448498052,-12600.0
+1150,malaysia,philippines,4,bahasa,filipino,0,2474.5500534595585,4400.0
+1151,malaysia,saudi arabia,4,bahasa,arabic,0,6467.424172066175,-2800.0
+1152,malaysia,singapore,34,bahasa,english,0,352.67910340009075,-14700.0
+1153,malaysia,south africa,1,bahasa,isizulu,0,9458.373955453724,-1700.0
+1154,malaysia,"taiwan, province of china",1,bahasa,,0,3239.059954720489,
+1155,malaysia,thailand,6,bahasa,thai,0,1327.0274460758558,1600.0
+1156,malaysia,united arab emirates,6,bahasa,arabic,0,5602.6328706234235,-14200.0
+1157,malaysia,united kingdom,7,bahasa,english,0,10692.025424626287,-18700.0
+1158,malaysia,united states,5,bahasa,english,0,14300.603048417413,-28800.0
+1159,malaysia,viet nam,3,bahasa,,0,946.3992223492332,
+1160,maldives,belgium,1,dhivehi,dutch,0,8072.51527404887,-25200.0
+1161,maldives,china,1,dhivehi,chinese,0,4802.591988681168,-1100.0
+1162,maldives,singapore,1,dhivehi,english,0,3398.211646878299,-19800.0
+1163,maldives,sri lanka,1,dhivehi,sinhala,0,765.9067532248819,200.0
+1164,malta,austria,4,maltese,german,0,1274.7834904313522,-12300.0
+1165,malta,czech republic,2,maltese,greek,0,1506.5692544855447,2000.0
+1166,malta,germany,2,maltese,german,0,1522.6240855201986,-9900.0
+1167,malta,italy,2,maltese,italian,0,518.6389347088383,-9000.0
+1168,malta,norway,1,maltese,norwegian,0,2999.7865621969013,-20100.0
+1169,malta,slovenia,1,maltese,slovene,0,1179.2253763836375,-1300.0
+1170,malta,sweden,3,maltese,swedish,0,2572.787787683199,-9100.0
+1171,malta,united arab emirates,1,maltese,arabic,0,4050.41472329611,-5500.0
+1172,malta,united kingdom,2,maltese,english,0,2550.6572085839916,-10000.0
+1173,mauritius,india,1,creole,hindi,0,4234.553121096461,8500.0
+1174,mauritius,malaysia,1,creole,bahasa,0,5490.207500983401,2400.0
+1175,mauritius,réunion,1,creole,,0,213.86950974607288,
+1176,mexico,argentina,2,spanish,spanish,1,7715.4230100916575,-2200.0
+1177,mexico,brazil,4,spanish,portuguese,0,7426.629286361295,1400.0
+1178,mexico,canada,2,spanish,english,0,3529.5786314243574,-20800.0
+1179,mexico,chile,1,spanish,spanish,1,7279.519418758619,-900.0
+1180,mexico,colombia,1,spanish,spanish,1,3368.120916360623,2700.0
+1181,mexico,dominican republic,1,spanish,spanish,1,3173.0880488073885,3000.0
+1182,mexico,france,2,spanish,french,0,8868.190464574505,-18600.0
+1183,mexico,germany,1,spanish,german,0,9472.880758186608,-18600.0
+1184,mexico,greece,1,spanish,greek,0,11488.744201846304,-11000.0
+1185,mexico,japan,1,spanish,japanese,0,11297.150171248319,-19200.0
+1186,mexico,panama,3,spanish,spanish,1,2742.708150658554,2700.0
+1187,mexico,peru,2,spanish,spanish,1,4843.5505635915715,3900.0
+1188,mexico,puerto rico,1,spanish,,0,3911.010650833425,-7800.0
+1189,mexico,south africa,1,spanish,isizulu,0,14463.8629132284,-1700.0
+1190,mexico,spain,4,spanish,castilian,0,9321.477610736272,-13000.0
+1191,mexico,switzerland,1,spanish,german,0,9234.595460438535,-23700.0
+1192,mexico,turkey,1,spanish,turkish,0,11819.487662119032,2300.0
+1193,mexico,united states,39,spanish,english,0,1959.6689190396805,-28800.0
+1194,monaco,belgium,1,french,dutch,0,891.7783109341265,-2100.0
+1195,monaco,switzerland,1,french,german,0,425.4815550099318,-5700.0
+1196,myanmar,malaysia,11,makhuwa,bahasa,0,1809.7108023020287,
+1197,myanmar,singapore,10,makhuwa,english,0,1919.1914457835524,
+1198,myanmar,thailand,2,makhuwa,thai,0,582.6815835452301,
+1199,namibia,netherlands,1,oshiwambo,dutch,0,8419.241592183136,-21400.0
+1200,netherlands,andorra,1,dutch,catalan,0,1068.9303804261474,9600.0
+1201,netherlands,australia,3,dutch,english,0,16622.039477572867,-400.0
+1202,netherlands,austria,19,dutch,german,0,840.6821533552052,-1400.0
+1203,netherlands,belgium,8,dutch,dutch,1,219.6068366935945,-500.0
+1204,netherlands,"bonaire, sint eustatius and saba",1,dutch,,0,7799.032261349949,
+1205,netherlands,brazil,4,dutch,portuguese,0,9772.085684009346,21000.0
+1206,netherlands,bulgaria,2,dutch,bulgarian,0,1879.5662286615043,21000.0
+1207,netherlands,cambodia,2,dutch,khmer,0,9659.675813182243,26700.0
+1208,netherlands,canada,8,dutch,english,0,6491.998384437191,-1200.0
+1209,netherlands,china,7,dutch,chinese,0,8834.556498393125,23600.0
+1210,netherlands,croatia,3,dutch,croatian,0,1224.6775657773665,18000.0
+1211,netherlands,curaçao,3,dutch,,0,7832.372525170798,
+1212,netherlands,czech republic,11,dutch,greek,0,719.2814127997078,12900.0
+1213,netherlands,denmark,12,dutch,danish,0,582.8666431824322,-2500.0
+1214,netherlands,egypt,4,dutch,arabic,0,3309.9832543566804,24600.0
+1215,netherlands,estonia,1,dutch,estonian,0,1533.1567056174267,16300.0
+1216,netherlands,finland,4,dutch,finnish,0,1626.2300619456037,1200.0
+1217,netherlands,france,75,dutch,french,0,596.10241701714,1000.0
+1218,netherlands,germany,72,dutch,german,0,440.8241044593284,1000.0
+1219,netherlands,greece,7,dutch,greek,0,2350.2277653137335,8600.0
+1220,netherlands,holy see (vatican city state),6,dutch,,0,1249.6955400462343,
+1221,netherlands,hong kong,5,dutch,,0,9279.564130105553,-200.0
+1222,netherlands,hungary,8,dutch,hungarian,0,1152.785917450368,14700.0
+1223,netherlands,iceland,4,dutch,icelandic,0,2048.0116647424647,-2300.0
+1224,netherlands,india,1,dutch,hindi,0,7716.303724066493,25700.0
+1225,netherlands,indonesia,5,dutch,bahasa,0,11916.152783194737,25400.0
+1226,netherlands,ireland,4,dutch,english,0,749.8564405225349,-1000.0
+1227,netherlands,isle of man,2,dutch,,0,655.0048022801546,7600.0
+1228,netherlands,israel,1,dutch,hebrew,0,3291.077051995321,8800.0
+1229,netherlands,italy,38,dutch,italian,0,1132.09316032878,1900.0
+1230,netherlands,japan,3,dutch,japanese,0,9209.878102439301,400.0
+1231,netherlands,"korea, republic of",1,dutch,,0,8704.397117436141,
+1232,netherlands,latvia,2,dutch,latvian,0,1310.3405583210495,18400.0
+1233,netherlands,lithuania,1,dutch,lithuanian,0,1401.455901903905,17200.0
+1234,netherlands,luxembourg,3,dutch,luxembourgish,0,303.53722267036727,-26500.0
+1235,netherlands,malaysia,6,dutch,bahasa,0,10238.563094964595,19600.0
+1236,netherlands,mexico,2,dutch,spanish,0,8902.108221902845,19600.0
+1237,netherlands,monaco,1,dutch,french,0,890.0947326751534,1600.0
+1238,netherlands,new zealand,1,dutch,english,0,18518.480692124842,7000.0
+1239,netherlands,norway,9,dutch,norwegian,0,889.5507190119248,-9200.0
+1240,netherlands,poland,5,dutch,polish,0,925.5516949074603,17500.0
+1241,netherlands,portugal,10,dutch,portuguese,0,1881.366278678181,10600.0
+1242,netherlands,puerto rico,1,dutch,,0,7103.231790357222,11800.0
+1243,netherlands,romania,1,dutch,romanian,0,1505.0022083696008,21600.0
+1244,netherlands,russian federation,2,dutch,,0,2134.1784690624563,
+1245,netherlands,serbia,2,dutch,serbian,0,1342.1328785132073,26400.0
+1246,netherlands,singapore,5,dutch,english,0,10499.573704060836,4900.0
+1247,netherlands,slovakia,1,dutch,slovak,0,995.4978091704485,15300.0
+1248,netherlands,slovenia,4,dutch,slovene,0,973.0240935027042,9600.0
+1249,netherlands,south africa,7,dutch,isizulu,0,9263.737215727966,17900.0
+1250,netherlands,spain,39,dutch,castilian,0,1494.171428523801,6600.0
+1251,netherlands,sweden,8,dutch,swedish,0,1129.5262769352537,1800.0
+1252,netherlands,switzerland,11,dutch,german,0,640.6003748475316,-4100.0
+1253,netherlands,thailand,6,dutch,thai,0,9400.996427786002,21200.0
+1254,netherlands,turkey,12,dutch,turkish,0,2366.944796056548,21900.0
+1255,netherlands,ukraine,3,dutch,ukrainian,0,1859.6407015483917,23200.0
+1256,netherlands,united arab emirates,5,dutch,arabic,0,5113.222885408605,5400.0
+1257,netherlands,united kingdom,64,dutch,english,0,431.58877055985107,900.0
+1258,netherlands,united states,51,dutch,english,0,8004.377148383692,-9200.0
+1259,netherlands,viet nam,1,dutch,,0,9843.10692264974,
+1260,new zealand,australia,10,english,english,1,2694.0254834645657,-7400.0
+1261,new zealand,canada,1,english,english,1,12119.145410438941,-8200.0
+1262,new zealand,germany,1,english,german,0,18190.82098302183,-6000.0
+1263,new zealand,malaysia,2,english,bahasa,0,8440.854122088109,12600.0
+1264,new zealand,singapore,1,english,english,1,8401.323980410876,-2100.0
+1265,new zealand,thailand,1,english,thai,0,9566.615841654473,14200.0
+1266,new zealand,united states,4,english,english,1,11985.059383832697,-16200.0
+1267,norway,albania,1,norwegian,albanian,0,2191.631917403843,33300.0
+1268,norway,andorra,1,norwegian,catalan,0,2034.5418156532542,18800.0
+1269,norway,antigua and barbuda,2,norwegian,english,0,7384.418908676039,
+1270,norway,argentina,1,norwegian,spanish,0,12248.351784248936,26600.0
+1271,norway,austria,22,norwegian,german,0,1470.9230354987085,7800.0
+1272,norway,belgium,34,norwegian,dutch,0,1115.6169505300634,8700.0
+1273,norway,"bolivia, plurinational state of",1,norwegian,,0,10774.171429615968,
+1274,norway,bosnia and herzegovina,2,norwegian,bosnian,0,2056.3482849988504,
+1275,norway,botswana,1,norwegian,setswana,0,9521.560624744932,28800.0
+1276,norway,brazil,3,norwegian,portuguese,0,9814.10873954324,30200.0
+1277,norway,bulgaria,6,norwegian,bulgarian,0,2270.1812051365105,30200.0
+1278,norway,canada,8,norwegian,english,0,5759.907957507897,8000.0
+1279,norway,cayman islands,1,norwegian,,0,8274.943097769998,2800.0
+1280,norway,china,13,norwegian,chinese,0,7853.575628342952,32800.0
+1281,norway,colombia,2,norwegian,spanish,0,8959.390934514151,31500.0
+1282,norway,croatia,27,norwegian,croatian,0,1970.591095368198,27200.0
+1283,norway,curaçao,1,norwegian,,0,8270.59855778252,
+1284,norway,cyprus,12,norwegian,greek,0,3279.007478218108,18600.0
+1285,norway,czech republic,25,norwegian,greek,0,1185.420857404173,22100.0
+1286,norway,denmark,317,norwegian,danish,0,549.599504109509,6700.0
+1287,norway,egypt,5,norwegian,arabic,0,3950.324770375937,33800.0
+1288,norway,estonia,10,norwegian,estonian,0,834.8174083298958,25500.0
+1289,norway,ethiopia,1,norwegian,oromo,0,6124.682786495025,37100.0
+1290,norway,faroe islands,1,norwegian,,0,671.2187322428638,15800.0
+1291,norway,finland,41,norwegian,finnish,0,849.8743546718532,10400.0
+1292,norway,france,139,norwegian,french,0,1631.566774183229,10200.0
+1293,norway,georgia,1,norwegian,georgian,0,3062.555525410258,35300.0
+1294,norway,germany,202,norwegian,german,0,1002.102365639736,10200.0
+1295,norway,gibraltar,3,norwegian,,0,2856.7003794172692,20300.0
+1296,norway,greece,54,norwegian,greek,0,2814.154708464773,17800.0
+1297,norway,holy see (vatican city state),48,norwegian,,0,2039.0185543170696,
+1298,norway,honduras,1,norwegian,spanish,0,8972.553190899866,35200.0
+1299,norway,hong kong,4,norwegian,,0,8689.767380597714,9000.0
+1300,norway,hungary,12,norwegian,hungarian,0,1492.9415978209997,23900.0
+1301,norway,iceland,16,norwegian,icelandic,0,1693.468906352862,6900.0
+1302,norway,india,3,norwegian,hindi,0,6697.948056627144,34900.0
+1303,norway,indonesia,2,norwegian,bahasa,0,11858.47350630655,34600.0
+1304,norway,ireland,16,norwegian,english,0,1265.4018944186178,8200.0
+1305,norway,israel,14,norwegian,hebrew,0,3670.254289657025,18000.0
+1306,norway,italy,129,norwegian,italian,0,1895.3613840641035,11100.0
+1307,norway,japan,3,norwegian,japanese,0,8336.137995443807,9600.0
+1308,norway,jordan,1,norwegian,arabic,0,3827.4407767720595,33500.0
+1309,norway,"korea, republic of",2,norwegian,,0,7719.484071850214,
+1310,norway,latvia,18,norwegian,latvian,0,965.0778311718791,27600.0
+1311,norway,lithuania,5,norwegian,lithuanian,0,1242.8915505544317,26400.0
+1312,norway,luxembourg,2,norwegian,luxembourgish,0,1430.7239322494133,-17300.0
+1313,norway,"macedonia, the former yugoslav republic of",1,norwegian,,0,2123.7876792009893,
+1314,norway,malawi,1,norwegian,english,0,8357.696673813063,37200.0
+1315,norway,malaysia,8,norwegian,bahasa,0,9854.050767709237,28800.0
+1316,norway,maldives,1,norwegian,dhivehi,0,8115.3964053487925,33900.0
+1317,norway,malta,2,norwegian,maltese,0,2681.4007468090645,20100.0
+1318,norway,mexico,7,norwegian,spanish,0,8686.508428987327,28800.0
+1319,norway,monaco,6,norwegian,french,0,1980.2442317836076,10800.0
+1320,norway,montenegro,2,norwegian,serbian,0,2018.1727385338634,
+1321,norway,morocco,2,norwegian,arabic,0,3435.976381601424,33800.0
+1322,norway,nepal,1,norwegian,nepali,0,6519.668687412751,36400.0
+1323,norway,netherlands,101,norwegian,dutch,0,922.5249992628012,9200.0
+1324,norway,new zealand,1,norwegian,english,0,17666.798018693014,16200.0
+1325,norway,oman,1,norwegian,arabic,0,5747.296040675413,24700.0
+1326,norway,"palestine, state of",11,norwegian,,0,3630.2996939721447,
+1327,norway,panama,2,norwegian,spanish,0,9089.506943483386,31500.0
+1328,norway,peru,1,norwegian,spanish,0,11049.241823861914,32700.0
+1329,norway,poland,19,norwegian,polish,0,1146.767540058217,26700.0
+1330,norway,portugal,36,norwegian,portuguese,0,2782.699020204927,19800.0
+1331,norway,puerto rico,1,norwegian,,0,7476.854276380511,21000.0
+1332,norway,qatar,3,norwegian,arabic,0,4955.64989993687,16300.0
+1333,norway,romania,1,norwegian,romanian,0,1959.4601624412578,30800.0
+1334,norway,russian federation,9,norwegian,,0,1389.237000072966,
+1335,norway,rwanda,1,norwegian,kinyarwanda,0,7072.53201588565,36500.0
+1336,norway,san marino,1,norwegian,italian,0,1783.7623521996775,3200.0
+1337,norway,serbia,3,norwegian,serbian,0,1878.2349369232998,35600.0
+1338,norway,singapore,5,norwegian,english,0,10285.018555374938,14100.0
+1339,norway,slovakia,2,norwegian,slovak,0,1379.9620694381251,24500.0
+1340,norway,slovenia,2,norwegian,slovene,0,1556.6915576383738,18800.0
+1341,norway,south africa,9,norwegian,isizulu,0,10179.524582031638,27100.0
+1342,norway,spain,178,norwegian,castilian,0,2622.1716551305694,15800.0
+1343,norway,svalbard and jan mayen,9,norwegian,,0,2011.6597933206826,
+1344,norway,sweden,399,norwegian,swedish,0,430.03121741283763,11000.0
+1345,norway,switzerland,30,norwegian,german,0,1501.1230732633667,5100.0
+1346,norway,"tanzania, united republic of",2,norwegian,,0,7776.384339708889,
+1347,norway,thailand,17,norwegian,thai,0,8967.472247789303,30400.0
+1348,norway,tunisia,2,norwegian,arabic,0,2793.3171352953896,30900.0
+1349,norway,turkey,34,norwegian,turkish,0,2814.9728382264657,31100.0
+1350,norway,ukraine,2,norwegian,ukrainian,0,1626.744209966455,32400.0
+1351,norway,united arab emirates,4,norwegian,arabic,0,5200.647517297516,14600.0
+1352,norway,united kingdom,201,norwegian,english,0,1085.1759106707261,10100.0
+1353,norway,united states,130,norwegian,english,0,7681.56498945957,0.0
+1354,norway,viet nam,1,norwegian,,0,8608.991014270825,
+1355,norway,"virgin islands, u.s.",1,norwegian,,0,7421.05199715597,
+1356,norway,zimbabwe,1,norwegian,shona,0,8594.059918037548,35900.0
+1357,norway,åland islands,1,norwegian,,0,489.39331647230966,
+1358,oman,united arab emirates,2,arabic,arabic,1,359.2254841436583,-10100.0
+1359,"palestine, state of",united states,1,,english,0,9164.767005597127,
+1360,panama,france,1,spanish,french,0,9250.095395520642,-21300.0
+1361,panama,united kingdom,2,spanish,english,0,8620.045933043213,-21400.0
+1362,panama,united states,2,spanish,english,0,3299.304733372593,-31500.0
+1363,paraguay,argentina,1,spanish,spanish,1,356.28373197541276,-6500.0
+1364,paraguay,brazil,3,spanish,portuguese,0,705.048635441769,-2900.0
+1365,paraguay,netherlands,1,spanish,dutch,0,10638.932412053631,-23900.0
+1366,paraguay,united states,1,spanish,english,0,7522.167932540509,-33100.0
+1367,paraguay,uruguay,1,spanish,spanish,1,677.8335630807582,-8100.0
+1368,peru,spain,1,spanish,castilian,0,9515.363274122297,-16900.0
+1369,peru,united states,3,spanish,english,0,4925.412716383534,-32700.0
+1370,philippines,australia,1,filipino,english,0,5503.333131000853,-24400.0
+1371,philippines,cambodia,1,filipino,khmer,0,1862.1557423643185,2700.0
+1372,philippines,canada,2,filipino,english,0,12172.864911767316,-25200.0
+1373,philippines,china,5,filipino,chinese,0,1888.3170654439648,-400.0
+1374,philippines,egypt,1,filipino,arabic,0,9043.024378668946,600.0
+1375,philippines,france,4,filipino,french,0,10749.97663401215,-23000.0
+1376,philippines,germany,1,filipino,german,0,10031.179955728107,-23000.0
+1377,philippines,hong kong,11,filipino,,0,1128.3634969903003,-24200.0
+1378,philippines,italy,1,filipino,italian,0,10460.040190490907,-22100.0
+1379,philippines,japan,4,filipino,japanese,0,3026.9684733483437,-23600.0
+1380,philippines,"korea, republic of",4,filipino,,0,2460.5531244642266,
+1381,philippines,macao,1,filipino,,0,1169.5318303171312,
+1382,philippines,malaysia,6,filipino,bahasa,0,2446.1021550001824,-4400.0
+1383,philippines,netherlands,1,filipino,dutch,0,10408.191757913895,-24000.0
+1384,philippines,saudi arabia,1,filipino,arabic,0,8137.5760605187,-7200.0
+1385,philippines,singapore,12,filipino,english,0,2364.563859016578,-19100.0
+1386,philippines,spain,1,filipino,castilian,0,11192.152187958249,-17400.0
+1387,philippines,switzerland,2,filipino,german,0,10552.368081722418,-28100.0
+1388,philippines,thailand,5,filipino,thai,0,2215.9934879814055,-2800.0
+1389,philippines,united arab emirates,2,filipino,arabic,0,6982.869946059382,-18600.0
+1390,philippines,united states,8,filipino,english,0,11932.689747874581,-33200.0
+1391,philippines,viet nam,2,filipino,,0,1612.569243169909,
+1392,poland,austria,2,polish,german,0,507.51649685175363,-18900.0
+1393,poland,belgium,2,polish,dutch,0,1154.5746020204115,-18000.0
+1394,poland,brazil,1,polish,portuguese,0,10436.335337097267,3500.0
+1395,poland,china,1,polish,chinese,0,7641.536185082735,6100.0
+1396,poland,croatia,2,polish,croatian,0,842.4182387296096,500.0
+1397,poland,czech republic,4,polish,greek,0,497.31106181726756,-4600.0
+1398,poland,egypt,1,polish,arabic,0,2920.490321925226,7100.0
+1399,poland,finland,3,polish,finnish,0,928.1945265799599,-16300.0
+1400,poland,france,6,polish,french,0,1395.6669106960426,-16500.0
+1401,poland,germany,10,polish,german,0,596.5665414021212,-16500.0
+1402,poland,gibraltar,1,polish,,0,2734.151768925063,-6400.0
+1403,poland,greece,5,polish,greek,0,1894.9592782320726,-8900.0
+1404,poland,hungary,2,polish,hungarian,0,514.9535365719705,-2800.0
+1405,poland,india,1,polish,hindi,0,5121.849657203948,8200.0
+1406,poland,indonesia,1,polish,bahasa,0,11331.135844682687,7900.0
+1407,poland,italy,5,polish,italian,0,1185.9497319339794,-15600.0
+1408,poland,japan,1,polish,japanese,0,8453.839447444214,-17100.0
+1409,poland,kyrgyzstan,1,polish,kyrgyz,0,4057.252131793278,9500.0
+1410,poland,latvia,2,polish,latvian,0,481.39397604775786,900.0
+1411,poland,lithuania,1,polish,lithuanian,0,391.87196593764077,-300.0
+1412,poland,luxembourg,1,polish,luxembourgish,0,1080.2724941901376,-44000.0
+1413,poland,maldives,1,polish,dhivehi,0,7385.532962317535,7200.0
+1414,poland,malta,1,polish,maltese,0,1883.4441467116628,-6600.0
+1415,poland,netherlands,2,polish,dutch,0,986.7475396897836,-17500.0
+1416,poland,norway,8,polish,norwegian,0,1103.2959776666005,-26700.0
+1417,poland,portugal,1,polish,portuguese,0,2834.1729509739666,-6900.0
+1418,poland,romania,1,polish,romanian,0,943.4158813883254,4100.0
+1419,poland,russian federation,2,polish,,0,1006.1033330736919,
+1420,poland,saudi arabia,2,polish,arabic,0,3747.138879092128,-700.0
+1421,poland,singapore,1,polish,english,0,9689.058395646181,-12600.0
+1422,poland,slovakia,3,polish,slovak,0,347.5618485664523,-2200.0
+1423,poland,spain,6,polish,castilian,0,2048.6906191131166,-10900.0
+1424,poland,sweden,3,polish,swedish,0,759.015983613918,-15700.0
+1425,poland,switzerland,2,polish,german,0,868.1327494718649,-21600.0
+1426,poland,turkey,2,polish,turkish,0,1842.1149128609495,4400.0
+1427,poland,ukraine,2,polish,ukrainian,0,746.9739616190858,5700.0
+1428,poland,united arab emirates,2,polish,arabic,0,4179.892658429109,-12100.0
+1429,poland,united kingdom,4,polish,english,0,1438.1433077048803,-16600.0
+1430,poland,united states,5,polish,english,0,9106.936316371643,-26700.0
+1431,portugal,andorra,1,portuguese,catalan,0,859.1466889741765,-1000.0
+1432,portugal,angola,1,portuguese,portuguese,1,5775.700635519262,16100.0
+1433,portugal,australia,1,portuguese,english,0,18146.90337896021,-11000.0
+1434,portugal,austria,1,portuguese,german,0,2035.4195373691914,-12000.0
+1435,portugal,belgium,6,portuguese,dutch,0,1679.0955917442282,-11100.0
+1436,portugal,brazil,5,portuguese,portuguese,1,6791.733979520494,10400.0
+1437,portugal,cambodia,1,portuguese,khmer,0,10974.343749154697,16100.0
+1438,portugal,canada,1,portuguese,english,0,5673.828840033976,-11800.0
+1439,portugal,cape verde,1,portuguese,english,0,2845.3354661546778,16600.0
+1440,portugal,china,2,portuguese,chinese,0,10164.317021503857,13000.0
+1441,portugal,denmark,1,portuguese,danish,0,2477.2845180458103,-13100.0
+1442,portugal,egypt,1,portuguese,arabic,0,3934.5638032248735,14000.0
+1443,portugal,estonia,1,portuguese,estonian,0,3310.792259045671,5700.0
+1444,portugal,france,14,portuguese,french,0,1304.3498452617168,-9600.0
+1445,portugal,germany,16,portuguese,german,0,1904.3945993274035,-9600.0
+1446,portugal,gibraltar,1,portuguese,,0,463.6409113147558,500.0
+1447,portugal,greece,2,portuguese,greek,0,2933.5474501083577,-2000.0
+1448,portugal,holy see (vatican city state),1,portuguese,,0,1861.0375996783935,
+1449,portugal,hong kong,3,portuguese,,0,11019.534931426393,-10800.0
+1450,portugal,indonesia,1,portuguese,bahasa,0,13568.104372199377,14800.0
+1451,portugal,italy,8,portuguese,italian,0,1684.534969923443,-8700.0
+1452,portugal,japan,1,portuguese,japanese,0,11089.213913510592,-10200.0
+1453,portugal,"korea, republic of",1,portuguese,,0,10606.187507063214,
+1454,portugal,macao,2,portuguese,,0,10990.814772394686,
+1455,portugal,malaysia,2,portuguese,bahasa,0,11588.944036940105,9000.0
+1456,portugal,mexico,2,portuguese,spanish,0,7576.396392660376,9000.0
+1457,portugal,monaco,2,portuguese,french,0,1365.6992775989636,-9000.0
+1458,portugal,morocco,2,portuguese,arabic,0,799.6830190436241,14000.0
+1459,portugal,mozambique,1,portuguese,makhuwa,0,8409.123069981064,16800.0
+1460,portugal,netherlands,9,portuguese,dutch,0,1794.087339248376,-10600.0
+1461,portugal,norway,2,portuguese,norwegian,0,2747.9591658078257,-19800.0
+1462,portugal,poland,1,portuguese,polish,0,2758.4231046577097,6900.0
+1463,portugal,saint martin (french part),1,portuguese,,0,5652.213307268709,
+1464,portugal,sao tome and principe,1,portuguese,,0,4566.110610437001,
+1465,portugal,saudi arabia,3,portuguese,arabic,0,5412.78814894928,6200.0
+1466,portugal,singapore,2,portuguese,english,0,11892.859547963726,-5700.0
+1467,portugal,slovenia,1,portuguese,slovene,0,1962.2642533242051,-1000.0
+1468,portugal,south africa,1,portuguese,isizulu,0,8189.926183373937,7300.0
+1469,portugal,spain,42,portuguese,castilian,0,618.5970434107627,-4000.0
+1470,portugal,sweden,1,portuguese,swedish,0,3003.861838999533,-8800.0
+1471,portugal,thailand,1,portuguese,thai,0,10708.14141547754,10600.0
+1472,portugal,turkey,1,portuguese,turkish,0,3236.9321519739074,11300.0
+1473,portugal,united arab emirates,2,portuguese,arabic,0,6136.9382169792925,-5200.0
+1474,portugal,united kingdom,27,portuguese,english,0,1571.0153161247497,-9700.0
+1475,portugal,united states,6,portuguese,english,0,6692.403846825881,-19800.0
+1476,portugal,viet nam,1,portuguese,,0,11189.871728066792,
+1477,puerto rico,belgium,1,,dutch,0,7033.38923724006,-12300.0
+1478,puerto rico,canada,3,,english,0,3009.8951885385864,-13000.0
+1479,puerto rico,dominica,1,,english,0,603.8176616223726,11400.0
+1480,puerto rico,dominican republic,4,,spanish,0,320.5852409541085,10800.0
+1481,puerto rico,france,1,,french,0,6909.140172532681,-10800.0
+1482,puerto rico,ireland,1,,english,0,6391.777941697285,-12800.0
+1483,puerto rico,mexico,2,,spanish,0,2832.53293370703,7800.0
+1484,puerto rico,netherlands,3,,dutch,0,7109.41135133417,-11800.0
+1485,puerto rico,panama,1,,spanish,0,1780.096241351337,10500.0
+1486,puerto rico,portugal,1,,portuguese,0,5895.32871361906,-1200.0
+1487,puerto rico,saint kitts and nevis,1,,,0,373.92543980479877,
+1488,puerto rico,saint martin (french part),1,,,0,311.83811066702924,
+1489,puerto rico,sint maarten (dutch part),1,,,0,313.6994364656258,
+1490,puerto rico,spain,6,,castilian,0,6376.863367025766,-5200.0
+1491,puerto rico,united kingdom,1,,english,0,6738.355229240449,-10900.0
+1492,puerto rico,united states,53,,english,0,2711.7319100378472,-21000.0
+1493,puerto rico,uruguay,1,,spanish,0,6019.569115380591,4000.0
+1494,qatar,canada,1,arabic,english,0,10887.479497910124,-8300.0
+1495,qatar,egypt,1,arabic,arabic,1,2059.1961191081327,17500.0
+1496,qatar,germany,2,arabic,german,0,4600.368901636086,-6100.0
+1497,qatar,hong kong,1,arabic,,0,6299.599110369914,-7300.0
+1498,qatar,italy,1,arabic,italian,0,4236.1438577444205,-5200.0
+1499,qatar,jordan,1,arabic,arabic,1,1694.401057100548,17200.0
+1500,qatar,lebanon,2,arabic,arabic,1,1816.720475055177,16700.0
+1501,qatar,norway,1,arabic,norwegian,0,5178.933000036455,-16300.0
+1502,qatar,saudi arabia,1,arabic,arabic,1,1468.098954691305,9700.0
+1503,qatar,turkey,1,arabic,turkish,0,2735.051556469433,14800.0
+1504,qatar,united arab emirates,4,arabic,arabic,1,380.78094922351977,-1700.0
+1505,qatar,united kingdom,7,arabic,english,0,5279.89515460475,-6200.0
+1506,qatar,united states,3,arabic,english,0,12495.015844623367,-16300.0
+1507,romania,argentina,1,romanian,spanish,0,12225.83482562944,-4200.0
+1508,romania,austria,7,romanian,german,0,708.0981186014942,-23000.0
+1509,romania,belgium,2,romanian,dutch,0,1647.7228794470273,-22100.0
+1510,romania,czech republic,1,romanian,greek,0,1078.1350491149133,-8700.0
+1511,romania,denmark,1,romanian,danish,0,1250.6549823213395,-24100.0
+1512,romania,france,8,romanian,french,0,1760.8556202169573,-20600.0
+1513,romania,germany,10,romanian,german,0,1184.8485853777308,-20600.0
+1514,romania,greece,4,romanian,greek,0,732.8410807124628,-13000.0
+1515,romania,holy see (vatican city state),2,romanian,,0,1124.9361929798972,
+1516,romania,hungary,8,romanian,hungarian,0,469.4374804412432,-6900.0
+1517,romania,israel,1,romanian,hebrew,0,1617.2066565963655,-12800.0
+1518,romania,italy,4,romanian,italian,0,1165.148974318585,-19700.0
+1519,romania,malaysia,1,romanian,bahasa,0,8795.930244515246,-2000.0
+1520,romania,netherlands,3,romanian,dutch,0,1753.6285497498886,-21600.0
+1521,romania,"palestine, state of",1,romanian,,0,1631.0887153035105,
+1522,romania,spain,2,romanian,castilian,0,1842.4941494808681,-15000.0
+1523,romania,sweden,1,romanian,swedish,0,1583.6547945960808,-19800.0
+1524,romania,switzerland,2,romanian,german,0,1484.30486377041,-25700.0
+1525,romania,turkey,4,romanian,turkish,0,627.1506857021325,300.0
+1526,romania,united kingdom,6,romanian,english,0,2000.288554928602,-20700.0
+1527,romania,united states,2,romanian,english,0,10337.17086801017,-30800.0
+1528,russian federation,armenia,1,,armenian,0,1804.064607979951,
+1529,russian federation,australia,1,,english,0,14455.099170455731,
+1530,russian federation,austria,1,,german,0,1585.9363854914907,
+1531,russian federation,belarus,4,,russian,0,873.5066265492238,
+1532,russian federation,belgium,2,,dutch,0,2334.015098130884,
+1533,russian federation,bulgaria,1,,bulgarian,0,1625.7642195201806,
+1534,russian federation,egypt,1,,arabic,0,3196.9483936126426,
+1535,russian federation,finland,4,,finnish,0,333.3177900652585,
+1536,russian federation,france,1,,french,0,2160.8263842767624,
+1537,russian federation,germany,5,,german,0,2030.4369561676842,
+1538,russian federation,greece,2,,greek,0,2305.8228753150174,
+1539,russian federation,holy see (vatican city state),2,,,0,2375.5449664686075,
+1540,russian federation,hong kong,2,,,0,7225.0990203366055,
+1541,russian federation,hungary,2,,hungarian,0,1555.2301016535425,
+1542,russian federation,ireland,1,,english,0,2864.462771175388,
+1543,russian federation,israel,1,,hebrew,0,2646.029196910965,
+1544,russian federation,italy,4,,italian,0,2435.098362243037,
+1545,russian federation,japan,1,,japanese,0,7296.221588435889,
+1546,russian federation,kazakhstan,2,,kazakh,0,2830.258923855377,
+1547,russian federation,latvia,2,,latvian,0,1120.7701299318246,
+1548,russian federation,lithuania,1,,lithuanian,0,1200.1215866254038,
+1549,russian federation,netherlands,2,,dutch,0,2154.334258410269,
+1550,russian federation,portugal,1,,portuguese,0,3730.2905221716683,
+1551,russian federation,singapore,2,,english,0,8427.639126732924,
+1552,russian federation,spain,1,,castilian,0,3410.05980201125,
+1553,russian federation,sweden,3,,swedish,0,1234.9433160145004,
+1554,russian federation,switzerland,1,,german,0,2194.9575521176475,
+1555,russian federation,"taiwan, province of china",2,,,0,7680.182223923946,
+1556,russian federation,thailand,1,,thai,0,7613.795958394016,
+1557,russian federation,turkey,1,,turkish,0,1915.73184969129,
+1558,russian federation,ukraine,7,,ukrainian,0,1049.9833383476296,
+1559,russian federation,united kingdom,5,,english,0,2422.6444833161067,
+1560,russian federation,united states,6,,english,0,8026.824835805526,
+1561,russian federation,uzbekistan,1,,uzbek,0,2791.1035421698475,
+1562,réunion,france,1,,french,0,9231.654126998472,
+1563,saudi arabia,australia,4,arabic,english,0,12895.216333709888,-17200.0
+1564,saudi arabia,austria,6,arabic,german,0,3803.217772030958,-18200.0
+1565,saudi arabia,bahrain,65,arabic,arabic,1,597.3225217870654,-5100.0
+1566,saudi arabia,belgium,5,arabic,dutch,0,4656.463741337103,-17300.0
+1567,saudi arabia,canada,9,arabic,english,0,10754.366041804851,-18000.0
+1568,saudi arabia,china,6,arabic,chinese,0,7168.0581146867,6800.0
+1569,saudi arabia,egypt,24,arabic,arabic,1,1384.4366289942727,7800.0
+1570,saudi arabia,finland,1,arabic,finnish,0,4446.008359719881,-15600.0
+1571,saudi arabia,france,28,arabic,french,0,4524.529860339677,-15800.0
+1572,saudi arabia,germany,15,arabic,german,0,4177.342694922219,-15800.0
+1573,saudi arabia,greece,1,arabic,greek,0,2618.803828761831,-8200.0
+1574,saudi arabia,holy see (vatican city state),5,arabic,,0,3647.163956339385,
+1575,saudi arabia,hong kong,8,arabic,,0,6910.916794682397,-17000.0
+1576,saudi arabia,hungary,1,arabic,hungarian,0,3399.9027751220397,-2100.0
+1577,saudi arabia,india,4,arabic,hindi,0,3236.370847182699,8900.0
+1578,saudi arabia,indonesia,11,arabic,bahasa,0,7664.352270413797,8600.0
+1579,saudi arabia,iraq,1,arabic,arabic,1,1671.6440952046005,10300.0
+1580,saudi arabia,italy,12,arabic,italian,0,3794.669052369059,-14900.0
+1581,saudi arabia,japan,5,arabic,japanese,0,8759.436113841686,-16400.0
+1582,saudi arabia,jordan,8,arabic,arabic,1,1301.9014050406174,7500.0
+1583,saudi arabia,"korea, republic of",1,arabic,,0,7571.692130101846,
+1584,saudi arabia,kuwait,16,arabic,arabic,1,547.8651787517746,-7200.0
+1585,saudi arabia,lebanon,13,arabic,arabic,1,1468.5691211137723,7000.0
+1586,saudi arabia,malaysia,12,arabic,bahasa,0,6839.708677246621,2800.0
+1587,saudi arabia,maldives,2,arabic,dhivehi,0,3680.1727331482484,7900.0
+1588,saudi arabia,malta,1,arabic,maltese,0,2868.6826644838366,-5900.0
+1589,saudi arabia,monaco,1,arabic,french,0,4125.772107423136,-15200.0
+1590,saudi arabia,netherlands,8,arabic,dutch,0,4649.7102930513465,-16800.0
+1591,saudi arabia,new zealand,1,arabic,english,0,15006.287218393165,-9800.0
+1592,saudi arabia,oman,1,arabic,arabic,1,1988.2179555139724,-1300.0
+1593,saudi arabia,"palestine, state of",1,arabic,,0,1336.9310587193784,
+1594,saudi arabia,philippines,2,arabic,filipino,0,7779.637489559615,7200.0
+1595,saudi arabia,poland,1,arabic,polish,0,3746.036308870343,700.0
+1596,saudi arabia,portugal,2,arabic,portuguese,0,5039.013233993432,-6200.0
+1597,saudi arabia,qatar,34,arabic,arabic,1,464.93276964666956,-9700.0
+1598,saudi arabia,singapore,3,arabic,english,0,6810.677505000523,-11900.0
+1599,saudi arabia,slovakia,1,arabic,slovak,0,3412.796405210971,-1500.0
+1600,saudi arabia,spain,10,arabic,castilian,0,4477.193714975479,-10200.0
+1601,saudi arabia,sri lanka,4,arabic,sinhala,0,4047.0052073622405,8100.0
+1602,saudi arabia,sweden,2,arabic,swedish,0,4450.519638783095,-15000.0
+1603,saudi arabia,switzerland,10,arabic,german,0,4182.264116958756,-20900.0
+1604,saudi arabia,syrian arab republic,6,arabic,,0,1421.1830497501303,
+1605,saudi arabia,thailand,1,arabic,thai,0,5778.212618128806,4400.0
+1606,saudi arabia,tunisia,2,arabic,arabic,1,3594.708408840912,4900.0
+1607,saudi arabia,turkey,25,arabic,turkish,0,2351.8940833227166,5100.0
+1608,saudi arabia,united arab emirates,116,arabic,arabic,1,1223.9608526695656,-11400.0
+1609,saudi arabia,united kingdom,69,arabic,english,0,4927.7906656185405,-15900.0
+1610,saudi arabia,united states,61,arabic,english,0,11660.90591968961,-26000.0
+1611,saudi arabia,yemen,4,arabic,arabic,1,901.6520868636851,11000.0
+1612,serbia,austria,1,serbian,german,0,422.7668308067982,-27800.0
+1613,serbia,canada,1,serbian,english,0,7338.620067650013,-27600.0
+1614,serbia,croatia,1,serbian,croatian,0,367.0810455095966,-8400.0
+1615,serbia,germany,1,serbian,german,0,964.1346153334515,-25400.0
+1616,serbia,greece,2,serbian,greek,0,619.7697626682965,-17800.0
+1617,serbia,italy,1,serbian,italian,0,630.5473598868833,-24500.0
+1618,serbia,montenegro,1,serbian,serbian,1,340.4444692985576,
+1619,serbia,singapore,1,serbian,english,0,9435.481626088329,-21500.0
+1620,serbia,spain,1,serbian,castilian,0,1777.0376947834268,-19800.0
+1621,serbia,switzerland,1,serbian,german,0,896.6614071898365,-30500.0
+1622,serbia,united kingdom,1,serbian,english,0,1722.2565367301634,-25500.0
+1623,singapore,andorra,1,english,catalan,0,10918.29036139984,4700.0
+1624,singapore,australia,14,english,english,1,5552.217577873151,-5300.0
+1625,singapore,austria,3,english,german,0,9848.163115730946,-6300.0
+1626,singapore,belgium,1,english,dutch,0,10571.178809719042,-5400.0
+1627,singapore,canada,1,english,english,1,14990.13385177052,-6100.0
+1628,singapore,china,16,english,chinese,0,3843.8393852612307,18700.0
+1629,singapore,denmark,2,english,danish,0,9975.282307119192,-7400.0
+1630,singapore,finland,1,english,finnish,0,9316.146683489857,-3700.0
+1631,singapore,france,4,english,french,0,10822.168363547715,-3900.0
+1632,singapore,germany,7,english,german,0,10110.608773584081,-3900.0
+1633,singapore,holy see (vatican city state),1,english,,0,10023.037926983441,
+1634,singapore,hong kong,22,english,,0,2587.4501635663273,-5100.0
+1635,singapore,india,8,english,hindi,0,3678.918845849354,20800.0
+1636,singapore,indonesia,28,english,bahasa,0,1134.558033699197,20500.0
+1637,singapore,ireland,1,english,english,1,11203.259270024262,-5900.0
+1638,singapore,italy,2,english,italian,0,10159.854352184977,-3000.0
+1639,singapore,japan,7,english,japanese,0,5356.4006631860275,-4500.0
+1640,singapore,"korea, republic of",6,english,,0,4670.420982603248,
+1641,singapore,macao,1,english,,0,2550.913094361404,
+1642,singapore,malaysia,39,english,bahasa,0,453.3976751268757,14700.0
+1643,singapore,maldives,1,english,dhivehi,0,3376.7697629006257,19800.0
+1644,singapore,mauritius,1,english,creole,0,5593.218178185885,12300.0
+1645,singapore,netherlands,3,english,dutch,0,10497.037535692138,-4900.0
+1646,singapore,new zealand,3,english,english,1,8377.583644665972,2100.0
+1647,singapore,norway,3,english,norwegian,0,10054.069422600482,-14100.0
+1648,singapore,philippines,5,english,filipino,0,2352.336736909918,19100.0
+1649,singapore,qatar,2,english,arabic,0,6201.427035318964,2200.0
+1650,singapore,russian federation,2,english,,0,8849.937041861886,
+1651,singapore,spain,1,english,castilian,0,10881.68306899516,1700.0
+1652,singapore,sri lanka,1,english,sinhala,0,2688.039816616733,20000.0
+1653,singapore,sweden,1,english,swedish,0,9792.6642883834,-3100.0
+1654,singapore,switzerland,2,english,german,0,10323.065996415717,-9000.0
+1655,singapore,"taiwan, province of china",9,english,,0,3227.7216020441606,
+1656,singapore,thailand,29,english,thai,0,1401.4204083378718,16300.0
+1657,singapore,turkey,1,english,turkish,0,8659.058178944859,17000.0
+1658,singapore,united arab emirates,2,english,arabic,0,5836.921752085479,500.0
+1659,singapore,united kingdom,10,english,english,1,10909.351084615013,-4000.0
+1660,singapore,united states,19,english,english,1,14497.721226021129,-14100.0
+1661,singapore,viet nam,7,english,,0,1101.0351131241057,
+1662,slovakia,austria,1,slovak,german,0,276.42666862089476,-16700.0
+1663,slovakia,bulgaria,1,slovak,bulgarian,0,775.5929733061406,5700.0
+1664,slovakia,croatia,3,slovak,croatian,0,591.2124211026454,2700.0
+1665,slovakia,czech republic,10,slovak,greek,0,316.9693462999226,-2400.0
+1666,slovakia,denmark,1,slovak,danish,0,894.5861263796132,-17800.0
+1667,slovakia,france,2,slovak,french,0,860.0734474347113,-14300.0
+1668,slovakia,germany,3,slovak,german,0,791.7941912460774,-14300.0
+1669,slovakia,hungary,2,slovak,hungarian,0,213.89643547520453,-600.0
+1670,slovakia,italy,1,slovak,italian,0,468.1793610554225,-13400.0
+1671,slovakia,poland,2,slovak,polish,0,293.6250386342044,2200.0
+1672,slovakia,spain,2,slovak,castilian,0,1521.7079417535726,-8700.0
+1673,slovakia,sweden,1,slovak,swedish,0,1151.0633639847333,-13500.0
+1674,slovakia,switzerland,2,slovak,german,0,839.6441259956472,-19400.0
+1675,slovakia,ukraine,2,slovak,ukrainian,0,388.87251359012646,7900.0
+1676,slovakia,united kingdom,2,slovak,english,0,1597.9536584165105,-14400.0
+1677,slovenia,austria,3,slovene,german,0,263.8311871799717,-11000.0
+1678,slovenia,china,1,slovene,chinese,0,7831.183996836554,14000.0
+1679,slovenia,france,3,slovene,french,0,959.8531555361266,-8600.0
+1680,slovenia,germany,1,slovene,german,0,561.8634055840889,-8600.0
+1681,slovenia,gibraltar,1,slovene,,0,1989.1433376982227,1500.0
+1682,slovenia,hungary,2,slovene,hungarian,0,389.8016946838387,5100.0
+1683,slovenia,italy,3,slovene,italian,0,756.6069226304777,-7700.0
+1684,slovenia,russian federation,2,slovene,,0,1931.589415971206,
+1685,slovenia,spain,6,slovene,castilian,0,1674.2211558987299,-3000.0
+1686,slovenia,sweden,1,slovene,swedish,0,1427.7747429960054,-7800.0
+1687,slovenia,switzerland,2,slovene,german,0,534.5535178535649,-13700.0
+1688,slovenia,united kingdom,4,slovene,english,0,1231.4170431836626,-8700.0
+1689,slovenia,united states,3,slovene,english,0,9507.856597170856,-18800.0
+1690,south africa,finland,1,isizulu,finnish,0,9601.570037429297,-16700.0
+1691,south africa,france,3,isizulu,french,0,8575.578579828612,-16900.0
+1692,south africa,germany,2,isizulu,german,0,9151.519723775147,-16900.0
+1693,south africa,greece,1,isizulu,greek,0,7558.127949440112,-9300.0
+1694,south africa,italy,1,isizulu,italian,0,8326.314015247386,-16000.0
+1695,south africa,lesotho,1,isizulu,sesotho,0,267.72792042717543,7700.0
+1696,south africa,mauritius,1,isizulu,creole,0,3100.9636090948793,-700.0
+1697,south africa,monaco,1,isizulu,french,0,8519.238701525781,-16300.0
+1698,south africa,nigeria,1,isizulu,english,0,4490.792906191647,9800.0
+1699,south africa,portugal,1,isizulu,portuguese,0,8678.557155243143,-7300.0
+1700,south africa,singapore,1,isizulu,english,0,8667.988664274233,-13000.0
+1701,south africa,spain,1,isizulu,castilian,0,8350.305206242438,-11300.0
+1702,south africa,sweden,1,isizulu,swedish,0,10369.079634181233,-16100.0
+1703,south africa,thailand,1,isizulu,thai,0,9811.205729200668,3300.0
+1704,south africa,turkey,1,isizulu,turkish,0,8030.742383172042,4000.0
+1705,south africa,united arab emirates,4,isizulu,arabic,0,6801.713839877199,-12500.0
+1706,south africa,united kingdom,7,isizulu,english,0,9496.34796066594,-17000.0
+1707,south africa,united states,6,isizulu,english,0,15638.603100592965,-27100.0
+1708,spain,andorra,1,castilian,catalan,0,493.60964174580346,3000.0
+1709,spain,argentina,2,castilian,spanish,0,10300.17587880293,10800.0
+1710,spain,australia,2,castilian,english,0,17581.49317831058,-7000.0
+1711,spain,austria,4,castilian,german,0,1451.2533088870753,-8000.0
+1712,spain,belarus,2,castilian,russian,0,4548.166916482165,15900.0
+1713,spain,belgium,15,castilian,dutch,0,1222.716016399622,-7100.0
+1714,spain,"bolivia, plurinational state of",2,castilian,,0,8964.269167497128,
+1715,spain,brazil,1,castilian,portuguese,0,8005.795352659901,14400.0
+1716,spain,bulgaria,3,castilian,bulgarian,0,2057.8440601182597,14400.0
+1717,spain,canada,2,castilian,english,0,6360.528323797469,-7800.0
+1718,spain,chile,1,castilian,spanish,0,11151.646255046087,12100.0
+1719,spain,china,1,castilian,chinese,0,10258.510099065701,17000.0
+1720,spain,colombia,2,castilian,spanish,0,8016.142287871531,15700.0
+1721,spain,croatia,1,castilian,croatian,0,1314.8811817960695,11400.0
+1722,spain,cyprus,1,castilian,greek,0,4643.66573280832,2800.0
+1723,spain,czech republic,2,castilian,greek,0,2122.5746991306155,6300.0
+1724,spain,denmark,4,castilian,danish,0,2011.4382460308075,-9100.0
+1725,spain,france,16,castilian,french,0,1201.1708969836411,-5600.0
+1726,spain,germany,23,castilian,german,0,1763.1415041404969,-5600.0
+1727,spain,gibraltar,1,castilian,,0,336.96495893926766,4500.0
+1728,spain,greece,2,castilian,greek,0,2328.419938288561,2000.0
+1729,spain,guatemala,1,castilian,spanish,0,9160.642451910635,17900.0
+1730,spain,holy see (vatican city state),2,castilian,,0,1113.3261873575216,
+1731,spain,honduras,1,castilian,spanish,0,8755.2952971868,19400.0
+1732,spain,hong kong,2,castilian,,0,10148.299360898174,-6800.0
+1733,spain,hungary,1,castilian,hungarian,0,1960.1749106894056,8100.0
+1734,spain,iceland,1,castilian,icelandic,0,3276.9727801612044,-8900.0
+1735,spain,india,1,castilian,hindi,0,7452.50658336181,19100.0
+1736,spain,ireland,4,castilian,english,0,1383.6950371532614,-7600.0
+1737,spain,israel,3,castilian,hebrew,0,3343.012847236331,2200.0
+1738,spain,italy,14,castilian,italian,0,2091.9817538557177,-4700.0
+1739,spain,japan,2,castilian,japanese,0,10418.280261670317,-6200.0
+1740,spain,jordan,1,castilian,arabic,0,3384.042565385178,17700.0
+1741,spain,luxembourg,1,castilian,luxembourgish,0,923.965928082948,-33100.0
+1742,spain,malta,1,castilian,maltese,0,1911.7534175245364,4300.0
+1743,spain,mexico,1,castilian,spanish,0,7948.0550621111415,13000.0
+1744,spain,morocco,5,castilian,arabic,0,949.8982226087205,18000.0
+1745,spain,nepal,1,castilian,nepali,0,8077.768209745792,20600.0
+1746,spain,netherlands,25,castilian,dutch,0,1258.148620431422,-6600.0
+1747,spain,new zealand,4,castilian,english,0,19845.029471088954,400.0
+1748,spain,norway,11,castilian,norwegian,0,2457.5341527784767,-15800.0
+1749,spain,"palestine, state of",2,castilian,,0,3279.675164694805,
+1750,spain,peru,2,castilian,spanish,0,9503.59254190882,16900.0
+1751,spain,poland,1,castilian,polish,0,2078.790697820034,10900.0
+1752,spain,portugal,11,castilian,portuguese,0,482.449367432183,4000.0
+1753,spain,romania,1,castilian,romanian,0,4189.420550154993,15000.0
+1754,spain,russian federation,2,castilian,,0,3102.77026895456,
+1755,spain,san marino,1,castilian,italian,0,3075.2986935068598,-12600.0
+1756,spain,saudi arabia,2,castilian,arabic,0,4526.966037390063,10200.0
+1757,spain,singapore,3,castilian,english,0,11388.925989064786,-1700.0
+1758,spain,slovakia,4,castilian,slovak,0,1839.9821290356138,8700.0
+1759,spain,sweden,11,castilian,swedish,0,2379.165587792399,-4800.0
+1760,spain,switzerland,6,castilian,german,0,966.4680668211346,-10700.0
+1761,spain,tunisia,2,castilian,arabic,0,1245.9173523786217,15100.0
+1762,spain,turkey,1,castilian,turkish,0,2239.3824444550783,15300.0
+1763,spain,united kingdom,26,castilian,english,0,1621.9710259685144,-5700.0
+1764,spain,united states,21,castilian,english,0,7406.634576112314,-15800.0
+1765,spain,uruguay,1,castilian,spanish,0,8181.222684445014,9200.0
+1766,sweden,afghanistan,1,swedish,dari,0,4872.452322471973,26100.0
+1767,sweden,albania,1,swedish,albanian,0,2002.9530073445358,22300.0
+1768,sweden,andorra,4,swedish,catalan,0,2107.8461966889363,7800.0
+1769,sweden,antigua and barbuda,1,swedish,english,0,7488.946523001914,
+1770,sweden,argentina,3,swedish,spanish,0,12560.734194734501,15600.0
+1771,sweden,armenia,2,swedish,armenian,0,2820.731547122004,23300.0
+1772,sweden,australia,23,swedish,english,0,15126.191646023366,-2200.0
+1773,sweden,austria,117,swedish,german,0,1268.2427933510025,-3200.0
+1774,sweden,azerbaijan,1,swedish,azerbaijani,0,3053.750248007122,23400.0
+1775,sweden,bahamas,2,swedish,azerbaijani,0,7847.439774547342,
+1776,sweden,bahrain,1,swedish,arabic,0,4447.6730302280685,9900.0
+1777,sweden,barbados,2,swedish,english,0,8054.2781359445535,11100.0
+1778,sweden,belarus,2,swedish,russian,0,833.604877131441,20700.0
+1779,sweden,belgium,136,swedish,dutch,0,1176.7021433432226,-2300.0
+1780,sweden,bosnia and herzegovina,1,swedish,bosnian,0,1598.0707205543952,
+1781,sweden,brazil,15,swedish,portuguese,0,10297.411264369422,19200.0
+1782,sweden,bulgaria,13,swedish,bulgarian,0,1882.0930953514167,19200.0
+1783,sweden,cambodia,3,swedish,khmer,0,8739.250799362351,24900.0
+1784,sweden,canada,38,swedish,english,0,7024.37171358193,-3000.0
+1785,sweden,chile,3,swedish,spanish,0,12823.727643062766,16900.0
+1786,sweden,china,83,swedish,chinese,0,7487.317877459018,21800.0
+1787,sweden,colombia,4,swedish,spanish,0,8988.913110242764,20500.0
+1788,sweden,congo,4,swedish,,0,7086.11397073984,
+1789,sweden,costa rica,3,swedish,spanish,0,9735.371299544624,17700.0
+1790,sweden,croatia,54,swedish,croatian,0,1645.80335718087,16200.0
+1791,sweden,curaçao,1,swedish,,0,8679.921808254176,
+1792,sweden,cyprus,26,swedish,greek,0,2964.8230261460194,7600.0
+1793,sweden,czech republic,84,swedish,greek,0,900.407269424833,11100.0
+1794,sweden,denmark,762,swedish,danish,0,459.59647199977246,-4300.0
+1795,sweden,dominican republic,1,swedish,spanish,0,7963.3659988590125,20800.0
+1796,sweden,ecuador,1,swedish,spanish,0,10582.535275110735,23500.0
+1797,sweden,egypt,23,swedish,arabic,0,3752.3201937815857,22800.0
+1798,sweden,el salvador,3,swedish,spanish,0,9650.079019346333,22000.0
+1799,sweden,estonia,43,swedish,estonian,0,430.9741563624997,14500.0
+1800,sweden,faroe islands,2,swedish,,0,1376.0484692452646,4800.0
+1801,sweden,finland,265,swedish,finnish,0,536.983118881926,-600.0
+1802,sweden,france,428,swedish,french,0,1521.7315132342853,-800.0
+1803,sweden,french polynesia,1,swedish,,0,15292.733254821176,9300.0
+1804,sweden,georgia,2,swedish,georgian,0,2698.655122097997,24300.0
+1805,sweden,germany,671,swedish,german,0,858.8062049117136,-800.0
+1806,sweden,gibraltar,6,swedish,,0,2962.177890575525,9300.0
+1807,sweden,greece,165,swedish,greek,0,2562.898251485357,6800.0
+1808,sweden,greenland,1,swedish,,0,3309.4301243429886,6800.0
+1809,sweden,guatemala,1,swedish,spanish,0,9643.480930200592,22700.0
+1810,sweden,guernsey,1,swedish,,0,1717.216593906308,6800.0
+1811,sweden,holy see (vatican city state),63,swedish,,0,1876.5875090882103,
+1812,sweden,hong kong,32,swedish,,0,8353.834055206886,-2000.0
+1813,sweden,hungary,56,swedish,hungarian,0,1248.6707962157495,12900.0
+1814,sweden,iceland,22,swedish,icelandic,0,2109.1893869467795,-4100.0
+1815,sweden,india,13,swedish,hindi,0,6356.514105344231,23900.0
+1816,sweden,indonesia,18,swedish,bahasa,0,11159.66076719638,23600.0
+1817,sweden,iraq,1,swedish,arabic,0,3183.0196647099324,25300.0
+1818,sweden,ireland,42,swedish,english,0,1569.5875146168219,-2800.0
+1819,sweden,isle of man,2,swedish,,0,1482.10312505128,5800.0
+1820,sweden,israel,32,swedish,hebrew,0,3369.8021386112855,7000.0
+1821,sweden,italy,272,swedish,italian,0,1728.7785243808028,100.0
+1822,sweden,japan,46,swedish,japanese,0,8302.12490964413,-1400.0
+1823,sweden,jordan,1,swedish,arabic,0,3554.9895111946785,22500.0
+1824,sweden,kenya,4,swedish,english,0,6839.2529250907155,25800.0
+1825,sweden,"korea, republic of",13,swedish,,0,7509.793321450014,
+1826,sweden,latvia,58,swedish,latvian,0,525.5740827636942,16600.0
+1827,sweden,lebanon,4,swedish,arabic,0,3110.8486655903457,22000.0
+1828,sweden,lithuania,19,swedish,lithuanian,0,719.0209057366296,15400.0
+1829,sweden,luxembourg,15,swedish,luxembourgish,0,1070.2625719583384,-28300.0
+1830,sweden,macao,1,swedish,,0,8205.853332150406,
+1831,sweden,"macedonia, the former yugoslav republic of",4,swedish,,0,1873.1036098529755,
+1832,sweden,malaysia,32,swedish,bahasa,0,9317.562538039365,17800.0
+1833,sweden,maldives,2,swedish,dhivehi,0,7733.340063440664,22900.0
+1834,sweden,mali,1,swedish,french,0,5626.696440966243,25900.0
+1835,sweden,malta,27,swedish,maltese,0,2574.6293653451708,9100.0
+1836,sweden,mauritius,2,swedish,creole,0,9561.479691696131,15400.0
+1837,sweden,mexico,11,swedish,spanish,0,9276.840330503888,17800.0
+1838,sweden,"moldova, republic of",2,swedish,,0,1549.7286510279848,
+1839,sweden,monaco,27,swedish,french,0,1758.0745967029868,-200.0
+1840,sweden,mongolia,2,swedish,mongolian,0,5538.774358739461,25000.0
+1841,sweden,montenegro,4,swedish,serbian,0,1792.3577024124227,
+1842,sweden,morocco,6,swedish,arabic,0,3372.815693219463,22800.0
+1843,sweden,namibia,1,swedish,oshiwambo,0,9108.024494508425,19600.0
+1844,sweden,nepal,2,swedish,nepali,0,6460.183451312796,25400.0
+1845,sweden,netherlands,276,swedish,dutch,0,950.796629600786,-1800.0
+1846,sweden,new zealand,1,swedish,english,0,17006.8123254103,5200.0
+1847,sweden,nigeria,1,swedish,english,0,5658.093269298288,25900.0
+1848,sweden,norway,882,swedish,norwegian,0,469.39068819851445,-11000.0
+1849,sweden,pakistan,1,swedish,punjabi,0,4878.985631696322,24700.0
+1850,sweden,"palestine, state of",17,swedish,,0,3425.275974958079,
+1851,sweden,panama,3,swedish,spanish,0,9568.932539362477,20500.0
+1852,sweden,peru,1,swedish,spanish,0,11430.44397839564,21700.0
+1853,sweden,philippines,4,swedish,filipino,0,9490.01505606421,22200.0
+1854,sweden,poland,52,swedish,polish,0,704.7533023908499,15700.0
+1855,sweden,portugal,58,swedish,portuguese,0,2893.581522711335,8800.0
+1856,sweden,qatar,14,swedish,arabic,0,4682.104315924627,5300.0
+1857,sweden,romania,3,swedish,romanian,0,1706.8293778681636,19800.0
+1858,sweden,russian federation,27,swedish,,0,1134.3639751422288,
+1859,sweden,saint barthélemy,1,swedish,,0,7788.0941659178125,
+1860,sweden,san marino,1,swedish,italian,0,1531.5197501862694,-7800.0
+1861,sweden,saudi arabia,2,swedish,arabic,0,4446.121621766516,15000.0
+1862,sweden,serbia,13,swedish,serbian,0,1573.9621536442519,24600.0
+1863,sweden,singapore,36,swedish,english,0,9705.386812818835,3100.0
+1864,sweden,slovakia,10,swedish,slovak,0,1212.7755073847356,13500.0
+1865,sweden,slovenia,4,swedish,slovene,0,1453.7588483306497,7800.0
+1866,sweden,south africa,12,swedish,isizulu,0,9828.10457497485,16100.0
+1867,sweden,spain,453,swedish,castilian,0,2460.17154117431,4800.0
+1868,sweden,sudan,1,swedish,arabic,0,5002.00095834383,24900.0
+1869,sweden,svalbard and jan mayen,4,swedish,,0,2171.7498333463177,
+1870,sweden,switzerland,128,swedish,german,0,1439.6864805171385,-5900.0
+1871,sweden,syrian arab republic,2,swedish,,0,3182.643000234582,
+1872,sweden,"taiwan, province of china",9,swedish,,0,8574.10326559101,
+1873,sweden,thailand,99,swedish,thai,0,8658.955081072185,19400.0
+1874,sweden,tunisia,16,swedish,arabic,0,2695.937934224463,19900.0
+1875,sweden,turkey,112,swedish,turkish,0,2461.5208920411114,20100.0
+1876,sweden,uganda,1,swedish,english,0,6724.948599382543,25400.0
+1877,sweden,ukraine,7,swedish,ukrainian,0,1431.967968070164,21400.0
+1878,sweden,united arab emirates,25,swedish,arabic,0,4793.304193187612,3600.0
+1879,sweden,united kingdom,644,swedish,english,0,1261.0440626615068,-900.0
+1880,sweden,united states,616,swedish,english,0,7591.099592266754,-11000.0
+1881,sweden,uruguay,2,swedish,spanish,0,12463.763587078893,14000.0
+1882,sweden,"venezuela, bolivarian republic of",1,swedish,,0,8491.26727563546,
+1883,sweden,viet nam,6,swedish,,0,8306.87072413263,
+1884,sweden,åland islands,16,swedish,,0,459.6751903722687,
+1885,switzerland,andorra,1,german,catalan,0,735.650939049473,13700.0
+1886,switzerland,argentina,1,german,spanish,0,11250.265567959015,21500.0
+1887,switzerland,australia,2,german,english,0,16684.84264562779,3700.0
+1888,switzerland,austria,41,german,german,1,560.0622367698517,2700.0
+1889,switzerland,belgium,9,german,dutch,0,494.80686947811034,3600.0
+1890,switzerland,brazil,2,german,portuguese,0,9857.890182487277,25100.0
+1891,switzerland,bulgaria,1,german,bulgarian,0,1270.939700778815,25100.0
+1892,switzerland,canada,8,german,english,0,7417.836735333166,2900.0
+1893,switzerland,china,1,german,chinese,0,8966.872932540331,27700.0
+1894,switzerland,congo,1,german,,0,5685.76541378411,
+1895,switzerland,"congo, the democratic republic of the",1,german,,0,5700.568805098263,
+1896,switzerland,croatia,5,german,croatian,0,674.9151394189585,22100.0
+1897,switzerland,cyprus,1,german,greek,0,2520.6223256926505,13500.0
+1898,switzerland,czech republic,6,german,greek,0,529.4317051303973,17000.0
+1899,switzerland,denmark,5,german,danish,0,1010.7985470337017,1600.0
+1900,switzerland,egypt,7,german,arabic,0,3155.632964576425,28700.0
+1901,switzerland,finland,3,german,finnish,0,1968.4741428337418,5300.0
+1902,switzerland,france,62,german,french,0,452.4416771042958,5100.0
+1903,switzerland,germany,122,german,german,1,435.89354525957515,5100.0
+1904,switzerland,gibraltar,1,german,,0,1655.8325586806977,15200.0
+1905,switzerland,greece,11,german,greek,0,1820.0893237306109,12700.0
+1906,switzerland,holy see (vatican city state),15,german,,0,686.0854049343093,
+1907,switzerland,hong kong,1,german,,0,9302.249622452682,3900.0
+1908,switzerland,hungary,2,german,hungarian,0,886.8483896957252,18800.0
+1909,switzerland,iceland,1,german,icelandic,0,2618.526919006542,1800.0
+1910,switzerland,india,3,german,hindi,0,6612.116360764369,29800.0
+1911,switzerland,indonesia,3,german,bahasa,0,11977.933689292257,29500.0
+1912,switzerland,ireland,7,german,english,0,1235.0644173018811,3100.0
+1913,switzerland,israel,1,german,hebrew,0,2792.593411408746,12900.0
+1914,switzerland,italy,65,german,italian,0,445.7658821628996,6000.0
+1915,switzerland,japan,5,german,japanese,0,9650.834504934883,4500.0
+1916,switzerland,jersey,1,german,,0,807.0222197524574,7900.0
+1917,switzerland,jordan,1,german,arabic,0,2939.723259925637,28400.0
+1918,switzerland,"korea, republic of",1,german,,0,8804.089177020827,
+1919,switzerland,lao people's democratic republic,1,german,,0,8833.413814874893,
+1920,switzerland,luxembourg,1,german,luxembourgish,0,303.15766964960113,-22400.0
+1921,switzerland,malaysia,2,german,bahasa,0,9988.901331316194,23700.0
+1922,switzerland,maldives,1,german,dhivehi,0,7771.6131761596025,28800.0
+1923,switzerland,malta,2,german,maltese,0,1380.5432750491204,15000.0
+1924,switzerland,mexico,1,german,spanish,0,9992.285700145792,23700.0
+1925,switzerland,netherlands,27,german,dutch,0,612.8512497325789,4100.0
+1926,switzerland,new zealand,1,german,english,0,18593.033797378022,11100.0
+1927,switzerland,norway,3,german,norwegian,0,1438.2261518328742,-5100.0
+1928,switzerland,panama,1,german,spanish,0,9130.05176222407,26400.0
+1929,switzerland,philippines,2,german,filipino,0,10850.265008749117,28100.0
+1930,switzerland,poland,2,german,polish,0,1015.7377847785588,21600.0
+1931,switzerland,portugal,6,german,portuguese,0,1680.6945527260411,14700.0
+1932,switzerland,russian federation,3,german,,0,2223.105972482773,
+1933,switzerland,serbia,1,german,serbian,0,966.6553045013969,30500.0
+1934,switzerland,seychelles,1,german,seychellois,0,7382.225884267024,24900.0
+1935,switzerland,singapore,7,german,english,0,10317.233673329376,9000.0
+1936,switzerland,slovakia,3,german,slovak,0,769.8070297408528,19400.0
+1937,switzerland,slovenia,5,german,slovene,0,452.66870985331616,13700.0
+1938,switzerland,south africa,2,german,isizulu,0,9073.844666120267,22000.0
+1939,switzerland,spain,36,german,castilian,0,1104.2263196946574,10700.0
+1940,switzerland,sweden,15,german,swedish,0,1439.6598904423865,5900.0
+1941,switzerland,"taiwan, province of china",2,german,,0,9558.01026309259,
+1942,switzerland,thailand,6,german,thai,0,9213.842838466811,25300.0
+1943,switzerland,tunisia,2,german,arabic,0,1523.9713910006467,25800.0
+1944,switzerland,turkey,6,german,turkish,0,1891.8000561381173,26000.0
+1945,switzerland,ukraine,1,german,ukrainian,0,1637.0060975524423,27300.0
+1946,switzerland,united arab emirates,1,german,arabic,0,4763.523452713589,9500.0
+1947,switzerland,united kingdom,52,german,english,0,839.5475166087261,5000.0
+1948,switzerland,united states,47,german,english,0,8272.196764043372,-5100.0
+1949,switzerland,"venezuela, bolivarian republic of",1,german,,0,7924.28265746182,
+1950,switzerland,viet nam,1,german,,0,9818.886827200335,
+1951,switzerland,åland islands,1,german,,0,1778.164056028662,
+1952,"taiwan, province of china",australia,1,,english,0,5353.15096294391,
+1953,"taiwan, province of china",austria,1,,german,0,9132.519799039748,
+1954,"taiwan, province of china",cambodia,1,,khmer,0,2261.1736731978344,
+1955,"taiwan, province of china",canada,1,,english,0,9582.213673540127,
+1956,"taiwan, province of china",china,20,,chinese,0,877.4801694926507,
+1957,"taiwan, province of china",germany,2,,german,0,9187.962861514427,
+1958,"taiwan, province of china",hong kong,18,,,0,821.9613959440932,
+1959,"taiwan, province of china",indonesia,3,,bahasa,0,3710.734264930498,
+1960,"taiwan, province of china",israel,1,,hebrew,0,8280.252477755395,
+1961,"taiwan, province of china",japan,10,,japanese,0,2106.207688512936,
+1962,"taiwan, province of china","korea, republic of",3,,,0,1382.7003628020907,
+1963,"taiwan, province of china",malaysia,3,,bahasa,0,3205.250271398729,
+1964,"taiwan, province of china",new zealand,1,,english,0,8852.372846652439,
+1965,"taiwan, province of china",philippines,1,,filipino,0,1768.1485635922852,
+1966,"taiwan, province of china",saudi arabia,1,,arabic,0,7644.624305903946,
+1967,"taiwan, province of china",singapore,2,,english,0,3252.526767289069,
+1968,"taiwan, province of china",thailand,1,,thai,0,2545.596800799972,
+1969,"taiwan, province of china",united arab emirates,1,,arabic,0,6591.742977614061,
+1970,"taiwan, province of china",united kingdom,1,,english,0,9747.499000978225,
+1971,"taiwan, province of china",united states,10,,english,0,11079.787531965825,
+1972,thailand,argentina,1,thai,spanish,0,16461.671984900713,-3800.0
+1973,thailand,australia,8,thai,english,0,7362.279165398744,-21600.0
+1974,thailand,austria,2,thai,german,0,8829.569069739893,-22600.0
+1975,thailand,bangladesh,3,thai,bangla,0,1548.1175702583707,5500.0
+1976,thailand,belgium,1,thai,dutch,0,9642.5908331476,-21700.0
+1977,thailand,cambodia,8,thai,khmer,0,400.944107767186,5500.0
+1978,thailand,canada,1,thai,english,0,11793.124336623394,-22400.0
+1979,thailand,china,15,thai,chinese,0,2698.2907673379505,2400.0
+1980,thailand,czech republic,1,thai,greek,0,8562.132762250796,-8300.0
+1981,thailand,denmark,2,thai,danish,0,8803.890349057117,-23700.0
+1982,thailand,egypt,4,thai,arabic,0,7259.182033009697,3400.0
+1983,thailand,ethiopia,2,thai,oromo,0,6741.007787162607,6700.0
+1984,thailand,france,8,thai,french,0,9500.488425485815,-20200.0
+1985,thailand,germany,3,thai,german,0,8879.815640366169,-20200.0
+1986,thailand,hong kong,46,thai,,0,1711.009600566114,-21400.0
+1987,thailand,india,6,thai,hindi,0,2584.3122393539684,4500.0
+1988,thailand,indonesia,9,thai,bahasa,0,2832.2043145812877,4200.0
+1989,thailand,italy,2,thai,italian,0,8906.314432171497,-19300.0
+1990,thailand,japan,12,thai,japanese,0,4371.440023419318,-20800.0
+1991,thailand,jordan,1,thai,arabic,0,6827.955488792865,3100.0
+1992,thailand,"korea, republic of",14,thai,,0,3675.9532144198374,
+1993,thailand,lao people's democratic republic,3,thai,,0,517.333738521696,
+1994,thailand,macao,3,thai,,0,1657.411439782099,
+1995,thailand,malaysia,13,thai,bahasa,0,1245.0010293782416,-1600.0
+1996,thailand,myanmar,1,thai,makhuwa,0,582.2501940764053,
+1997,thailand,netherlands,2,thai,dutch,0,8990.515346458596,-21200.0
+1998,thailand,new zealand,1,thai,english,0,9647.416534762553,-14200.0
+1999,thailand,norway,2,thai,norwegian,0,8724.733057549516,-30400.0
+2000,thailand,pakistan,4,thai,punjabi,0,3477.6709194538394,5300.0
+2001,thailand,"palestine, state of",1,thai,,0,6891.899612310397,
+2002,thailand,philippines,2,thai,filipino,0,2202.965571670392,2800.0
+2003,thailand,poland,1,thai,polish,0,8253.842943137084,-3700.0
+2004,thailand,portugal,1,thai,portuguese,0,10705.261621926098,-10600.0
+2005,thailand,qatar,4,thai,arabic,0,5260.94373968626,-14100.0
+2006,thailand,saudi arabia,1,thai,arabic,0,6528.056242338821,-4400.0
+2007,thailand,singapore,11,thai,english,0,1428.9445899459063,-16300.0
+2008,thailand,south africa,1,thai,isizulu,0,8570.67428553189,-3300.0
+2009,thailand,spain,3,thai,castilian,0,10084.681102006587,-14600.0
+2010,thailand,sri lanka,1,thai,sinhala,0,2388.445461248488,3700.0
+2011,thailand,sweden,7,thai,swedish,0,8489.856264733353,-19400.0
+2012,thailand,"taiwan, province of china",9,thai,,0,2514.5551296293597,
+2013,thailand,ukraine,1,thai,ukrainian,0,7364.578813904614,2000.0
+2014,thailand,united arab emirates,1,thai,arabic,0,4885.105076271891,-15800.0
+2015,thailand,united kingdom,14,thai,english,0,9563.945701044151,-20300.0
+2016,thailand,united states,20,thai,english,0,13884.462014741674,-30400.0
+2017,thailand,viet nam,7,thai,,0,751.7673799817551,
+2018,tunisia,oman,1,arabic,arabic,1,4787.362558182216,-6200.0
+2019,turkey,austria,1,turkish,german,0,1593.9115332452172,-23300.0
+2020,turkey,bulgaria,1,turkish,bulgarian,0,214.35532224284904,-900.0
+2021,turkey,cyprus,1,turkish,greek,0,748.1708436512645,-12500.0
+2022,turkey,france,2,turkish,french,0,2248.0592867783566,-20900.0
+2023,turkey,germany,2,turkish,german,0,1742.1404476879966,-20900.0
+2024,turkey,greece,1,turkish,greek,0,309.0149881792172,-13300.0
+2025,turkey,hungary,1,turkish,hungarian,0,1060.8913228349031,-7200.0
+2026,turkey,netherlands,1,turkish,dutch,0,2205.415903416404,-21900.0
+2027,turkey,norway,2,turkish,norwegian,0,2719.010851989154,-31100.0
+2028,turkey,saudi arabia,1,turkish,arabic,0,2367.6738712613724,-5100.0
+2029,turkey,serbia,3,turkish,serbian,0,758.2373435039284,4500.0
+2030,turkey,sweden,1,turkish,swedish,0,2511.9962084334798,-20100.0
+2031,turkey,united kingdom,2,turkish,english,0,2623.0682007099845,-21000.0
+2032,ukraine,armenia,1,ukrainian,armenian,0,1566.4549673923636,1900.0
+2033,ukraine,austria,1,ukrainian,german,0,1043.3103076550224,-24600.0
+2034,ukraine,azerbaijan,1,ukrainian,azerbaijani,0,1812.9546863810713,2000.0
+2035,ukraine,czech republic,3,ukrainian,greek,0,1280.4666467873362,-10300.0
+2036,ukraine,georgia,3,ukrainian,georgian,0,1436.730364170003,2900.0
+2037,ukraine,greece,2,ukrainian,greek,0,1330.792831206989,-14600.0
+2038,ukraine,italy,3,ukrainian,italian,0,1693.9433828894955,-21300.0
+2039,ukraine,kazakhstan,1,ukrainian,kazakh,0,3317.739549567474,-900.0
+2040,ukraine,kyrgyzstan,1,ukrainian,kyrgyz,0,3413.170294091727,3800.0
+2041,ukraine,malta,1,ukrainian,maltese,0,2063.8653819593414,-12300.0
+2042,ukraine,"moldova, republic of",1,ukrainian,,0,408.49925909887395,
+2043,ukraine,poland,1,ukrainian,polish,0,689.3019083973265,-5700.0
+2044,ukraine,russian federation,4,ukrainian,,0,924.4634730267186,
+2045,ukraine,turkey,2,ukrainian,turkish,0,1182.3301982376743,-1300.0
+2046,ukraine,united kingdom,2,ukrainian,english,0,2307.683358329949,-22300.0
+2047,ukraine,united states,1,ukrainian,english,0,8922.63826412799,-32400.0
+2048,united arab emirates,austria,2,arabic,german,0,4235.284823465863,-6800.0
+2049,united arab emirates,bahrain,7,arabic,arabic,1,486.0445256101911,6300.0
+2050,united arab emirates,canada,2,arabic,english,0,11019.796872849263,-6600.0
+2051,united arab emirates,china,1,arabic,chinese,0,6453.028327944407,18200.0
+2052,united arab emirates,cyprus,1,arabic,greek,0,2285.997538240504,4000.0
+2053,united arab emirates,denmark,3,arabic,danish,0,4824.37275127026,-7900.0
+2054,united arab emirates,egypt,2,arabic,arabic,1,2452.1608755287048,19200.0
+2055,united arab emirates,ethiopia,1,arabic,oromo,0,2486.2181531577526,22500.0
+2056,united arab emirates,france,4,arabic,french,0,5266.482437356452,-4400.0
+2057,united arab emirates,germany,2,arabic,german,0,4564.936221412222,-4400.0
+2058,united arab emirates,india,2,arabic,hindi,0,2617.7663975098417,20300.0
+2059,united arab emirates,"iran, islamic republic of",1,arabic,,0,1240.5582390171917,
+2060,united arab emirates,japan,1,arabic,japanese,0,7501.219037899663,-5000.0
+2061,united arab emirates,jordan,5,arabic,arabic,1,2034.098855132021,18900.0
+2062,united arab emirates,"korea, republic of",1,arabic,,0,6796.16626235438,
+2063,united arab emirates,kuwait,3,arabic,arabic,1,854.9297594009297,4200.0
+2064,united arab emirates,libya,1,arabic,arabic,1,4154.919893018017,16800.0
+2065,united arab emirates,malaysia,1,arabic,bahasa,0,5536.371344265048,14200.0
+2066,united arab emirates,maldives,1,arabic,dhivehi,0,3043.329851469186,19300.0
+2067,united arab emirates,malta,1,arabic,maltese,0,4050.6735145060848,5500.0
+2068,united arab emirates,"moldova, republic of",2,arabic,,0,3361.6085788053833,
+2069,united arab emirates,morocco,1,arabic,arabic,1,6028.891148566396,19200.0
+2070,united arab emirates,netherlands,3,arabic,dutch,0,5177.615833192919,-5400.0
+2071,united arab emirates,oman,2,arabic,arabic,1,415.73492682008816,10100.0
+2072,united arab emirates,philippines,2,arabic,filipino,0,7081.2593351694395,18600.0
+2073,united arab emirates,qatar,1,arabic,arabic,1,374.7269778703859,1700.0
+2074,united arab emirates,russian federation,1,arabic,,0,3687.69198658712,
+2075,united arab emirates,saudi arabia,11,arabic,arabic,1,894.1202880757396,11400.0
+2076,united arab emirates,singapore,1,arabic,english,0,5852.085198250878,-500.0
+2077,united arab emirates,spain,1,arabic,castilian,0,5869.289142204199,1200.0
+2078,united arab emirates,sri lanka,1,arabic,sinhala,0,3297.0081257160846,19500.0
+2079,united arab emirates,sweden,2,arabic,swedish,0,4796.48410376571,-3600.0
+2080,united arab emirates,switzerland,1,arabic,german,0,4907.665927411975,-9500.0
+2081,united arab emirates,thailand,2,arabic,thai,0,4996.683535239832,15800.0
+2082,united arab emirates,turkey,3,arabic,turkish,0,3000.001894590962,16500.0
+2083,united arab emirates,united kingdom,5,arabic,english,0,5570.423510546121,-4500.0
+2084,united arab emirates,united states,4,arabic,english,0,11751.065618334322,-14600.0
+2085,united kingdom,albania,1,english,albanian,0,1893.6005749481399,23200.0
+2086,united kingdom,antigua and barbuda,2,english,english,1,6574.717543198878,
+2087,united kingdom,australia,30,english,english,1,16490.892598325456,-1300.0
+2088,united kingdom,austria,21,english,german,0,1228.5808176248763,-2300.0
+2089,united kingdom,bahamas,1,english,azerbaijani,0,6903.270031682885,
+2090,united kingdom,bahrain,2,english,arabic,0,5123.442660811278,10800.0
+2091,united kingdom,bangladesh,1,english,bangla,0,8008.175918488883,25800.0
+2092,united kingdom,barbados,2,english,english,1,6720.17874697845,12000.0
+2093,united kingdom,belgium,58,english,dutch,0,412.91364521451703,-1400.0
+2094,united kingdom,"bolivia, plurinational state of",1,english,,0,10058.59672361776,
+2095,united kingdom,brazil,6,english,portuguese,0,9365.45621413738,20100.0
+2096,united kingdom,bulgaria,7,english,bulgarian,0,2149.724423628241,20100.0
+2097,united kingdom,cambodia,3,english,khmer,0,9839.55431141971,25800.0
+2098,united kingdom,canada,55,english,english,1,5594.890944101621,-2100.0
+2099,united kingdom,china,15,english,chinese,0,8675.826314943652,22700.0
+2100,united kingdom,colombia,1,english,spanish,0,8709.08392773511,21400.0
+2101,united kingdom,costa rica,1,english,spanish,0,8725.312794562677,18600.0
+2102,united kingdom,croatia,11,english,croatian,0,1606.7697757295932,17100.0
+2103,united kingdom,cyprus,17,english,greek,0,3314.4041139816873,8500.0
+2104,united kingdom,czech republic,15,english,greek,0,1248.904447854457,12000.0
+2105,united kingdom,denmark,38,english,danish,0,931.2849826465928,-3400.0
+2106,united kingdom,dominican republic,4,english,spanish,0,6861.311900585964,21700.0
+2107,united kingdom,egypt,17,english,arabic,0,3843.085090192324,23700.0
+2108,united kingdom,estonia,7,english,estonian,0,1744.7240143577285,15400.0
+2109,united kingdom,faroe islands,2,english,,0,1234.7128550397272,5700.0
+2110,united kingdom,finland,19,english,finnish,0,1821.8681263094147,300.0
+2111,united kingdom,france,227,english,french,0,562.7877595027339,100.0
+2112,united kingdom,germany,129,english,german,0,771.9635377839041,100.0
+2113,united kingdom,ghana,2,english,asante,0,5389.052411346002,25500.0
+2114,united kingdom,gibraltar,2,english,,0,1772.6407342166103,10200.0
+2115,united kingdom,greece,41,english,greek,0,2487.464048872351,7700.0
+2116,united kingdom,guam,1,english,,0,11990.145122836899,6700.0
+2117,united kingdom,guernsey,1,english,,0,352.1499350015438,7700.0
+2118,united kingdom,holy see (vatican city state),28,english,,0,1442.481014645226,
+2119,united kingdom,hong kong,32,english,,0,9625.729631475186,-1100.0
+2120,united kingdom,hungary,11,english,hungarian,0,1498.7095180123779,13800.0
+2121,united kingdom,iceland,4,english,icelandic,0,1928.5389199592983,-3200.0
+2122,united kingdom,india,13,english,hindi,0,7367.991777115928,24800.0
+2123,united kingdom,indonesia,5,english,bahasa,0,12530.055351797213,24500.0
+2124,united kingdom,ireland,79,english,english,1,432.8612449452264,-1900.0
+2125,united kingdom,isle of man,3,english,,0,398.1927049738164,6700.0
+2126,united kingdom,israel,4,english,hebrew,0,3566.6308373716597,7900.0
+2127,united kingdom,italy,97,english,italian,0,1189.367875185411,1000.0
+2128,united kingdom,jamaica,1,english,english,1,7145.00078453116,23800.0
+2129,united kingdom,japan,14,english,japanese,0,9527.834036285849,-500.0
+2130,united kingdom,jersey,12,english,,0,427.9178961569028,2900.0
+2131,united kingdom,kenya,1,english,english,1,6822.739025899986,26700.0
+2132,united kingdom,"korea, republic of",5,english,,0,8840.284945314044,
+2133,united kingdom,kuwait,3,english,arabic,0,4759.636026658256,8700.0
+2134,united kingdom,lao people's democratic republic,1,english,,0,9020.010059864537,
+2135,united kingdom,latvia,4,english,latvian,0,1594.6024068668594,17500.0
+2136,united kingdom,lebanon,1,english,arabic,0,3516.704507908315,22900.0
+2137,united kingdom,lithuania,4,english,lithuanian,0,1719.1815810358119,16300.0
+2138,united kingdom,luxembourg,3,english,luxembourgish,0,626.1160079699694,-27400.0
+2139,united kingdom,macao,2,english,,0,9604.67846057399,
+2140,united kingdom,"macedonia, the former yugoslav republic of",1,english,,0,2119.4922677840723,
+2141,united kingdom,malaysia,15,english,bahasa,0,10743.367484643031,18700.0
+2142,united kingdom,maldives,2,english,dhivehi,0,8843.071210455273,23800.0
+2143,united kingdom,malta,3,english,maltese,0,2204.035430328477,10000.0
+2144,united kingdom,mauritius,2,english,creole,0,9738.087615099477,16300.0
+2145,united kingdom,mexico,4,english,spanish,0,8309.954519751265,18700.0
+2146,united kingdom,monaco,6,english,french,0,1119.2566480702046,700.0
+2147,united kingdom,morocco,13,english,arabic,0,2188.0139650254573,23700.0
+2148,united kingdom,netherlands,109,english,dutch,0,421.66321255115037,-900.0
+2149,united kingdom,new zealand,9,english,english,1,18752.126382641516,6100.0
+2150,united kingdom,norway,38,english,norwegian,0,1288.5147987836644,-10100.0
+2151,united kingdom,oman,1,english,arabic,0,5894.7514014942335,14600.0
+2152,united kingdom,pakistan,1,english,punjabi,0,6309.554236476977,25600.0
+2153,united kingdom,"palestine, state of",2,english,,0,3625.8997860142536,
+2154,united kingdom,peru,1,english,spanish,0,9971.684158413495,22600.0
+2155,united kingdom,philippines,1,english,filipino,0,11014.45494690542,23100.0
+2156,united kingdom,poland,15,english,polish,0,1367.101050510555,16600.0
+2157,united kingdom,portugal,41,english,portuguese,0,1480.4838212035484,9700.0
+2158,united kingdom,puerto rico,3,english,,0,6717.158462511431,10900.0
+2159,united kingdom,qatar,15,english,arabic,0,5413.343544576107,6200.0
+2160,united kingdom,romania,6,english,romanian,0,2180.3189638510953,20700.0
+2161,united kingdom,russian federation,8,english,,0,2327.4816339702697,
+2162,united kingdom,saudi arabia,26,english,arabic,0,4867.597461113289,15900.0
+2163,united kingdom,serbia,2,english,serbian,0,1632.8175269038143,25500.0
+2164,united kingdom,seychelles,1,english,seychellois,0,8146.630895938155,19900.0
+2165,united kingdom,singapore,22,english,english,1,10880.486462619256,4000.0
+2166,united kingdom,slovakia,4,english,slovak,0,1410.2417923751002,14400.0
+2167,united kingdom,slovenia,8,english,slovene,0,1328.4651524496605,8700.0
+2168,united kingdom,south africa,16,english,isizulu,0,9412.93974507869,17000.0
+2169,united kingdom,spain,151,english,castilian,0,1446.752198208273,5700.0
+2170,united kingdom,sri lanka,2,english,sinhala,0,8662.258425518583,24000.0
+2171,united kingdom,sweden,55,english,swedish,0,1345.9896820464041,900.0
+2172,united kingdom,switzerland,44,english,german,0,802.9478670728184,-5000.0
+2173,united kingdom,syrian arab republic,1,english,,0,3545.871821959914,
+2174,united kingdom,"taiwan, province of china",1,english,,0,9832.328225979647,
+2175,united kingdom,thailand,14,english,thai,0,9642.806170810716,20300.0
+2176,united kingdom,tunisia,5,english,arabic,0,1948.489079230546,20800.0
+2177,united kingdom,turkey,34,english,turkish,0,2902.156030627055,21000.0
+2178,united kingdom,uganda,1,english,english,1,6472.148022858188,26300.0
+2179,united kingdom,ukraine,4,english,ukrainian,0,1904.008578684374,22300.0
+2180,united kingdom,united arab emirates,31,english,arabic,0,5551.360496612123,4500.0
+2181,united kingdom,united states,289,english,english,1,7311.612860806343,-10100.0
+2182,united kingdom,viet nam,4,english,,0,9841.808840354459,
+2183,united kingdom,zambia,1,english,bemba,0,8392.900723838293,26900.0
+2184,united kingdom,åland islands,1,english,,0,1583.276114457013,
+2185,united states,afghanistan,5,english,dari,0,11095.343427078673,37100.0
+2186,united states,albania,1,english,albanian,0,9827.669170377485,33300.0
+2187,united states,angola,1,english,portuguese,0,11999.860460282885,35900.0
+2188,united states,anguilla,2,english,,0,5058.455153228036,29200.0
+2189,united states,antigua and barbuda,2,english,english,1,3917.46420962918,
+2190,united states,argentina,40,english,spanish,0,8893.008409118149,26600.0
+2191,united states,armenia,1,english,armenian,0,10693.653401043783,34300.0
+2192,united states,aruba,13,english,,0,3536.7471233434353,9800.0
+2193,united states,australia,88,english,english,1,14152.233927052306,8800.0
+2194,united states,austria,67,english,german,0,8954.83666238388,7800.0
+2195,united states,azerbaijan,1,english,azerbaijani,0,10990.459956064966,34400.0
+2196,united states,bahamas,47,english,azerbaijani,0,2287.5341464237563,
+2197,united states,bahrain,6,english,arabic,0,12020.446824645913,20900.0
+2198,united states,bangladesh,2,english,bangla,0,12329.588865730077,35900.0
+2199,united states,barbados,5,english,english,1,4238.51828680941,22100.0
+2200,united states,belgium,63,english,dutch,0,7403.762561921879,8700.0
+2201,united states,belize,7,english,english,1,2490.759345925513,32900.0
+2202,united states,bermuda,5,english,,0,2466.5237995660063,1800.0
+2203,united states,"bolivia, plurinational state of",4,english,,0,6835.680720159321,
+2204,united states,bosnia and herzegovina,1,english,bosnian,0,9527.67655150159,
+2205,united states,brazil,51,english,portuguese,0,9149.11447292096,30200.0
+2206,united states,brunei darussalam,1,english,,0,14782.6903878009,
+2207,united states,bulgaria,3,english,bulgarian,0,9912.672413155036,30200.0
+2208,united states,cambodia,3,english,khmer,0,12004.090167195805,35900.0
+2209,united states,canada,947,english,english,1,2046.5913474128517,8000.0
+2210,united states,cayman islands,9,english,,0,3059.967642734931,2800.0
+2211,united states,chile,11,english,spanish,0,8235.06488762629,27900.0
+2212,united states,china,131,english,chinese,0,10512.607688712531,32800.0
+2213,united states,colombia,23,english,spanish,0,5094.63262858404,31500.0
+2214,united states,costa rica,35,english,spanish,0,3803.998119415421,28700.0
+2215,united states,croatia,15,english,croatian,0,8822.346074786023,27200.0
+2216,united states,cuba,1,english,spanish,0,809.1613003015835,34900.0
+2217,united states,curaçao,4,english,,0,3310.1522962302006,
+2218,united states,cyprus,1,english,greek,0,9651.531664738439,18600.0
+2219,united states,czech republic,42,english,greek,0,7989.270777918301,22100.0
+2220,united states,denmark,75,english,danish,0,6984.189899795984,6700.0
+2221,united states,dominica,2,english,english,1,3445.3759578469153,32400.0
+2222,united states,dominican republic,15,english,spanish,0,2745.2912592001762,31800.0
+2223,united states,ecuador,7,english,spanish,0,4547.341621033778,34500.0
+2224,united states,egypt,10,english,arabic,0,11396.188372417388,33800.0
+2225,united states,el salvador,5,english,spanish,0,2537.9853669178306,33000.0
+2226,united states,estonia,10,english,estonian,0,8090.522642109737,25500.0
+2227,united states,ethiopia,1,english,oromo,0,12828.466744130545,37100.0
+2228,united states,falkland islands (malvinas),1,english,,0,12593.285824251328,
+2229,united states,faroe islands,1,english,,0,7735.646452394246,15800.0
+2230,united states,fiji,3,english,english,1,12516.145207788022,32000.0
+2231,united states,finland,33,english,finnish,0,8416.020466844479,10400.0
+2232,united states,france,360,english,french,0,7930.541084352329,10200.0
+2233,united states,french polynesia,2,english,,0,8374.084997429933,20300.0
+2234,united states,french southern territories,1,english,,0,15315.869174956573,
+2235,united states,germany,361,english,german,0,8468.338020587096,10200.0
+2236,united states,greece,42,english,greek,0,9299.464137917606,17800.0
+2237,united states,grenada,4,english,english,1,3905.134377270248,32800.0
+2238,united states,guadeloupe,1,english,,0,3002.2013140399154,29800.0
+2239,united states,guam,4,english,,0,9346.035912971114,16800.0
+2240,united states,guatemala,13,english,spanish,0,2786.954919131597,33700.0
+2241,united states,guernsey,2,english,,0,7972.224886496248,17800.0
+2242,united states,haiti,12,english,french,0,3022.7883843197387,36200.0
+2243,united states,holy see (vatican city state),80,english,,0,9114.751924356891,
+2244,united states,honduras,9,english,spanish,0,2560.2201840273715,35200.0
+2245,united states,hong kong,119,english,,0,12188.964283002326,9000.0
+2246,united states,hungary,19,english,hungarian,0,9583.68802545103,23900.0
+2247,united states,iceland,18,english,icelandic,0,6011.129220139821,6900.0
+2248,united states,india,52,english,hindi,0,13673.139134183282,34900.0
+2249,united states,indonesia,30,english,bahasa,0,14772.39493703876,34600.0
+2250,united states,"iran, islamic republic of",1,english,,0,9847.892896845786,
+2251,united states,iraq,1,english,arabic,0,12423.231774397198,36300.0
+2252,united states,ireland,84,english,english,1,6502.778855699114,8200.0
+2253,united states,israel,65,english,hebrew,0,10503.481024702474,18000.0
+2254,united states,italy,214,english,italian,0,8576.812202574745,11100.0
+2255,united states,jamaica,23,english,english,1,2489.8323105192185,33900.0
+2256,united states,japan,172,english,japanese,0,9128.899244212347,9600.0
+2257,united states,jordan,11,english,arabic,0,11033.85969935798,33500.0
+2258,united states,kazakhstan,1,english,kazakh,0,9992.747529275026,31500.0
+2259,united states,kenya,4,english,english,1,13646.527140153747,36800.0
+2260,united states,"korea, republic of",96,english,,0,10688.890708140465,
+2261,united states,kuwait,6,english,arabic,0,11443.67542649537,18800.0
+2262,united states,kyrgyzstan,1,english,kyrgyz,0,11541.406777889177,36200.0
+2263,united states,latvia,3,english,latvian,0,7574.6083915884055,27600.0
+2264,united states,lebanon,3,english,arabic,0,9582.218235712358,33000.0
+2265,united states,lesotho,1,english,sesotho,0,14892.30162779017,34800.0
+2266,united states,lithuania,2,english,lithuanian,0,8563.453159026696,26400.0
+2267,united states,luxembourg,5,english,luxembourgish,0,7412.922491247719,-17300.0
+2268,united states,macao,6,english,,0,12052.652856654766,
+2269,united states,"macedonia, the former yugoslav republic of",1,english,,0,9892.881439425882,
+2270,united states,malaysia,27,english,bahasa,0,14513.123193839525,28800.0
+2271,united states,malta,1,english,maltese,0,9799.567395941853,20100.0
+2272,united states,marshall islands,1,english,marshallese,0,7647.871486598777,36200.0
+2273,united states,mexico,319,english,spanish,0,2085.230933890347,28800.0
+2274,united states,monaco,13,english,french,0,8936.212610200624,10800.0
+2275,united states,mongolia,2,english,mongolian,0,10701.537291794424,36000.0
+2276,united states,montenegro,1,english,serbian,0,8690.77812085256,
+2277,united states,morocco,6,english,arabic,0,9146.042930241943,33800.0
+2278,united states,nepal,4,english,nepali,0,12444.176447923364,36400.0
+2279,united states,netherlands,192,english,dutch,0,8353.340668146413,9200.0
+2280,united states,new zealand,17,english,english,1,12155.794149579324,16200.0
+2281,united states,nicaragua,2,english,spanish,0,2893.8759031980526,35500.0
+2282,united states,nigeria,1,english,english,1,10513.506464930704,36900.0
+2283,united states,norway,76,english,norwegian,0,7456.476145287557,0.0
+2284,united states,oman,1,english,arabic,0,11324.923535335567,24700.0
+2285,united states,pakistan,1,english,punjabi,0,12161.11575087442,35700.0
+2286,united states,"palestine, state of",32,english,,0,10802.261648127056,
+2287,united states,panama,12,english,spanish,0,4257.823284521266,31500.0
+2288,united states,peru,24,english,spanish,0,5990.366176995199,32700.0
+2289,united states,philippines,26,english,filipino,0,11957.355422815592,33200.0
+2290,united states,poland,18,english,polish,0,8860.217033170698,26700.0
+2291,united states,portugal,20,english,portuguese,0,6476.114677644769,19800.0
+2292,united states,puerto rico,205,english,,0,3179.8905527161414,21000.0
+2293,united states,qatar,9,english,arabic,0,12471.797331129259,16300.0
+2294,united states,romania,3,english,romanian,0,8099.343734840657,30800.0
+2295,united states,russian federation,28,english,,0,8979.421958987565,
+2296,united states,rwanda,2,english,kinyarwanda,0,14259.976950427896,36500.0
+2297,united states,saint kitts and nevis,3,english,,0,3374.4666233668772,
+2298,united states,saint lucia,7,english,,0,3738.972264392793,32400.0
+2299,united states,saint martin (french part),1,english,,0,2728.4849003867416,
+2300,united states,saint vincent and the grenadines,5,english,,0,4458.491323348133,34900.0
+2301,united states,saudi arabia,37,english,arabic,0,11595.761450301517,26000.0
+2302,united states,senegal,3,english,french,0,6855.933007432916,36200.0
+2303,united states,serbia,1,english,serbian,0,10390.565952716568,35600.0
+2304,united states,singapore,83,english,english,1,14443.850700402716,14100.0
+2305,united states,sint maarten (dutch part),4,english,,0,4831.981832550593,
+2306,united states,slovakia,6,english,slovak,0,8658.862988271552,24500.0
+2307,united states,slovenia,3,english,slovene,0,9351.504196946878,18800.0
+2308,united states,south africa,32,english,isizulu,0,15318.78002029819,27100.0
+2309,united states,south georgia and the south sandwich islands,2,english,,0,14210.635935604567,
+2310,united states,spain,156,english,castilian,0,8460.519986096357,15800.0
+2311,united states,sri lanka,1,english,sinhala,0,15764.45831381647,34100.0
+2312,united states,svalbard and jan mayen,2,english,,0,6311.239947073599,
+2313,united states,sweden,134,english,swedish,0,7518.914067763051,11000.0
+2314,united states,switzerland,77,english,german,0,6952.309138272117,5100.0
+2315,united states,syrian arab republic,3,english,,0,11567.204978354806,
+2316,united states,"taiwan, province of china",57,english,,0,11439.299482628918,
+2317,united states,"tanzania, united republic of",1,english,,0,13781.266894526563,
+2318,united states,thailand,40,english,thai,0,13404.526301108956,30400.0
+2319,united states,trinidad and tobago,4,english,english,1,3620.846269527304,
+2320,united states,turkey,24,english,turkish,0,10264.65945964793,31100.0
+2321,united states,uganda,5,english,english,1,14083.294565851384,36400.0
+2322,united states,ukraine,8,english,ukrainian,0,9391.393025040046,32400.0
+2323,united states,united arab emirates,39,english,arabic,0,11619.268144326814,14600.0
+2324,united states,united kingdom,738,english,english,1,7317.12231302236,10100.0
+2325,united states,uruguay,4,english,spanish,0,9451.146880526374,25000.0
+2326,united states,vanuatu,1,english,bislama,0,9448.645951246894,34900.0
+2327,united states,"venezuela, bolivarian republic of",2,english,,0,2234.8004090544973,
+2328,united states,viet nam,18,english,,0,12741.247391520485,
+2329,united states,"virgin islands, british",10,english,,0,2784.8488892360733,
+2330,united states,"virgin islands, u.s.",48,english,,0,3562.7387238875826,
+2331,united states,zimbabwe,1,english,shona,0,14520.232514288839,35900.0
+2332,uruguay,argentina,5,spanish,spanish,1,646.4888558552844,1600.0
+2333,uruguay,brazil,7,spanish,portuguese,0,1687.535417730004,5200.0
+2334,uruguay,chile,1,spanish,spanish,1,1342.7293780021662,2900.0
+2335,uruguay,colombia,1,spanish,spanish,1,4784.908492375275,6500.0
+2336,uruguay,france,1,spanish,french,0,10979.080378072607,-14800.0
+2337,uruguay,germany,3,spanish,german,0,11557.637117481807,-14800.0
+2338,uruguay,peru,1,spanish,spanish,1,2944.297620125772,7700.0
+2339,uruguay,spain,6,spanish,castilian,0,9160.832251622964,-9200.0
+2340,uruguay,united states,5,spanish,english,0,8467.805261128942,-25000.0
+2341,"venezuela, bolivarian republic of",argentina,1,,spanish,0,5759.190272888806,
+2342,"venezuela, bolivarian republic of",ecuador,1,,spanish,0,1748.8260465353192,
+2343,"venezuela, bolivarian republic of",france,1,,french,0,7610.898590543669,
+2344,"venezuela, bolivarian republic of",panama,1,,spanish,0,1400.3118200769152,
+2345,"venezuela, bolivarian republic of",united states,2,,english,0,5126.6037430193255,
+2346,viet nam,cambodia,2,,khmer,0,231.80835914733532,
+2347,viet nam,canada,3,,english,0,11868.861333323317,
+2348,viet nam,china,5,,chinese,0,2760.7046014658085,
+2349,viet nam,denmark,1,,danish,0,9271.195504672076,
+2350,viet nam,france,3,,french,0,10308.102649478888,
+2351,viet nam,germany,3,,german,0,9520.759527445101,
+2352,viet nam,hong kong,7,,,0,1146.887588837189,
+2353,viet nam,india,1,,hindi,0,3313.780161391022,
+2354,viet nam,indonesia,3,,bahasa,0,2427.5668940560136,
+2355,viet nam,italy,1,,italian,0,8704.897520002089,
+2356,viet nam,japan,3,,japanese,0,4335.601780021423,
+2357,viet nam,malaysia,1,,bahasa,0,1048.0509655478709,
+2358,viet nam,netherlands,2,,dutch,0,9887.946389509087,
+2359,viet nam,norway,1,,norwegian,0,9346.855641988668,
+2360,viet nam,philippines,3,,filipino,0,1617.0523524126634,
+2361,viet nam,qatar,1,,arabic,0,6006.268137171468,
+2362,viet nam,singapore,6,,english,0,1263.6509510037333,
+2363,viet nam,spain,1,,castilian,0,9815.745164294523,
+2364,viet nam,switzerland,1,,german,0,9732.665740412625,
+2365,viet nam,"taiwan, province of china",5,,,0,2208.5594368358434,
+2366,viet nam,thailand,11,,thai,0,952.1987603650082,
+2367,viet nam,united kingdom,1,,english,0,10222.22163215201,
+2368,viet nam,united states,12,,english,0,13945.231169234119,
+2369,åland islands,finland,10,,finnish,0,301.8438414002817,
+2370,åland islands,sweden,6,,swedish,0,494.8472960321987,
+2371,åland islands,turkey,1,,turkish,0,2691.1744755424666,
