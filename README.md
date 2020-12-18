@@ -22,13 +22,15 @@ By relating the latitude and longitude coordinates of check-ins to the respectiv
 
 "loc-brightkite_totalCheckins.txt.gz" : [Check-ins from Brightkite](http://snap.stanford.edu/data/loc-brightkite.html)
 
-[Country Mapping - ISO, Continent, Region](https://www.kaggle.com/andradaolteanu/country-mapping-iso-continent-region)
+"countrycodes.csv" : [Country Mapping - ISO, Continent, Region](https://www.kaggle.com/andradaolteanu/country-mapping-iso-continent-region)
 
-[Countries of the world](https://www.kaggle.com/fernandol/countries-of-the-world)
+"countries_of_the_world.csv" : [Countries of the world](https://www.kaggle.com/fernandol/countries-of-the-world)
 
-[Language list by country and place](https://www.kaggle.com/zinovadr/language-list-by-country-and-place?select=Language+List+by+Country+and+Place.xlsx)
+"languages.xlsx" : [Language list by country and place](https://www.kaggle.com/zinovadr/language-list-by-country-and-place?select=Language+List+by+Country+and+Place.xlsx)
 
-[Continent - Country](https://www.kaggle.com/sarques/conticountry)
+"conti_country.csv" : [Continent - Country](https://www.kaggle.com/sarques/conticountry)
+
+"pop_per_country.csv" : column "population" of the dataset "countries_info.csv" from Tutorial 1
  
 ### Method:
 1. Get the previous results that we had about home locations of users
