@@ -8,7 +8,7 @@ ada-2020-project-milestone-p3-p3_runtime-error created by GitHub Classroom
 <p align="justify">The exponential increase of global interactions among people, caused by globalisation, lead to a dramatic change in our daily life, transforming our social, political and economic structure. 
 Our travelling habits are no exception in the radical changes we underwent in past few decades, the rapidity and facility with which we can reach nearly every part of the world has encouraged people to travel more, further and differently than in the past. 
 Being able to identify the predominant human fluxes and new travelling habits of citizens could be highly beneficial in a plethora of sectors and domains. For instance, never as today we can understand the importance of modelling the spreading of a virus across the world, only achievable with a solid knowledge of the peoples’ movements within and among countries. With these pieces of information governments could put in place ad hoc containment measures potentially more effective, as based on the true behaviour of human beings. In a business context, deeper knowledge of human mobility could be insightful to investigate the most and least popular travelling routes, in order to efficiently allocate resources and establish prices for example. For social studies, the study of the incoming and outgoing fluxes could reveal precious information on a population’s culture and habits.</p>
-There are clearly multiple approaches to investigate human mobility across the world, the one we are going to follow is based on the data gathered by two social networks, namely Gowalla and Brightkite, for which we have available a set of users and respective check-ins locations. 
+<p align="justify">There are clearly multiple approaches to investigate human mobility across the world, the one we are going to follow is based on the data gathered by two social networks, namely Gowalla and Brightkite, for which we have available a set of users and respective check-ins locations. 
 By relating the latitude and longitude coordinates of check-ins to the respective countries where the localization took place we can investigate the users’ movement, potentially in the home country and abroad. </p>
  
 ### Research questions: 
@@ -41,16 +41,16 @@ By relating the latitude and longitude coordinates of check-ins to the respectiv
 
 ### Timeline :
 
--    Week 1 :
+-    **Week 1** :
 1. Distribution of homes in the world  
 2. Definition of the geographical boundaries of our study
 
--    Week 2 :
+-    **Week 2** :
 1. Computing the main dataframe : number of travelers between pairs of countries
 2. Computing the 3 parameters : distance, languages and GDP.
 3. Polynomial regression. 
 
--    Week 3 : 
+-    **Week 3** : 
 1. Maps of fluxes 
 2. Write our data story
 3. Write a clear notebook 
@@ -58,7 +58,7 @@ By relating the latitude and longitude coordinates of check-ins to the respectiv
 
 ### Organization within the team : who did what ?
 
-Chiara :
+**Chiara** :
 - Definition of the geographical boundaries of our study
 - Polynomial regression
 - Maps of fluxes 
@@ -66,7 +66,7 @@ Chiara :
 - Write a clear notebook
 - Work on the communication video
 
-Cyril :
+**Cyril** :
 - Distribution of homes in the world
 - Computing the main dataframe : number of travelers between pairs of countries
 - Maps of fluxes
@@ -74,7 +74,7 @@ Cyril :
 - Write a clear notebook
 - Work on the communication video
 
-Matthieu :
+**Matthieu** :
 - Computing the main dataframe : number of travelers between pairs of countries
 - Computing the 3 parameters : distance, languages and GDP.
 - Polynomial regression
