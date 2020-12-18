@@ -14,7 +14,7 @@ By relating the latitude and longitude coordinates of check-ins to the respectiv
 ### Research questions: 
 1. What are the main fluxes of people over the world ?
 2. Have some countries different trips habits than others ?
-3. What is the influence of factors like the language, the distance or the GDP on travlling habits ?
+3. What is the influence of factors like the language, the distance or the GDP on traveling habits ?
 
 ### Datasets used 
 
