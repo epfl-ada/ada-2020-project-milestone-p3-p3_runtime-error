@@ -18,9 +18,9 @@ By relating the latitude and longitude coordinates of check-ins to the respectiv
 
 ### Datasets used 
 
-[Check-ins from Gowalla](https://snap.stanford.edu/data/loc-gowalla.html) 
+"loc-gowalla_totalCheckins.txt.gz" : [Check-ins from Gowalla](https://snap.stanford.edu/data/loc-gowalla.html) 
 
-[Check-ins from Brightkite](http://snap.stanford.edu/data/loc-brightkite.html)
+"loc-brightkite_totalCheckins.txt.gz" : [Check-ins from Brightkite](http://snap.stanford.edu/data/loc-brightkite.html)
 
 [Country Mapping - ISO, Continent, Region](https://www.kaggle.com/andradaolteanu/country-mapping-iso-continent-region)
 
